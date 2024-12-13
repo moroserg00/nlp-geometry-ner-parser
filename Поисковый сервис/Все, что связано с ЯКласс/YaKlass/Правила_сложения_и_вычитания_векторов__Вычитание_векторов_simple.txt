@@ -1,0 +1,107 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     <div>
+      Чтобы лучше понять закон вычитания векторов, нужно вспомнить свойство математических действий: сложения и вычитания.
+     </div>
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    Если
+    m
+    , то
+    m
+    .
+   </div>
+   <div>
+    Такое же свойство справедливо и для действий с векторами.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Чтобы вычесть вектор
+       m
+       из вектора
+       m
+       , нужно найти такой вектор
+       m
+       , сумма которого с вектором
+       m
+       составляла бы вектор
+       m
+       .
+      </div>
+     </div>
+    </div>
+    <img alt="Atnemsana1.png" class="gxs-resource-image" height="355" src="//ykl-res.azureedge.net/eca1ef5e-c518-4aab-a350-8e592a0c2458/Atnemsana1.png" width="268"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <div class="gxst-important">
+     <div class="gxst-ititle">
+      <span>
+       Обрати внимание!
+      </span>
+     </div>
+     <div class="gxst-ibody" title="Обрати внимание!">
+      <div>
+       Легче запомнить, как найти разность векторов
+       m
+       и
+       m
+       , следующим образом:
+      </div>
+      <div>
+       1) векторы нужно привести к общему началу l;
+      </div>
+      <div>
+       2) соединить конечные точки l и l;
+      </div>
+      <div>
+       3) отметить направление вектора разности от конечной точки уменьшителя к конечной точке уменьшаемого вектора.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    Вспомним закон параллелограмма для сложения векторов. По этому закону вектор суммы двух векторов, лежащих на сторонах параллелограмма с общей вершиной, проходит по длинной диагонали параллелограмма. Очевидно, что вектор разности проходит по короткой диагонали параллелограмма.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Atnemsana2.png" class="gxs-resource-image" height="416" src="//ykl-res.azureedge.net/05e65d16-e0f8-4cf0-8382-6cf1065b719e/Atnemsana2.png" width="454"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Заметим, что при вычитании вектора
+    m
+    из вектора
+    m
+    вектор разности
+    m
+    будет противоположен вектору
+    m
+    , то есть
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Atnemsana0.png" class="gxs-resource-image" height="343" src="//ykl-res.azureedge.net/1d8fc0ac-2c1f-48e1-a881-defd6f50ad23/Atnemsana0.png" width="273"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Atnemsana.png" class="gxs-resource-image" height="344" src="//ykl-res.azureedge.net/d298e51b-a5c8-4e05-8019-4a184c43c3a6/Atnemsana.png" width="276"/>
+   </div>
+  </div>
+ </div>
+</div>

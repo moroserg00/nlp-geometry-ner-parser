@@ -1,0 +1,765 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+         EF
+        </mi>
+<mo>
+         ∥
+        </mo>
+<mi mathvariant="italic">
+         AC
+        </mi>
+<mo>
+         ;
+        </mo>
+<mspace width="0.147em">
+</mspace>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+         EF
+        </mi>
+<mo>
+         =
+        </mo>
+<mfrac>
+<mi mathvariant="italic">
+          AC
+         </mi>
+<mn>
+          2
+         </mn>
+</mfrac>
+<mo>
+         .
+        </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+<mi mathvariant="italic">
+          BAC
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+          +
+         </mo>
+<mspace width="0.147em">
+</mspace>
+<mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+<mi mathvariant="italic">
+          ACB
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+          =
+         </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+          90
+         </mn>
+<mi mathvariant="normal">
+          °
+         </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+<mi mathvariant="italic">
+          CBD
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+          +
+         </mo>
+<mspace width="0.147em">
+</mspace>
+<mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+<mi mathvariant="italic">
+          DBA
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+          =
+         </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+          90
+         </mn>
+<mi mathvariant="normal">
+          °
+         </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+<mi mathvariant="italic">
+          BAC
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+          =
+         </mo>
+<mspace width="0.147em">
+</mspace>
+<mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+<mi mathvariant="italic">
+          CBD
+         </mi>
+<mo>
+          ,
+         </mo>
+<mspace width="0.294em">
+</mspace>
+<mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+<mi mathvariant="italic">
+          ACB
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+          =
+         </mo>
+<mspace width="0.147em">
+</mspace>
+<mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+<mi mathvariant="italic">
+          DBA
+         </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi mathvariant="normal">
+          Δ
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+          ABC
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+          ∼
+         </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="normal">
+          Δ
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+          ADB
+         </mi>
+<mo>
+          ,
+         </mo>
+<mspace width="0.294em">
+</mspace>
+<mi mathvariant="normal">
+          Δ
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+          ABC
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+          ∼
+         </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="normal">
+          Δ
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+          BDC
+         </mi>
+<mo>
+          ,
+         </mo>
+<mspace width="0.441em">
+</mspace>
+<mi mathvariant="normal">
+          Δ
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+          ADB
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+          ∼
+         </mo>
+<mi mathvariant="normal">
+          Δ
+         </mi>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+          BDC
+         </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<mfrac>
+<mi mathvariant="italic">
+             AB
+            </mi>
+<mi mathvariant="italic">
+             AD
+            </mi>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+            =
+           </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi mathvariant="italic">
+             AC
+            </mi>
+<mi mathvariant="italic">
+             AB
+            </mi>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+            =
+           </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi mathvariant="italic">
+             BC
+            </mi>
+<mi mathvariant="italic">
+             DB
+            </mi>
+</mfrac>
+<mo>
+            ;
+           </mo>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mfrac>
+<mi mathvariant="italic">
+             AB
+            </mi>
+<mi mathvariant="italic">
+             BD
+            </mi>
+</mfrac>
+<mo>
+            =
+           </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi mathvariant="italic">
+             AC
+            </mi>
+<mi mathvariant="italic">
+             BC
+            </mi>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+            =
+           </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi mathvariant="italic">
+             BC
+            </mi>
+<mi mathvariant="italic">
+             DC
+            </mi>
+</mfrac>
+<mo>
+            ;
+           </mo>
+<mspace width="0.147em">
+</mspace>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mfrac>
+<mi mathvariant="italic">
+             AD
+            </mi>
+<mi mathvariant="italic">
+             BD
+            </mi>
+</mfrac>
+<mo>
+            =
+           </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi mathvariant="italic">
+             AB
+            </mi>
+<mi mathvariant="italic">
+             BC
+            </mi>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+            =
+           </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi mathvariant="italic">
+             DB
+            </mi>
+<mi mathvariant="italic">
+             DC
+            </mi>
+</mfrac>
+<mo>
+            ;
+           </mo>
+<mspace width="0.147em">
+</mspace>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<mfrac>
+<mi mathvariant="italic">
+                   AB
+                  </mi>
+<mi mathvariant="italic">
+                   AD
+                  </mi>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                  =
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi mathvariant="italic">
+                   AC
+                  </mi>
+<mi mathvariant="italic">
+                   AB
+                  </mi>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+                  ⇒
+                 </mo>
+<msup>
+<mrow>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+                    AB
+                   </mi>
+</mrow>
+<mn>
+                   2
+                  </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                  =
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+                  AC
+                 </mi>
+<mo>
+                  ⋅
+                 </mo>
+<mi mathvariant="italic">
+                  AD
+                 </mi>
+<mspace width="0.147em">
+</mspace>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+                  ⇒
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+                  AB
+                 </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                  =
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<msqrt>
+<mrow>
+<mi mathvariant="italic">
+                    AC
+                   </mi>
+<mo>
+                    ⋅
+                   </mo>
+<mi mathvariant="italic">
+                    AD
+                   </mi>
+</mrow>
+</msqrt>
+<mo>
+                  ;
+                 </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mfrac>
+<mi mathvariant="italic">
+                   AC
+                  </mi>
+<mi mathvariant="italic">
+                   BC
+                  </mi>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                  =
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi mathvariant="italic">
+                   BC
+                  </mi>
+<mi mathvariant="italic">
+                   DC
+                  </mi>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+                  ⇒
+                 </mo>
+<msup>
+<mrow>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+                    BC
+                   </mi>
+</mrow>
+<mn>
+                   2
+                  </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                  =
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+                  AC
+                 </mi>
+<mo>
+                  ⋅
+                 </mo>
+<mi mathvariant="italic">
+                  DC
+                 </mi>
+<mspace width="0.147em">
+</mspace>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+                  ⇒
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+                  BC
+                 </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                  =
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<msqrt>
+<mrow>
+<mi mathvariant="italic">
+                    AC
+                   </mi>
+<mo>
+                    ⋅
+                   </mo>
+<mi mathvariant="italic">
+                    DC
+                   </mi>
+</mrow>
+</msqrt>
+<mo>
+                  ;
+                 </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mfrac>
+<mi mathvariant="italic">
+                   AD
+                  </mi>
+<mi mathvariant="italic">
+                   BD
+                  </mi>
+</mfrac>
+<mo>
+                  =
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi mathvariant="italic">
+                   DB
+                  </mi>
+<mi mathvariant="italic">
+                   DC
+                  </mi>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                  =
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mrow>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+                    BD
+                   </mi>
+</mrow>
+<mn>
+                   2
+                  </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                  =
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+                  AD
+                 </mi>
+<mo>
+                  ⋅
+                 </mo>
+<mi mathvariant="italic">
+                  DC
+                 </mi>
+<mspace width="0.147em">
+</mspace>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+                  ⇒
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+                  BD
+                 </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                  =
+                 </mo>
+<mspace width="0.147em">
+</mspace>
+<msqrt>
+<mrow>
+<mi mathvariant="italic">
+                    AD
+                   </mi>
+<mo>
+                    ⋅
+                   </mo>
+<mi mathvariant="italic">
+                    DC
+                   </mi>
+</mrow>
+</msqrt>
+<mo>
+                  .
+                 </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+                 A
+                </mi>
+<mn>
+                 1
+                </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+                 A
+                </mi>
+<mn>
+                 1
+                </mn>
+</msub>
+<mi>
+                B
+               </mi>
+<msub>
+<mi>
+                 C
+                </mi>
+<mn>
+                 1
+                </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+                 A
+                </mi>
+<mn>
+                 1
+                </mn>
+</msub>
+<msub>
+<mi>
+                 B
+                </mi>
+<mn>
+                 1
+                </mn>
+</msub>
+<msub>
+<mi>
+                 C
+                </mi>
+<mn>
+                 1
+                </mn>
+</msub>
+</mrow>
+</math>]

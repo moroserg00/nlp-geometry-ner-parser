@@ -1,0 +1,818 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfrac>
+<mi>
+             a
+            </mi>
+<mi mathvariant="italic">
+             sinA
+            </mi>
+</mfrac>
+<mo>
+            =
+           </mo>
+<mfrac>
+<mi>
+             b
+            </mi>
+<mi mathvariant="italic">
+             sinB
+            </mi>
+</mfrac>
+<mo>
+            =
+           </mo>
+<mfrac>
+<mi>
+             c
+            </mi>
+<mi mathvariant="italic">
+             sinC
+            </mi>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi mathvariant="italic">
+         sin
+        </mi>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+           180
+          </mn>
+<mi mathvariant="normal">
+           °
+          </mi>
+<mo>
+           −
+          </mo>
+<mi mathvariant="normal">
+           α
+          </mi>
+</mrow>
+</mfenced>
+<mo>
+         =
+        </mo>
+<mi mathvariant="italic">
+         sin
+        </mi>
+<mi mathvariant="normal">
+         α
+        </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+               sin120
+              </mi>
+<mi mathvariant="normal">
+               °
+              </mi>
+<mo>
+               =
+              </mo>
+<mi mathvariant="italic">
+               sin
+              </mi>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+                 180
+                </mn>
+<mi mathvariant="normal">
+                 °
+                </mi>
+<mo>
+                 −
+                </mo>
+<mn>
+                 60
+                </mn>
+<mi mathvariant="normal">
+                 °
+                </mi>
+</mrow>
+</mfenced>
+<mo>
+               =
+              </mo>
+<mi mathvariant="italic">
+               sin60
+              </mi>
+<mi mathvariant="normal">
+               °
+              </mi>
+<mo>
+               =
+              </mo>
+<mfrac>
+<msqrt>
+<mn>
+                 3
+                </mn>
+</msqrt>
+<mn>
+                2
+               </mn>
+</mfrac>
+<mo>
+               ;
+              </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+               sin150
+              </mi>
+<mi mathvariant="normal">
+               °
+              </mi>
+<mo>
+               =
+              </mo>
+<mi mathvariant="italic">
+               sin
+              </mi>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+                 180
+                </mn>
+<mi mathvariant="normal">
+                 °
+                </mi>
+<mo>
+                 −
+                </mo>
+<mn>
+                 30
+                </mn>
+<mi mathvariant="normal">
+                 °
+                </mi>
+</mrow>
+</mfenced>
+<mo>
+               =
+              </mo>
+<mi mathvariant="italic">
+               sin30
+              </mi>
+<mi mathvariant="normal">
+               °
+              </mi>
+<mo>
+               =
+              </mo>
+<mfrac>
+<mn>
+                1
+               </mn>
+<mn>
+                2
+               </mn>
+</mfrac>
+<mo>
+               ;
+              </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+               sin135
+              </mi>
+<mi mathvariant="normal">
+               °
+              </mi>
+<mo>
+               =
+              </mo>
+<mi mathvariant="italic">
+               sin
+              </mi>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+                 180
+                </mn>
+<mi mathvariant="normal">
+                 °
+                </mi>
+<mo>
+                 −
+                </mo>
+<mn>
+                 45
+                </mn>
+<mi mathvariant="normal">
+                 °
+                </mi>
+</mrow>
+</mfenced>
+<mo>
+               =
+              </mo>
+<mi mathvariant="italic">
+               sin45
+              </mi>
+<mi mathvariant="normal">
+               °
+              </mi>
+<mo>
+               =
+              </mo>
+<mfrac>
+<msqrt>
+<mn>
+                 2
+                </mn>
+</msqrt>
+<mn>
+                2
+               </mn>
+</mfrac>
+<mo>
+               .
+              </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfrac>
+<mi>
+           a
+          </mi>
+<mi mathvariant="italic">
+           sinA
+          </mi>
+</mfrac>
+<mo>
+          =
+         </mo>
+<mfrac>
+<mi>
+           b
+          </mi>
+<mi mathvariant="italic">
+           sinB
+          </mi>
+</mfrac>
+<mo>
+          =
+         </mo>
+<mfrac>
+<mi>
+           c
+          </mi>
+<mi mathvariant="italic">
+           sinC
+          </mi>
+</mfrac>
+<mo>
+          =
+         </mo>
+<mn>
+          2
+         </mn>
+<mi>
+          R
+         </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>
+        R
+       </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+        =
+       </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi>
+         a
+        </mi>
+<mrow>
+<mn>
+          2
+         </mn>
+<mi mathvariant="italic">
+          sinA
+         </mi>
+</mrow>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>
+        R
+       </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+        =
+       </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi>
+         b
+        </mi>
+<mrow>
+<mn>
+          2
+         </mn>
+<mi mathvariant="italic">
+          sinB
+         </mi>
+</mrow>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>
+        R
+       </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+        =
+       </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mi>
+         c
+        </mi>
+<mrow>
+<mn>
+          2
+         </mn>
+<mi mathvariant="italic">
+          sinC
+         </mi>
+</mrow>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>
+             a
+            </mi>
+<mn>
+             2
+            </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+            =
+           </mo>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mi>
+             b
+            </mi>
+<mn>
+             2
+            </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+            +
+           </mo>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mi>
+             c
+            </mi>
+<mn>
+             2
+            </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+            −
+           </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+            2
+           </mn>
+<mo>
+            ⋅
+           </mo>
+<mi>
+            b
+           </mi>
+<mo>
+            ⋅
+           </mo>
+<mi>
+            c
+           </mi>
+<mo>
+            ⋅
+           </mo>
+<mi mathvariant="italic">
+            cosA
+           </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>
+          b
+         </mi>
+<mn>
+          2
+         </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mi>
+          a
+         </mi>
+<mn>
+          2
+         </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         +
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mi>
+          c
+         </mi>
+<mn>
+          2
+         </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         −
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+         2
+        </mn>
+<mo>
+         ⋅
+        </mo>
+<mi>
+         a
+        </mi>
+<mo>
+         ⋅
+        </mo>
+<mi>
+         c
+        </mi>
+<mo>
+         ⋅
+        </mo>
+<mi mathvariant="italic">
+         cosB
+        </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mi>
+          c
+         </mi>
+<mn>
+          2
+         </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mi>
+          a
+         </mi>
+<mn>
+          2
+         </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         +
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mi>
+          b
+         </mi>
+<mn>
+          2
+         </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         −
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+         2
+        </mn>
+<mo>
+         ⋅
+        </mo>
+<mi>
+         a
+        </mi>
+<mo>
+         ⋅
+        </mo>
+<mi>
+         b
+        </mi>
+<mo>
+         ⋅
+        </mo>
+<mi mathvariant="italic">
+         cosC
+        </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi mathvariant="italic">
+          cos
+         </mi>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+            180
+           </mn>
+<mi mathvariant="normal">
+            °
+           </mi>
+<mo>
+            −
+           </mo>
+<mi mathvariant="normal">
+            α
+           </mi>
+</mrow>
+</mfenced>
+<mo>
+          =
+         </mo>
+<mo>
+          −
+         </mo>
+<mi mathvariant="italic">
+          cos
+         </mi>
+<mi mathvariant="normal">
+          α
+         </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+                cos120
+               </mi>
+<mi mathvariant="normal">
+                °
+               </mi>
+<mo>
+                =
+               </mo>
+<mi mathvariant="italic">
+                cos
+               </mi>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+                  180
+                 </mn>
+<mi mathvariant="normal">
+                  °
+                 </mi>
+<mo>
+                  −
+                 </mo>
+<mn>
+                  60
+                 </mn>
+<mi mathvariant="normal">
+                  °
+                 </mi>
+</mrow>
+</mfenced>
+<mo>
+                =
+               </mo>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                −
+               </mo>
+<mi mathvariant="italic">
+                cos60
+               </mi>
+<mi mathvariant="normal">
+                °
+               </mi>
+<mo>
+                =
+               </mo>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                −
+               </mo>
+<mfrac>
+<mn>
+                 1
+                </mn>
+<mn>
+                 2
+                </mn>
+</mfrac>
+<mo>
+                ;
+               </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+                cos150
+               </mi>
+<mi mathvariant="normal">
+                °
+               </mi>
+<mo>
+                =
+               </mo>
+<mi mathvariant="italic">
+                cos
+               </mi>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+                  180
+                 </mn>
+<mi mathvariant="normal">
+                  °
+                 </mi>
+<mo>
+                  −
+                 </mo>
+<mn>
+                  30
+                 </mn>
+<mi mathvariant="normal">
+                  °
+                 </mi>
+</mrow>
+</mfenced>
+<mo>
+                =
+               </mo>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                −
+               </mo>
+<mi mathvariant="italic">
+                cos30
+               </mi>
+<mi mathvariant="normal">
+                °
+               </mi>
+<mo>
+                =
+               </mo>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                −
+               </mo>
+<mfrac>
+<msqrt>
+<mn>
+                  3
+                 </mn>
+</msqrt>
+<mn>
+                 2
+                </mn>
+</mfrac>
+<mo>
+                ;
+               </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+                cos135
+               </mi>
+<mi mathvariant="normal">
+                °
+               </mi>
+<mo>
+                =
+               </mo>
+<mi mathvariant="italic">
+                cos
+               </mi>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+                  180
+                 </mn>
+<mi mathvariant="normal">
+                  °
+                 </mi>
+<mo>
+                  −
+                 </mo>
+<mn>
+                  45
+                 </mn>
+<mi mathvariant="normal">
+                  °
+                 </mi>
+</mrow>
+</mfenced>
+<mo>
+                =
+               </mo>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                −
+               </mo>
+<mi mathvariant="italic">
+                cos45
+               </mi>
+<mi mathvariant="normal">
+                °
+               </mi>
+<mo>
+                =
+               </mo>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                −
+               </mo>
+<mfrac>
+<msqrt>
+<mn>
+                  2
+                 </mn>
+</msqrt>
+<mn>
+                 2
+                </mn>
+</mfrac>
+<mo>
+                .
+               </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>]

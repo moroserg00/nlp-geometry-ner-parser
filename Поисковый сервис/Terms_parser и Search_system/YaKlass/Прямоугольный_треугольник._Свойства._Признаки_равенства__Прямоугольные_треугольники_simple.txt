@@ -1,0 +1,360 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Свойства прямоугольного треугольника.
+    </div>
+   </div>
+   <div>
+    <img alt="Taisnl_ip1.png" class="gxs-resource-image" height="313" src="//ykl-res.azureedge.net/60b13726-506d-4483-b951-33b3ce33fa0d/Taisnl_ip1.png" width="232"/>
+   </div>
+   <div class="gxst-theory">
+    <div>
+     Сумма двух острых углов прямоугольного треугольника равна
+     m
+     .
+    </div>
+   </div>
+   <div>
+    Сумма углов треугольника равна
+    m
+    , а прямой угол равен
+    m
+    , поэтому сумма двух острых углов прямоугольного треугольника
+    m
+    l l
+    m
+    l
+    m
+    .
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Катет прямоугольного треугольника, лежащий против угла в
+      m
+      , равен половине гипотенузы (гипотенуза в два раза длиннее катета, лежащего против угла в l
+      m
+      l).
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Taisnl_ip2.png" class="gxs-resource-image" height="341" src="//ykl-res.azureedge.net/e8fe0e82-dd4e-4d4b-a0d6-d061af72026e/Taisnl_ip2.png" width="453"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Рассмотрим прямоугольный треугольник l, в котором
+    m
+    l — прямой,
+    m
+    l
+    m
+    , и значит, что
+    m
+    l
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Докажем, что l.
+    <br/>
+    Приложим к треугольнику l равный ему треугольник l, как показано на рисунке.
+   </div>
+   <div>
+    Получим треугольник l, в котором
+    m
+    l
+    m
+    l
+    m
+    , поэтому l. Но l. Следовательно, l.
+   </div>
+   <div>
+   </div>
+   <div>
+    Справедливо и обратное суждение.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Если катет прямоугольного треугольника равен половине гипотенузы (или гипотенуза в два раза длиннее катета), то угол, лежащий против этого катета, равен
+      m
+      .
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="gxst-title">
+     Признаки равенства прямоугольных треугольников.
+    </div>
+    Основываясь на общих признаках равенства треугольников для прямоугольных треугольников можно сформулировать свои признаки равенства, потому что в прямоугольном треугольнике угол между двумя катетами — прямой, а любые два прямых угла равны.
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div class="gxst-definition">
+          <div>
+           <div>
+            <div>
+             1. Если
+             <strong>
+              <strong>
+               <span class="gxst-color-emph">
+                <strong>
+                 <strong>
+                  катеты
+                 </strong>
+                </strong>
+               </span>
+              </strong>
+             </strong>
+             одного прямоугольного треугольника соответственно равны катетам другого, то такие треугольники равны.
+            </div>
+            <div>
+            </div>
+            <div>
+             2. Если
+             <strong>
+              <strong>
+               <span class="gxst-color-emph">
+                <strong>
+                 <strong>
+                  катет
+                 </strong>
+                </strong>
+               </span>
+              </strong>
+             </strong>
+             <strong>
+              <strong>
+               <span class="gxst-color-emph">
+                <strong>
+                 <strong>
+                  и
+                 </strong>
+                </strong>
+               </span>
+              </strong>
+             </strong>
+             <strong>
+              <strong>
+               <strong>
+                <strong>
+                 <span class="gxst-color-emph">
+                  <strong>
+                   <strong>
+                    <strong>
+                     <strong>
+                      прилежащий
+                     </strong>
+                    </strong>
+                   </strong>
+                  </strong>
+                 </span>
+                </strong>
+               </strong>
+              </strong>
+             </strong>
+             <strong>
+              <strong>
+               <strong>
+                <strong>
+                 <span class="gxst-color-emph">
+                  <strong>
+                   <strong>
+                    <strong>
+                     <strong>
+                      к
+                     </strong>
+                    </strong>
+                   </strong>
+                  </strong>
+                 </span>
+                </strong>
+               </strong>
+              </strong>
+             </strong>
+             <strong>
+              <strong>
+               <strong>
+                <strong>
+                 <span class="gxst-color-emph">
+                  <strong>
+                   <strong>
+                    <strong>
+                     <strong>
+                      нему
+                     </strong>
+                    </strong>
+                   </strong>
+                  </strong>
+                 </span>
+                </strong>
+               </strong>
+              </strong>
+             </strong>
+             <strong>
+              <strong>
+               <span class="gxst-color-emph">
+                <strong>
+                 <strong>
+                  острый
+                 </strong>
+                </strong>
+               </span>
+              </strong>
+             </strong>
+             <strong>
+              <strong>
+               <span class="gxst-color-emph">
+                <strong>
+                 <strong>
+                  угол
+                 </strong>
+                </strong>
+               </span>
+              </strong>
+             </strong>
+             одного прямоугольного треугольника соответственно равны катету и прилежащему к нему острому углу другого, то такие треугольники равны.
+            </div>
+            <div>
+            </div>
+            <div>
+             3. Если
+             <strong>
+              <strong>
+               <strong>
+                <strong>
+                 <span class="gxst-color-emph">
+                  <strong>
+                   <strong>
+                    <strong>
+                     <strong>
+                      гипотенуза
+                     </strong>
+                    </strong>
+                   </strong>
+                  </strong>
+                 </span>
+                </strong>
+               </strong>
+              </strong>
+             </strong>
+             <strong>
+              <strong>
+               <strong>
+                <strong>
+                 <span class="gxst-color-emph">
+                  <strong>
+                   <strong>
+                    <strong>
+                     <strong>
+                      и
+                     </strong>
+                    </strong>
+                   </strong>
+                  </strong>
+                 </span>
+                </strong>
+               </strong>
+              </strong>
+             </strong>
+             <strong>
+              <strong>
+               <strong>
+                <strong>
+                 <span class="gxst-color-emph">
+                  <strong>
+                   <strong>
+                    <strong>
+                     <strong>
+                      острый
+                     </strong>
+                    </strong>
+                   </strong>
+                  </strong>
+                 </span>
+                </strong>
+               </strong>
+              </strong>
+             </strong>
+             <strong>
+              <strong>
+               <strong>
+                <strong>
+                 <span class="gxst-color-emph">
+                  <strong>
+                   <strong>
+                    <strong>
+                     <strong>
+                      угол
+                     </strong>
+                    </strong>
+                   </strong>
+                  </strong>
+                 </span>
+                </strong>
+               </strong>
+              </strong>
+             </strong>
+             одного прямоугольного треугольника соответственно равны гипотенузе и острому углу другого, то такие треугольники равны.
+            </div>
+            <div>
+            </div>
+            <div>
+             4. Если
+             <strong>
+              <strong>
+               <span class="gxst-color-emph">
+                <strong>
+                 <strong>
+                  гипотенуза
+                 </strong>
+                </strong>
+               </span>
+              </strong>
+             </strong>
+             <strong>
+              <strong>
+               <span class="gxst-color-emph">
+                <strong>
+                 <strong>
+                  и
+                 </strong>
+                </strong>
+               </span>
+              </strong>
+             </strong>
+             <strong>
+              <strong>
+               <span class="gxst-color-emph">
+                <strong>
+                 <strong>
+                  катет
+                 </strong>
+                </strong>
+               </span>
+              </strong>
+             </strong>
+             одного прямоугольного треугольника соответственно равны гипотенузе и катету другого, то такие треугольники равны.
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,245 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Сравнение геометрических фигур.
+    </div>
+    В геометрии две фигуры, имеющие одинаковую форму и одинаковые размеры, называют равными.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Сладости с силуетами.svg" class="gxs-resource-image" height="206" src="//ykl-res.azureedge.net/281e0da9-6e65-4ef4-93b7-e91b44a1b528/%D0%A1%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8%D1%81%D1%81%D0%B8%D0%BB%D1%83%D0%B5%D1%82%D0%B0%D0%BC%D0%B8.svg" width="500"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Сравнение позволяет судить о равности фигур, и один из способов сравнить фигуры — наложение.
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       Если две геометрические фигуры удаётся совместить наложением, они — равные.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="gxst-title">
+     Сравнение отрезков и углов.
+    </div>
+   </div>
+   <div>
+    <strong>
+     Как происходит совмещение отрезков
+    </strong>
+    <strong>
+     <font class="gxst-color-emph">
+      \(AB\)
+     </font>
+     и
+     <font class="gxst-color-emph">
+      \(CD\)
+     </font>
+     ?
+    </strong>
+   </div>
+   <div>
+    Конец \(A\) одного отрезка совмещается с концом \(C\) другого отрезка. Если совпадают и другие концы \(B\) и \(D\), то эти отрезки равны \(AB\) \(=\) \(CD\).
+   </div>
+   <div>
+    <img alt="Nogriezni_savieto1.png" class="gxs-resource-image" height="180" src="//ykl-res.azureedge.net/2d26f76d-4189-4974-80c9-38e3b1ccfae5/Nogriezni_savieto1.png" width="403"/>
+   </div>
+   <div>
+    Если нет, то один отрезок меньше другого, и этот факт записывают так же, как при сравнении чисел:
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mi mathvariant="italic">
+       AB
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       &lt;
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi mathvariant="italic">
+       CD
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    <img alt="Nogriezni_savieto2.png" class="gxs-resource-image" height="176" src="//ykl-res.azureedge.net/3c64d80e-ce62-43a4-947c-92270521e8fd/Nogriezni_savieto2.png" width="447"/>
+   </div>
+   <div>
+    Если совместить один конец отрезка с другим, то одна половина отрезка будет совмещена с другой.
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       На отрезке точку, которая отрезок делит на две равные части, называют
+       <font class="gxst-color-emph">
+        серединной точкой
+       </font>
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="отрезок.png" class="gxs-resource-image" height="69" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/7b43a914-7aea-46cf-9be4-27547e6bf8b5/%D0%BE%D1%82%D1%80%D0%B5%D0%B7%D0%BE%D0%BAw400.png" srcset="//ykl-res.azureedge.net/7b43a914-7aea-46cf-9be4-27547e6bf8b5/%D0%BE%D1%82%D1%80%D0%B5%D0%B7%D0%BE%D0%BAw400.png 400w, //ykl-res.azureedge.net/6a6d3c56-97f2-4499-aeff-d50781410509/%D0%BE%D1%82%D1%80%D0%B5%D0%B7%D0%BE%D0%BAw429.png 429w" width="400"/>
+   </div>
+   <div>
+    Если точка \(K\) — серединная точка отрезка \(TL\), то \(TK\) \(=\) \(KL\).
+   </div>
+   <div>
+   </div>
+   <div>
+    <strong>
+     Как происходит совмещение углов
+    </strong>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="verythickmathspace" rspace="verythickmathspace">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       ABC
+      </mi>
+     </mrow>
+    </math>
+    <strong>
+     и
+    </strong>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       MNK
+      </mi>
+     </mrow>
+    </math>
+    <strong>
+     ?
+    </strong>
+   </div>
+   <div>
+    Вершину \(B\) одного угла совмещают с вершиной \(N\) другого угла и сторону \(BA\) одного угла накладывают на сторону \(NM\) другого угла так, чтобы другие стороны \(BC\) и \(NK\) были по одну сторону от совместившихся сторон. Если совпадут и другие стороны, то углы равны:
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="verythickmathspace" rspace="verythickmathspace">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       ABC
+      </mi>
+     </mrow>
+    </math>
+    \(=\)
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       MNK
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    <img alt="Lenkis_savieto1.png" class="gxs-resource-image" height="305" src="//ykl-res.azureedge.net/454be307-5bfa-4e5c-bc04-7c996e09967f/Lenkis_savieto1.png" width="523"/>
+   </div>
+   <div>
+    Если нет, то один угол — меньше другого.
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="verythickmathspace" rspace="verythickmathspace">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       ABC
+      </mi>
+     </mrow>
+    </math>
+    \(&lt;\)
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       MNK
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    <img alt="Lenkis_savieto2.png" class="gxs-resource-image" height="305" src="//ykl-res.azureedge.net/67b83d77-2172-474d-8b19-6ef4b08cb216/Lenkis_savieto2.png" width="524"/>
+   </div>
+   <div class="gxst-definition">
+    <div>
+     <div>
+      Луч, исходящий из вершины угла и делящий угол пополам, называется
+      <font class="gxst-color-emph">
+       биссектрисой
+      </font>
+      угла.
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="углы 2.png" class="gxs-resource-image" height="335" src="//ykl-res.azureedge.net/8f8945ec-513e-4be2-9afd-2d3568f6618a/%D1%83%D0%B3%D0%BB%D1%8B2.png" width="496"/>
+   </div>
+   <div>
+    Если сложить угол
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       ECD
+      </mi>
+     </mrow>
+    </math>
+    по биссектрисе \(CG\), то обе стороны угла совпадут, и
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       ECG
+      </mi>
+      <mo>
+       =
+      </mo>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       GCD
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+  </div>
+  
+ </div>
+</div>

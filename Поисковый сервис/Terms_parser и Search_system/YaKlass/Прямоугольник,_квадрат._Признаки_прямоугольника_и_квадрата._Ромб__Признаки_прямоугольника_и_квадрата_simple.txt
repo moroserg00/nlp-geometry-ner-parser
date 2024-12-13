@@ -1,0 +1,86 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Признаки прямоугольника.
+    </div>
+   </div>
+   <div>
+    <img alt="1 Прямоугольник.png" class="gxs-resource-image" height="214" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/7e621813-2f7a-4d4b-88f6-a2a8f4ab51fc/1%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BAw300.png" srcset="//ykl-res.azureedge.net/7e621813-2f7a-4d4b-88f6-a2a8f4ab51fc/1%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BAw300.png 300w, //ykl-res.azureedge.net/6990334b-a786-417c-9033-bad278e17c18/1%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.png 498w" width="300"/>
+   </div>
+   <div>
+   </div>
+   С помощью этих признаков можно определить, является ли параллелограмм или четырёхугольник
+   <span>
+    <span class="gxst-emph">
+     <span>
+      прямоугольником
+     </span>
+    </span>
+    .
+   </span>
+   <br/>
+   <div>
+    <div>
+     <div>
+      <div class="gxst-theory">
+       <div>
+        <div>
+         1. Если три угла четырёхугольника прямые, то этот четырёхугольник является прямоугольником.
+        </div>
+        <div>
+         2. Если один угол параллелограмма прямой, то этот параллелограмм является прямоугольником.
+        </div>
+        <div>
+         3. Если диагонали параллелограмма равны, то этот параллелограмм является прямоугольником.
+        </div>
+       </div>
+      </div>
+     </div>
+     <div>
+      <div class="gxst-title">
+       Признаки квадрата.
+      </div>
+     </div>
+     <div>
+      <img alt="1 квадрат.png" class="gxs-resource-image" height="311" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/fc070c81-920a-47a4-8aab-00503a33ac62/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82w300.png" srcset="//ykl-res.azureedge.net/fc070c81-920a-47a4-8aab-00503a33ac62/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82w300.png 300w, //ykl-res.azureedge.net/fc0ebbb8-fdae-4abd-befb-0fab8807efd7/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82.png 429w" width="300"/>
+     </div>
+    </div>
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    С помощью этих признаков можно определить, является ли прямоугольник или ромб
+    <span>
+     <span class="gxst-emph">
+      <span>
+       квадратом
+      </span>
+     </span>
+     .
+    </span>
+   </div>
+   <div class="gxst-theory">
+    <div>
+     <div>
+      <div>
+       1. Если две смежные стороны прямоугольника равны, то этот прямоугольник является квадратом.
+      </div>
+     </div>
+     <div>
+      2. Если диагонали прямоугольника перпендикулярны, то этот прямоугольник является квадратом.
+     </div>
+     <div>
+      3. Если один из углов ромба прямой, то этот ромб является квадратом.
+     </div>
+     <div>
+      4. Если диагонали ромба равны, то этот ромб является квадратом.
+     </div>
+    </div>
+   </div>
+   <div>
+   </div>
+  </div>
+ </div>
+</div>

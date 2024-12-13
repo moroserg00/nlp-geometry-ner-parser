@@ -1,0 +1,1 @@
+['\\(a+c=b+d\\)', '\\(AB = AK + KB\\)', '\\(BC = BL + LC\\)', '\\(CD = CM + MD\\)', '\\(AD = DN + NA\\)', '\\(AB + CD = BC + AD\\)']

@@ -1,0 +1,155 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+                    ∢
+                   </mo>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+                     ∢
+                    </mo>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+                     ∢
+                    </mo>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+                     ∢
+                    </mo>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi mathvariant="normal">
+                   Δ
+                  </mi>
+<mi mathvariant="italic">
+                   ABC
+                  </mi>
+<mo>
+                   ∼
+                  </mo>
+<mi mathvariant="normal">
+                   Δ
+                  </mi>
+<mi mathvariant="italic">
+                   DEF
+                  </mi>
+<mo>
+                   .
+                  </mo>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfrac>
+<mi mathvariant="italic">
+                   AB
+                  </mi>
+<mi mathvariant="italic">
+                   DE
+                  </mi>
+</mfrac>
+<mo>
+                  =
+                 </mo>
+<mfrac>
+<mi mathvariant="italic">
+                   AC
+                  </mi>
+<mi mathvariant="italic">
+                   DF
+                  </mi>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+                  ∢
+                 </mo>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+                  ∢
+                 </mo>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi mathvariant="normal">
+                  Δ
+                 </mi>
+<mi mathvariant="italic">
+                  ABC
+                 </mi>
+<mo>
+                  ∼
+                 </mo>
+<mi mathvariant="normal">
+                  Δ
+                 </mi>
+<mi mathvariant="italic">
+                  DEF
+                 </mi>
+<mo>
+                  .
+                 </mo>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfrac>
+<mi mathvariant="italic">
+                     AB
+                    </mi>
+<mi mathvariant="italic">
+                     DE
+                    </mi>
+</mfrac>
+<mo>
+                    =
+                   </mo>
+<mfrac>
+<mi mathvariant="italic">
+                     BC
+                    </mi>
+<mi mathvariant="italic">
+                     EF
+                    </mi>
+</mfrac>
+<mo>
+                    =
+                   </mo>
+<mfrac>
+<mi mathvariant="italic">
+                     AC
+                    </mi>
+<mi mathvariant="italic">
+                     DF
+                    </mi>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi mathvariant="normal">
+                    Δ
+                   </mi>
+<mi mathvariant="italic">
+                    ABC
+                   </mi>
+<mo>
+                    ∼
+                   </mo>
+<mi mathvariant="normal">
+                    Δ
+                   </mi>
+<mi mathvariant="italic">
+                    DEF
+                   </mi>
+<mo>
+                    .
+                   </mo>
+</mrow>
+</math>]

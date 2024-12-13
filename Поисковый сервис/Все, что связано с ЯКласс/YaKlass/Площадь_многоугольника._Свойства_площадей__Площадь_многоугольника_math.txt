@@ -1,0 +1,224 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<mn>
+         1
+        </mn>
+<msup>
+<mrow>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+           см
+          </mi>
+</mrow>
+<mn>
+          2
+         </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+         10
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+         мм
+        </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         ⋅
+        </mo>
+<mn>
+         10
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+         мм
+        </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+         100
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mi mathvariant="italic">
+          мм
+         </mi>
+<mn>
+          2
+         </mn>
+</msup>
+<mo>
+         ;
+        </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>
+         1
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mi>
+          м
+         </mi>
+<mn>
+          2
+         </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+         100
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+         см
+        </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         ⋅
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+         100
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+         см
+        </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+         10000
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mi mathvariant="italic">
+          см
+         </mi>
+<mn>
+          2
+         </mn>
+</msup>
+<mo>
+         ;
+        </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>
+         1
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mi mathvariant="italic">
+          км
+         </mi>
+<mn>
+          2
+         </mn>
+</msup>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+         100000
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+         см
+        </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         ⋅
+        </mo>
+<mn>
+         100000
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+         см
+        </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+         10000000000
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mi mathvariant="italic">
+          см
+         </mi>
+<mn>
+          2
+         </mn>
+</msup>
+<mo>
+         .
+        </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>]

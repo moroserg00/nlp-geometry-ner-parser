@@ -1,0 +1,1094 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    Длина направленного отрезка определяет числовое значение вектора и называется длиной, или модулем, вектора.
+   </div>
+   <div>
+    Дан вектор
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mi mathvariant="italic">
+        AB
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mo>
+       =
+      </mo>
+      <mfenced close="}" open="{">
+       <mrow>
+        <mi>
+         x
+        </mi>
+        <mo>
+         ;
+        </mo>
+        <mi>
+         y
+        </mi>
+       </mrow>
+      </mfenced>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="векторы-модуль-формула.png" class="gxs-resource-image" src="//ykl-res.azureedge.net/671fb485-9ce9-4b24-a791-6b25002f0681/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0.png"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Из теоремы Пифагора следует, что в треугольнике \(ABC\) длина отрезка \(AB\), которая является модулем вектора
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mi mathvariant="italic">
+        AB
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+     </mrow>
+    </math>
+    , равна
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msqrt>
+       <mrow>
+        <msup>
+         <mi mathvariant="italic">
+          AC
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mo>
+         +
+        </mo>
+        <msup>
+         <mi mathvariant="italic">
+          CB
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+       </mrow>
+      </msqrt>
+     </mrow>
+    </math>
+    , и, следовательно, модуль (длина) вектора
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mi mathvariant="italic">
+        AB
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+     </mrow>
+    </math>
+    рассчитывается по формуле
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mfenced close="|" open="|">
+       <mover>
+        <mi mathvariant="italic">
+         AB
+        </mi>
+        <mo>
+         →
+        </mo>
+       </mover>
+      </mfenced>
+      <mo>
+       =
+      </mo>
+      <msqrt>
+       <mrow>
+        <msup>
+         <mi>
+          x
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mo>
+         +
+        </mo>
+        <msup>
+         <mi>
+          y
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+       </mrow>
+      </msqrt>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    <div>
+     <div class="gxst-example">
+      <div class="gxst-ititle">
+       <span>
+        Пример:
+       </span>
+      </div>
+      <div class="gxst-ibody">
+       <div>
+        вычисли длину вектора
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover>
+           <mi mathvariant="italic">
+            AB
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+          <mo>
+           =
+          </mo>
+          <mfenced close="}" open="{">
+           <mrow>
+            <mn>
+             5
+            </mn>
+            <mo>
+             ;
+            </mo>
+            <mn>
+             3
+            </mn>
+           </mrow>
+          </mfenced>
+         </mrow>
+        </math>
+        .
+       </div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <div>
+            <div>
+             <div>
+              <div>
+               <div>
+                <div>
+                 <div>
+                  <div>
+                   <div>
+                    <div>
+                     <div>
+                      <div>
+                       <div>
+                        Решение:
+                        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+                         <mrow>
+                          <mfenced close="|" open="|">
+                           <mover>
+                            <mi mathvariant="italic">
+                             AB
+                            </mi>
+                            <mo>
+                             →
+                            </mo>
+                           </mover>
+                          </mfenced>
+                          <mo>
+                           =
+                          </mo>
+                          <msqrt>
+                           <mrow>
+                            <msup>
+                             <mn>
+                              5
+                             </mn>
+                             <mn>
+                              2
+                             </mn>
+                            </msup>
+                            <mo>
+                             +
+                            </mo>
+                            <msup>
+                             <mn>
+                              3
+                             </mn>
+                             <mn>
+                              2
+                             </mn>
+                            </msup>
+                           </mrow>
+                          </msqrt>
+                          <mo>
+                           =
+                          </mo>
+                          <msqrt>
+                           <mn>
+                            34
+                           </mn>
+                          </msqrt>
+                         </mrow>
+                        </math>
+                        .
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div align="left">
+     <div align="left">
+      <div>
+       <div class="gxst-title">
+        Расстояние между двумя точками.
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div align="left">
+    <div align="left">
+     Как известно, координаты вектора можно определить, если даны координаты начальной и конечной точек вектора
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mspace width="0.294em">
+       </mspace>
+       <mi>
+        A
+       </mi>
+       <mfenced close=")" open="(">
+        <mrow>
+         <msub>
+          <mi>
+           x
+          </mi>
+          <mn>
+           1
+          </mn>
+         </msub>
+         <mo>
+          ;
+         </mo>
+         <msub>
+          <mi>
+           y
+          </mi>
+          <mn>
+           1
+          </mn>
+         </msub>
+        </mrow>
+       </mfenced>
+      </mrow>
+     </math>
+     и
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi>
+        B
+       </mi>
+       <mfenced close=")" open="(">
+        <mrow>
+         <msub>
+          <mi>
+           x
+          </mi>
+          <mn>
+           2
+          </mn>
+         </msub>
+         <mo>
+          ;
+         </mo>
+         <msub>
+          <mi>
+           y
+          </mi>
+          <mn>
+           2
+          </mn>
+         </msub>
+        </mrow>
+       </mfenced>
+      </mrow>
+     </math>
+     .
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mspace width="0.147em">
+       </mspace>
+       <mover>
+        <mi mathvariant="italic">
+         AB
+        </mi>
+        <mo>
+         →
+        </mo>
+       </mover>
+       <mfenced close="}" open="{">
+        <mrow>
+         <msub>
+          <mi>
+           x
+          </mi>
+          <mn>
+           2
+          </mn>
+         </msub>
+         <msub>
+          <mrow>
+           <mo>
+            −
+           </mo>
+           <mi>
+            x
+           </mi>
+          </mrow>
+          <mn>
+           1
+          </mn>
+         </msub>
+         <mo>
+          ;
+         </mo>
+         <msub>
+          <mi>
+           y
+          </mi>
+          <mn>
+           2
+          </mn>
+         </msub>
+         <msub>
+          <mrow>
+           <mo>
+            −
+           </mo>
+           <mi>
+            y
+           </mi>
+          </mrow>
+          <mn>
+           1
+          </mn>
+         </msub>
+        </mrow>
+       </mfenced>
+      </mrow>
+     </math>
+     .
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <img alt="Koord_vektori_galap.png" class="gxs-resource-image" height="354" src="//ykl-res.azureedge.net/5165f799-cce5-4b7f-8730-6423f3358666/Koord_vektori_galap.png" width="420"/>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     Если
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi>
+        x
+       </mi>
+       <mo>
+        =
+       </mo>
+       <msub>
+        <mi>
+         x
+        </mi>
+        <mn>
+         2
+        </mn>
+       </msub>
+       <mo>
+        −
+       </mo>
+       <msub>
+        <mi>
+         x
+        </mi>
+        <mn>
+         1
+        </mn>
+       </msub>
+      </mrow>
+     </math>
+     ,
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi>
+        y
+       </mi>
+       <mo>
+        =
+       </mo>
+       <msub>
+        <mi>
+         y
+        </mi>
+        <mn>
+         2
+        </mn>
+       </msub>
+       <mo>
+        −
+       </mo>
+       <msub>
+        <mi>
+         y
+        </mi>
+        <mn>
+         1
+        </mn>
+       </msub>
+      </mrow>
+     </math>
+     и
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mfenced close="|" open="|">
+        <mover>
+         <mi mathvariant="italic">
+          AB
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+       </mfenced>
+       <mo>
+        =
+       </mo>
+       <msqrt>
+        <mrow>
+         <msup>
+          <mi>
+           x
+          </mi>
+          <mn>
+           2
+          </mn>
+         </msup>
+         <mo>
+          +
+         </mo>
+         <msup>
+          <mi>
+           y
+          </mi>
+          <mn>
+           2
+          </mn>
+         </msup>
+        </mrow>
+       </msqrt>
+      </mrow>
+     </math>
+     , то вместо \(x\) и \(y\) можно поставить их выражения.
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     Новую формулу называют не только формулой длины вектора, но и
+     <div align="left">
+      <span>
+       <div>
+        <div align="left">
+         <span>
+          <span>
+           формулой расстояния между двумя точками с заданными координатами
+          </span>
+         </span>
+        </div>
+        <div align="left">
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mfenced close="|" open="|">
+            <mi mathvariant="italic">
+             AB
+            </mi>
+           </mfenced>
+           <mo>
+            =
+           </mo>
+           <msqrt>
+            <mrow>
+             <msup>
+              <mfenced close=")" open="(">
+               <mrow>
+                <msub>
+                 <mi>
+                  x
+                 </mi>
+                 <mn>
+                  2
+                 </mn>
+                </msub>
+                <mo>
+                 −
+                </mo>
+                <msub>
+                 <mi>
+                  x
+                 </mi>
+                 <mn>
+                  1
+                 </mn>
+                </msub>
+               </mrow>
+              </mfenced>
+              <mn>
+               2
+              </mn>
+             </msup>
+             <mo>
+              +
+             </mo>
+             <msup>
+              <mfenced close=")" open="(">
+               <mrow>
+                <msub>
+                 <mi>
+                  y
+                 </mi>
+                 <mn>
+                  2
+                 </mn>
+                </msub>
+                <mo>
+                 −
+                </mo>
+                <msub>
+                 <mi>
+                  y
+                 </mi>
+                 <mn>
+                  1
+                 </mn>
+                </msub>
+               </mrow>
+              </mfenced>
+              <mn>
+               2
+              </mn>
+             </msup>
+            </mrow>
+           </msqrt>
+          </mrow>
+         </math>
+         .
+        </div>
+        <div align="left">
+        </div>
+       </div>
+      </span>
+     </div>
+    </div>
+    Так как выражения в скобках в квадрате, то справедливо, что
+   </div>
+   <div align="left">
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mfenced close="|" open="|">
+       <mi mathvariant="italic">
+        AB
+       </mi>
+      </mfenced>
+      <mo>
+       =
+      </mo>
+      <msqrt>
+       <mrow>
+        <msup>
+         <mfenced close=")" open="(">
+          <mrow>
+           <msub>
+            <mi>
+             x
+            </mi>
+            <mn>
+             2
+            </mn>
+           </msub>
+           <mo>
+            −
+           </mo>
+           <msub>
+            <mi>
+             x
+            </mi>
+            <mn>
+             1
+            </mn>
+           </msub>
+          </mrow>
+         </mfenced>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mo>
+         +
+        </mo>
+        <msup>
+         <mfenced close=")" open="(">
+          <mrow>
+           <msub>
+            <mi>
+             y
+            </mi>
+            <mn>
+             2
+            </mn>
+           </msub>
+           <mo>
+            −
+           </mo>
+           <msub>
+            <mi>
+             y
+            </mi>
+            <mn>
+             1
+            </mn>
+           </msub>
+          </mrow>
+         </mfenced>
+         <mn>
+          2
+         </mn>
+        </msup>
+       </mrow>
+      </msqrt>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <msqrt>
+       <mrow>
+        <msup>
+         <mfenced close=")" open="(">
+          <mrow>
+           <msub>
+            <mi>
+             x
+            </mi>
+            <mn>
+             1
+            </mn>
+           </msub>
+           <mo>
+            −
+           </mo>
+           <msub>
+            <mi>
+             x
+            </mi>
+            <mn>
+             2
+            </mn>
+           </msub>
+          </mrow>
+         </mfenced>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mo>
+         +
+        </mo>
+        <msup>
+         <mfenced close=")" open="(">
+          <mrow>
+           <msub>
+            <mi>
+             y
+            </mi>
+            <mn>
+             1
+            </mn>
+           </msub>
+           <mo>
+            −
+           </mo>
+           <msub>
+            <mi>
+             y
+            </mi>
+            <mn>
+             2
+            </mn>
+           </msub>
+          </mrow>
+         </mfenced>
+         <mn>
+          2
+         </mn>
+        </msup>
+       </mrow>
+      </msqrt>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    То есть, неважна последовательность координат в разности.
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    <div align="left">
+     <div class="gxst-important">
+      <div class="gxst-ititle">
+       <span>
+        Обрати внимание!
+       </span>
+      </div>
+      <div class="gxst-ibody" title="Обрати внимание!">
+       <div align="left">
+        Если даны координаты начальной и конечной точек вектора
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mspace width="0.294em">
+          </mspace>
+          <mi>
+           A
+          </mi>
+          <mfenced close=")" open="(">
+           <mrow>
+            <msub>
+             <mi>
+              x
+             </mi>
+             <mn>
+              1
+             </mn>
+            </msub>
+            <mo>
+             ;
+            </mo>
+            <msub>
+             <mi>
+              y
+             </mi>
+             <mn>
+              1
+             </mn>
+            </msub>
+           </mrow>
+          </mfenced>
+         </mrow>
+        </math>
+        и
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mi>
+           B
+          </mi>
+          <mfenced close=")" open="(">
+           <mrow>
+            <msub>
+             <mi>
+              x
+             </mi>
+             <mn>
+              2
+             </mn>
+            </msub>
+            <mo>
+             ;
+            </mo>
+            <msub>
+             <mi>
+              y
+             </mi>
+             <mn>
+              2
+             </mn>
+            </msub>
+           </mrow>
+          </mfenced>
+         </mrow>
+        </math>
+        , то
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mspace width="0.147em">
+          </mspace>
+          <mover>
+           <mi mathvariant="italic">
+            AB
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+          <mfenced close="}" open="{">
+           <mrow>
+            <msub>
+             <mi>
+              x
+             </mi>
+             <mn>
+              2
+             </mn>
+            </msub>
+            <msub>
+             <mrow>
+              <mo>
+               −
+              </mo>
+              <mi>
+               x
+              </mi>
+             </mrow>
+             <mn>
+              1
+             </mn>
+            </msub>
+            <mo>
+             ;
+            </mo>
+            <msub>
+             <mi>
+              y
+             </mi>
+             <mn>
+              2
+             </mn>
+            </msub>
+            <msub>
+             <mrow>
+              <mo>
+               −
+              </mo>
+              <mi>
+               y
+              </mi>
+             </mrow>
+             <mn>
+              1
+             </mn>
+            </msub>
+           </mrow>
+          </mfenced>
+         </mrow>
+        </math>
+        .
+       </div>
+       <div align="left">
+       </div>
+       <div align="left">
+        <font class="gxst-color-emph">
+         <strong>
+          О
+         </strong>
+        </font>
+        <span class="gxst-emph">
+         бязательно из координат конечной точки надо вычитать координаты начальной точки
+        </span>
+        !
+       </div>
+       <div align="left">
+        Но при определении длины вектора в формуле последовательность координат не имеет значения:
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mfenced close="|" open="|">
+           <mover>
+            <mi mathvariant="italic">
+             AB
+            </mi>
+            <mo>
+             →
+            </mo>
+           </mover>
+          </mfenced>
+          <mo>
+           =
+          </mo>
+          <msqrt>
+           <mrow>
+            <msup>
+             <mfenced close=")" open="(">
+              <mrow>
+               <msub>
+                <mi>
+                 x
+                </mi>
+                <mn>
+                 2
+                </mn>
+               </msub>
+               <mo>
+                −
+               </mo>
+               <msub>
+                <mi>
+                 x
+                </mi>
+                <mn>
+                 1
+                </mn>
+               </msub>
+              </mrow>
+             </mfenced>
+             <mn>
+              2
+             </mn>
+            </msup>
+            <mo>
+             +
+            </mo>
+            <msup>
+             <mfenced close=")" open="(">
+              <mrow>
+               <msub>
+                <mi>
+                 y
+                </mi>
+                <mn>
+                 2
+                </mn>
+               </msub>
+               <mo>
+                −
+               </mo>
+               <msub>
+                <mi>
+                 y
+                </mi>
+                <mn>
+                 1
+                </mn>
+               </msub>
+              </mrow>
+             </mfenced>
+             <mn>
+              2
+             </mn>
+            </msup>
+           </mrow>
+          </msqrt>
+          <mspace width="0.147em">
+          </mspace>
+          <mo>
+           =
+          </mo>
+          <msqrt>
+           <mrow>
+            <msup>
+             <mfenced close=")" open="(">
+              <mrow>
+               <msub>
+                <mi>
+                 x
+                </mi>
+                <mn>
+                 1
+                </mn>
+               </msub>
+               <mo>
+                −
+               </mo>
+               <msub>
+                <mi>
+                 x
+                </mi>
+                <mn>
+                 2
+                </mn>
+               </msub>
+              </mrow>
+             </mfenced>
+             <mn>
+              2
+             </mn>
+            </msup>
+            <mo>
+             +
+            </mo>
+            <msup>
+             <mfenced close=")" open="(">
+              <mrow>
+               <msub>
+                <mi>
+                 y
+                </mi>
+                <mn>
+                 1
+                </mn>
+               </msub>
+               <mo>
+                −
+               </mo>
+               <msub>
+                <mi>
+                 y
+                </mi>
+                <mn>
+                 2
+                </mn>
+               </msub>
+              </mrow>
+             </mfenced>
+             <mn>
+              2
+             </mn>
+            </msup>
+           </mrow>
+          </msqrt>
+         </mrow>
+        </math>
+        .
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  
+ </div>
+</div>

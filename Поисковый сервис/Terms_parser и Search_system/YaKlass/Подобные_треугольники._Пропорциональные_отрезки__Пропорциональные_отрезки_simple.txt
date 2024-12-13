@@ -1,0 +1,169 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       <span class="gxst-emph">
+        Отношением двух отрезков
+       </span>
+       называется отношение их длин.
+      </div>
+     </div>
+    </div>
+    Рассмотрим два отрезка l и l, где отрезок l в l раза больше второго отрезка.
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <div>
+            <div>
+             <div align="left">
+              <img alt="Proporc_nogr1.png" class="gxs-resource-image" height="177" src="//ykl-res.azureedge.net/0a4ea0c5-9ef2-4655-b2f6-fd38948e001f/Proporc_nogr1.png" width="265"/>
+             </div>
+             <div align="left">
+             </div>
+             <div align="left">
+              <div>
+               Отношение отрезков l и l равно l:
+              </div>
+              <div align="left">
+              </div>
+              <div align="left">
+               m
+               .
+              </div>
+              <div align="left">
+              </div>
+              <div align="left">
+               Можно также сказать, что отношение отрезков l и l равно l:
+              </div>
+              <div align="left">
+              </div>
+              <div>
+               m
+               .
+              </div>
+              <div>
+              </div>
+             </div>
+            </div>
+            <div>
+             В этом примере отрезок l равен трём единицам, а l равен двум единицам.
+            </div>
+            <div>
+            </div>
+            <div>
+             <div align="left">
+              <img alt="Proporc_nogr2.png" class="gxs-resource-image" height="175" src="//ykl-res.azureedge.net/5fe83546-ee4f-48ae-ac7b-44e2c2dbab24/Proporc_nogr2.png" width="332"/>
+             </div>
+             <div align="left">
+             </div>
+             <div align="left">
+              <div>
+               Отношение отрезков l и l равно l:
+              </div>
+              <div>
+              </div>
+              <div align="left">
+               m
+              </div>
+              <div align="left">
+              </div>
+             </div>
+            </div>
+            <div>
+             или
+            </div>
+            <div>
+            </div>
+            <div>
+             m
+             .
+            </div>
+           </div>
+           <div>
+            <div class="gxst-definition">
+             <div>
+              <div>
+               Если отношение отрезков l и l равно отношению отрезков l и l, т. е.
+               m
+               ,
+               <br/>
+               то эти отрезки называются
+               <span class="gxst-emph">
+                пропорциональными
+               </span>
+               .
+              </div>
+             </div>
+            </div>
+            Сравниваем данные ранее отрезки, они не пропорциональны, т. к.
+            m
+            .
+           </div>
+          </div>
+          <div>
+          </div>
+          <div>
+           Рассмотрим данные рисунки:
+          </div>
+          <div>
+          </div>
+          <div>
+           <img alt="Proporc_nogr1.png" class="gxs-resource-image" height="177" src="//ykl-res.azureedge.net/0a4ea0c5-9ef2-4655-b2f6-fd38948e001f/Proporc_nogr1.png" width="265"/>
+           <img alt="Proporc_nogr3.png" class="gxs-resource-image" height="179" src="//ykl-res.azureedge.net/3ea28aca-9b11-441e-9171-fa93b179d404/Proporc_nogr3.png" width="436"/>
+          </div>
+          <div>
+          </div>
+          <div>
+           Сравним отношения отрезков
+           m
+           .
+           m
+           .
+          </div>
+          <div>
+           <div>
+            Значит,
+            m
+            — эти пары отрезков пропорциональны.
+           </div>
+           <div>
+           </div>
+          </div>
+          <div align="left">
+           <div>
+            <div align="left">
+             <div align="left">
+              <div>
+               <div align="left">
+                <div>
+                 <div align="left">
+                  Чтобы записать отношение отрезков, необходимы два отрезка. Чтобы найти пропорциональные отрезки, необходимы две пары отрезков.
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

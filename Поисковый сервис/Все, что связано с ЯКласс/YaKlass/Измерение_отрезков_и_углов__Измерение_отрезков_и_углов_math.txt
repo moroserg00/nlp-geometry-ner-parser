@@ -1,0 +1,278 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<mn>
+         1
+        </mn>
+<mspace width="0.147em">
+</mspace>
+<mtext>
+         км
+        </mtext>
+<mo>
+         =
+        </mo>
+<mn>
+         1000
+        </mn>
+<mtext>
+         м
+        </mtext>
+<mo>
+         ;
+        </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>
+         1
+        </mn>
+<mtext>
+         м
+        </mtext>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mn>
+         10
+        </mn>
+<mtext>
+         дм
+        </mtext>
+<mo>
+         ;
+        </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>
+         1
+        </mn>
+<mtext>
+         дм
+        </mtext>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mn>
+         10
+        </mn>
+<mtext>
+         см
+        </mtext>
+<mo>
+         ;
+        </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>
+         1
+        </mn>
+<mtext>
+         см
+        </mtext>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mn>
+         10
+        </mn>
+<mtext>
+         мм
+        </mtext>
+<mo>
+         .
+        </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfrac>
+<mn>
+        1
+       </mn>
+<mn>
+        180
+       </mn>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+         ∡
+        </mo>
+<mi mathvariant="italic">
+         AOB
+        </mi>
+<mo>
+         =
+        </mo>
+<mn>
+         180
+        </mn>
+</mrow>
+<mn>
+        0
+       </mn>
+</msup>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mn>
+         360
+        </mn>
+</mrow>
+<mn>
+        0
+       </mn>
+</msup>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mn>
+        0
+       </mn>
+<mn>
+        0
+       </mn>
+</msup>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+         ∡
+        </mo>
+<mi mathvariant="italic">
+         AOB
+        </mi>
+<mo>
+         =
+        </mo>
+<mn>
+         90
+        </mn>
+</mrow>
+<mn>
+        0
+       </mn>
+</msup>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<msup>
+<mn>
+          0
+         </mn>
+<mn>
+          0
+         </mn>
+</msup>
+<mo>
+         &lt;
+        </mo>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+         ∡
+        </mo>
+<mi mathvariant="italic">
+         AOB
+        </mi>
+<mo>
+         &lt;
+        </mo>
+<mn>
+         90
+        </mn>
+</mrow>
+<mn>
+        0
+       </mn>
+</msup>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<msup>
+<mn>
+          90
+         </mn>
+<mn>
+          0
+         </mn>
+</msup>
+<mo>
+         &lt;
+        </mo>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+         ∡
+        </mo>
+<mi mathvariant="italic">
+         AOB
+        </mi>
+<mo>
+         &lt;
+        </mo>
+<mn>
+         180
+        </mn>
+</mrow>
+<mn>
+        0
+       </mn>
+</msup>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mrow>
+<msup>
+<mn>
+          180
+         </mn>
+<mn>
+          0
+         </mn>
+</msup>
+<mo>
+         &lt;
+        </mo>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+         ∡
+        </mo>
+<mi mathvariant="italic">
+         AOB
+        </mi>
+<mo>
+         &lt;
+        </mo>
+<mn>
+         360
+        </mn>
+</mrow>
+<mn>
+        0
+       </mn>
+</msup>
+</mrow>
+</math>]

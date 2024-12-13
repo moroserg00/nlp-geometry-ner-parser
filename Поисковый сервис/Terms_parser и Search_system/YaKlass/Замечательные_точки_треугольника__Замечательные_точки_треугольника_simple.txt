@@ -1,0 +1,230 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       <strong>
+        Теорема 1.
+       </strong>
+       Каждая точка биссектрисы неразвёрнутого угла равноудалена от его сторон.
+      </div>
+      <div>
+      </div>
+      <div>
+       <strong>
+        Теорема 2.
+       </strong>
+       (обратная) Точка, лежащая внутри неразвёрнутого угла и равноудалённая от его сторон, лежит на биссектрисе этого угла.
+      </div>
+     </div>
+    </div>
+    <img alt="Bisektrise.png" class="gxs-resource-image" height="273" src="//ykl-res.azureedge.net/57475a96-daed-4a6e-8f3c-eb8115544f7e/Bisektrise.png" width="408"/>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       <strong>
+        Теорема 3.
+       </strong>
+       Каждая точка серединного перпендикуляра к отрезку равноудалена от его концов.
+      </div>
+      <div>
+      </div>
+      <div>
+       <strong>
+        Теорема 4.
+       </strong>
+       (обратная) Точка, равноудалённая от концов отрезка, лежит на серединном перпендикуляре к нему.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Vidusperpendikuls.png" class="gxs-resource-image" height="293" src="//ykl-res.azureedge.net/9b350762-9513-471a-be00-289463a35a55/Vidusperpendikuls.png" width="398"/>
+   </div>
+   <div>
+    <span>
+     <div class="gxst-title">
+      Первая замечательная точка треугольника — точка пересечения биссектрис.
+     </div>
+    </span>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <strong>
+       Теорема 5.
+      </strong>
+      Биссектрисы треугольника пересекаются в одной точке.
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Trijst_bisektrises.png" class="gxs-resource-image" height="284" src="//ykl-res.azureedge.net/0e088cd8-a862-4e72-b751-86195ec2237f/Trijst_bisektrises.png" width="425"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    l, l — биссектрисы, l — точка их пересечения.
+   </div>
+   <div>
+    Является ли биссектрисой l? Если точка l равноудалена от сторон l и l и от сторон l и l, то она лежит на биссектрисе угла
+    m
+    , так как равноудалена от сторон угла.
+   </div>
+   <div>
+    Эта точка и есть
+    <span class="gxst-emph">
+     центр вписанной в треугольник окружности
+    </span>
+    , всегда находится в треугольнике.
+   </div>
+   <div>
+    <span>
+     <span>
+      <div class="gxst-title">
+       Вторая замечательная точка треугольника — точка пересечения серединных перпендикуляров сторон треугольника.
+      </div>
+     </span>
+    </span>
+   </div>
+   <div>
+    <span>
+     <span>
+      <span>
+       <span>
+        <div class="gxst-theory">
+         <div>
+          <span>
+           <span>
+            <span>
+             <span>
+              <strong>
+               Теорема 6.
+              </strong>
+              Серединные перпендикуляры к сторонам треугольника пересекаются в одной точке.
+             </span>
+            </span>
+           </span>
+          </span>
+         </div>
+        </div>
+       </span>
+      </span>
+     </span>
+    </span>
+   </div>
+   <div>
+    <span class="gxst-emph">
+     <span>
+     </span>
+    </span>
+    <img alt="Trijst_vidusp.png" class="gxs-resource-image" height="368" src="//ykl-res.azureedge.net/73df436a-f1ed-4cb1-884c-daf0d7e3cbd5/Trijst_vidusp.png" width="398"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Допустим, точка l — точка пересечения двух серединных перпендикуляров сторон l и l. Она равноудалена и от точек l и l, и от точек l и l. Следовательно, она лежит на серединном перпендикуляре стороны l, так как равноудалена от её конечных точек.
+   </div>
+   <div>
+    Эта точка и есть
+    <span class="gxst-emph">
+     центр описанной около треугольника окружности
+    </span>
+    , находится в треугольниках с острыми углами, вне треугольника с тупым углом и на гипотенузе прямоугольного треугольника.
+   </div>
+   <div>
+    <span>
+     <span>
+      <div class="gxst-title">
+       Третья замечательная точка треугольника — точка пересечения медиан.
+      </div>
+     </span>
+    </span>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <strong>
+       Теорема 7.
+      </strong>
+      Медианы треугольника пересекаются в одной точке, которая делит каждую медиану в отношении l, считая от вершины.
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Mediana1.png" class="gxs-resource-image" height="291" src="//ykl-res.azureedge.net/ee3e5908-d64e-4e44-a203-b31bc8054138/Mediana1.png" width="463"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Точка пересечения медиан является
+    <span class="gxst-emph">
+     центром тяжести треугольника
+    </span>
+    .
+   </div>
+   <div>
+    <span>
+     <div class="gxst-title">
+      Четвёртая замечательная точка треугольника — точка пересечения высот треугольника.
+     </div>
+    </span>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <strong>
+       Теорема 8.
+      </strong>
+      Высоты треугольника или их продолжения пересекаются в одной точке.
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Augstums1.png" class="gxs-resource-image" height="266" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/bc185009-e830-42b2-b11a-5dc73357d301/Augstums1-w400.png" srcset="//ykl-res.azureedge.net/bc185009-e830-42b2-b11a-5dc73357d301/Augstums1-w400.png 400w, //ykl-res.azureedge.net/45198777-bdd3-488d-bcd3-01ce1e4d4823/Augstums1-w470.png 470w" width="400"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Augstums3.png" class="gxs-resource-image" height="292" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/2d9f20f6-d4e0-4cb4-bdc5-ab0475802418/Augstums3-w400.png" srcset="//ykl-res.azureedge.net/2d9f20f6-d4e0-4cb4-bdc5-ab0475802418/Augstums3-w400.png 400w, //ykl-res.azureedge.net/1395fa64-c080-4558-bd25-97d80c7ce91e/Augstums3.png 522w" width="400"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Точка пересечения высот называется
+    <span class="gxst-emph">
+     ортоцентром треугольника
+    </span>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    В l году немецкий математик Эйлер доказал, что в любом треугольнике ортоцентр, центр тяжести и центр описанной окружности лежат на одной прямой, названой позже
+    <span class="gxst-emph">
+     прямой Эйлера
+    </span>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Eilera_taisne.png" class="gxs-resource-image" height="465" src="//ykl-res.azureedge.net/42ec08e3-693e-441e-865e-109f5584c27d/Eilera_taisne.png" width="485"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    В двадцатых годах l века французские математики Понселе, Брианшон и другие установили независимо друг от друга следующую теорему: основания медиан, основания высот и середины отрезков высот, соединяющих ортоцентр с вершинами треугольника, лежат на одной и той же окружности.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Eilera_taisne_rl.png" class="gxs-resource-image" height="459" src="//ykl-res.azureedge.net/d3689a92-2460-493b-8817-be896b2ace99/Eilera_taisne_rl.png" width="478"/>
+   </div>
+  </div>
+ </div>
+</div>

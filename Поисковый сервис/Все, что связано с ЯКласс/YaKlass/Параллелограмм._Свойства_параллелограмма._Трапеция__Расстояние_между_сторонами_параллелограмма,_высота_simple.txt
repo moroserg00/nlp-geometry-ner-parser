@@ -1,0 +1,79 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      Прямые l и l называются параллельными, если они не пересекаются.
+     </div>
+    </div>
+   </div>
+   <div align="left">
+    <div align="left">
+     Для обозначения параллельности  прямых используется символ l. Запись l читается: «Прямая l параллельна прямой l».
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     Расстоянием между параллельными прямыми называется длина их
+     <span class="gxst-emph">
+      общего перпендикуляра
+     </span>
+     . На данном рисунке это отрезок l.
+     <br/>
+    </div>
+    <div align="left">
+     <img alt="строка 54.png" class="gxs-resource-image" height="163" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/4a104db0-e35b-439c-b23c-4868ebca38c9/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B054w300.png" srcset="//ykl-res.azureedge.net/4a104db0-e35b-439c-b23c-4868ebca38c9/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B054w300.png 300w, //ykl-res.azureedge.net/92e6f176-b0a1-4832-9fe6-0faa156f4142/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B054w575.png 575w" width="300"/>
+    </div>
+    <div align="left">
+     Расстояние между параллельными прямыми везде одно и то же. Перпендикуляр тоже можно проводить по свободному выбору в любом удобном месте.
+     <br/>
+    </div>
+    <div align="left">
+     Расстояние между непараллельными прямыми определить нельзя.
+     <br/>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     В геометрических фигурах перпендикуляр между параллельными прямыми проводится из вершины фигуры.
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <img alt="строка 55.png" class="gxs-resource-image" height="147" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/e4836cf7-2153-44b7-aa25-8c9c9d40107d/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B055w300.png" srcset="//ykl-res.azureedge.net/e4836cf7-2153-44b7-aa25-8c9c9d40107d/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B055w300.png 300w, //ykl-res.azureedge.net/27318da6-d39e-4d79-89dc-1e1ac2d4e98b/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B055w600.png 600w, //ykl-res.azureedge.net/6e4f2eb1-e22f-46f3-92b6-f66faaddd286/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B055w606.png 606w" width="300"/>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     Как известно, две стороны трапеции параллельны, поэтому между ними можно определить расстояние.
+    </div>
+    <div align="left">
+     <br/>
+     Расстояние между сторонами l и l — это перпендикуляр l, который называется высотой.
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     Расстояние между сторонами l и l определить нельзя, т. к. эти стороны не параллельны.
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <img alt="строка 56.png" class="gxs-resource-image" height="188" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/74f7111f-f19c-47ef-af96-55eb9cded725/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B056w300.png" srcset="//ykl-res.azureedge.net/74f7111f-f19c-47ef-af96-55eb9cded725/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B056w300.png 300w, //ykl-res.azureedge.net/7415faa8-70e4-4921-b25a-dc6135ae3113/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B056w562.png 562w" width="300"/>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     В параллелограмме две пары параллельных сторон, поэтому можно определить расстояние между сторонами l и l — это высота l.
+    </div>
+    <div align="left">
+     <br/>
+     Можно также найти расстояние между сторонами l и l — это высота l.
+    </div>
+    <div align="left">
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,299 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       Два треугольника называются
+       <font class="gxst-color-emph">
+        подобными
+       </font>
+       , если их соответствующие углы равны, а соответствующие стороны пропорциональны.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           Даны треугольники \(ABC\) и \(DEF\).
+          </div>
+         </div>
+        </div>
+        <div>
+        </div>
+        <div>
+         Если известно, что
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mfrac>
+            <mi mathvariant="italic">
+             AB
+            </mi>
+            <mi mathvariant="italic">
+             DE
+            </mi>
+           </mfrac>
+           <mo>
+            =
+           </mo>
+           <mfrac>
+            <mi mathvariant="italic">
+             BC
+            </mi>
+            <mi mathvariant="italic">
+             EF
+            </mi>
+           </mfrac>
+           <mo>
+            =
+           </mo>
+           <mfrac>
+            <mi mathvariant="italic">
+             AC
+            </mi>
+            <mi mathvariant="italic">
+             DF
+            </mi>
+           </mfrac>
+           <mo>
+            =
+           </mo>
+           <mi>
+            k
+           </mi>
+          </mrow>
+         </math>
+         и
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mo lspace="verythickmathspace" rspace="verythickmathspace">
+            ∢
+           </mo>
+           <mi>
+            A
+           </mi>
+           <mo>
+            =
+           </mo>
+           <mo lspace="4px" rspace="4px">
+            ∢
+           </mo>
+           <mi>
+            D
+           </mi>
+           <mo>
+            ;
+           </mo>
+           <mspace width="0.294em">
+           </mspace>
+           <mo lspace="4px" rspace="4px">
+            ∢
+           </mo>
+           <mi>
+            B
+           </mi>
+           <mo>
+            =
+           </mo>
+           <mo lspace="4px" rspace="4px">
+            ∢
+           </mo>
+           <mi>
+            E
+           </mi>
+           <mo>
+            ;
+           </mo>
+           <mspace width="0.294em">
+           </mspace>
+           <mo lspace="4px" rspace="4px">
+            ∢
+           </mo>
+           <mi>
+            C
+           </mi>
+           <mo>
+            =
+           </mo>
+           <mo lspace="4px" rspace="4px">
+            ∢
+           </mo>
+           <mi>
+            F
+           </mi>
+          </mrow>
+         </math>
+         ,
+        </div>
+        <div>
+        </div>
+        <div>
+         то можно сделать вывод, что
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mi mathvariant="normal">
+            Δ
+           </mi>
+           <mi mathvariant="italic">
+            ABC
+           </mi>
+           <mo>
+            ∼
+           </mo>
+           <mi mathvariant="normal">
+            Δ
+           </mi>
+           <mi mathvariant="italic">
+            DEF
+           </mi>
+           <mo>
+            .
+           </mo>
+          </mrow>
+         </math>
+        </div>
+        <div>
+         <br/>
+         <img alt="Lidziba.png" class="gxs-resource-image" height="261" src="//ykl-res.azureedge.net/04cdb47c-c210-4539-9ceb-b3bc524dcbc7/Lidziba.png" width="478"/>
+        </div>
+        <div>
+         <div>
+          <div>
+          </div>
+          <div>
+           При записи подобия треугольников важно соблюдать порядок букв. Равным углам соответствуют определённые буквы.
+          </div>
+         </div>
+        </div>
+        <div>
+         <div>
+          <div class="gxst-definition">
+           <div>
+            <div>
+             Число
+             <span class="gxst-emph">
+              k
+             </span>
+             , которое равно отношению соответствующих сторон треугольников, называется
+             <font class="gxst-color-emph">
+              коэффициентом
+             </font>
+             подобия треугольников.
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div>
+         Чтобы определить, являются ли треугольники подобными, не обязательно знать длины всех сторон и градусные меры всех углов треугольников, это можно сделать проще, используя признаки подобия треугольников.
+        </div>
+        <div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     <div class="gxst-important">
+      <div class="gxst-ititle">
+       <span>
+        Обрати внимание!
+       </span>
+      </div>
+      <div class="gxst-ibody" title="Обрати внимание!">
+       <div>
+        Отношение периметров двух подобных треугольников равно коэффициенту подобия треугольников
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mfrac>
+           <msub>
+            <mi>
+             P
+            </mi>
+            <mi mathvariant="italic">
+             ABC
+            </mi>
+           </msub>
+           <msub>
+            <mi>
+             P
+            </mi>
+            <mi mathvariant="italic">
+             DEF
+            </mi>
+           </msub>
+          </mfrac>
+          <mspace width="0.147em">
+          </mspace>
+          <mo>
+           =
+          </mo>
+          <mspace width="0.147em">
+          </mspace>
+          <mi>
+           k
+          </mi>
+         </mrow>
+        </math>
+        .
+       </div>
+       <div>
+       </div>
+       <div>
+        Отношение площадей двух подобных треугольников равно квадрату коэффициента подобия
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mfrac>
+           <msub>
+            <mi>
+             S
+            </mi>
+            <mi mathvariant="italic">
+             ABC
+            </mi>
+           </msub>
+           <msub>
+            <mi>
+             S
+            </mi>
+            <mi mathvariant="italic">
+             DEF
+            </mi>
+           </msub>
+          </mfrac>
+          <mspace width="0.147em">
+          </mspace>
+          <mo>
+           =
+          </mo>
+          <mspace width="0.147em">
+          </mspace>
+          <msup>
+           <mi>
+            k
+           </mi>
+           <mn>
+            2
+           </mn>
+          </msup>
+         </mrow>
+        </math>
+        .
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  
+ </div>
+</div>

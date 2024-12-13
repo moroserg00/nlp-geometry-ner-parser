@@ -1,0 +1,125 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    В плоскости прямая и окружность могут пересекаться или не пересекаться. При пересечении могут иметь одну или две общие точки.
+   </div>
+   <div>
+   </div>
+   <div>
+    1. Если расстояние от центра окружности до прямой больше радиуса, то у прямой и окружности общих точек нет.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Taisnes_nov2.png" class="gxs-resource-image" height="256" src="//ykl-res.azureedge.net/70132101-9fc0-4bae-b018-9d23d38429e4/Taisnes_nov2.png" width="352"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    2. Если расстояние от центра окружности до прямой меньше радиуса, то у прямой и окружности две общие точки.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Taisnes_nov.png" class="gxs-resource-image" height="266" src="//ykl-res.azureedge.net/e173e378-9f15-479b-98a5-3e3d93a4fc17/Taisnes_nov.png" width="367"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    В этом случае прямую называют секущей окружности.
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      Если прямая имеет две общие точки с окружностью, то она называется
+      <span class="gxst-emph">
+       секущей
+      </span>
+      .
+     </div>
+    </div>
+   </div>
+   <div>
+    3. Если расстояние от центра окружности до прямой равно радиусу, то у прямой и окружности одна общая точка.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Taisnes_nov1.png" class="gxs-resource-image" height="268" src="//ykl-res.azureedge.net/095cbaaf-eaca-4cbd-ab4a-16d51826e427/Taisnes_nov1.png" width="369"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    В этом случая прямую называют касательной к окружности.
+   </div>
+   <div>
+    <span>
+     <div>
+      <div>
+       <span>
+        <div class="gxst-definition">
+         <div>
+          <div>
+           <span>
+            <span class="gxst-emph">
+             <span>
+              Касательной
+             </span>
+            </span>
+           </span>
+           к окружности называется прямая, имеющая с окружностью одну общую точку.
+          </div>
+         </div>
+        </div>
+       </span>
+      </div>
+     </div>
+    </span>
+    <div class="gxst-theory">
+     <div>
+      Касательная к окружности перпендикулярна радиусу, проведённому в точку касания.
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Pieskares_ip.png" class="gxs-resource-image" height="303" src="//ykl-res.azureedge.net/f491c2f6-97dd-4c2a-b4b4-0be9c03e4421/Pieskares_ip.png" width="376"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Предположим, что радиус l не перпендикулярен к прямой, но является наклонной. Тогда из точки l можно провести перпендикуляр к прямой, который будет короче радиуса. А это означает, что расстояние от центра окружности до прямой меньше радиуса, и у прямой и окружности должны быть две общие точки. Но это противоречит данной информации, наше предположение неверно.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Если из точки к окружности проведены две касательные, то
+       <br/>
+       а) длины отрезков касательных от этой точки до точки касания равны,
+      </div>
+      <div>
+       б) прямая, проходящая через центр окружности и эту точку, делит угол между касательными пополам.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Pieskaru_ip.png" class="gxs-resource-image" height="310" src="//ykl-res.azureedge.net/eb339ec2-e930-49dd-a28f-d8f76a698614/Pieskaru_ip.png" width="437"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Пусть l и l — касательные к окружности с центром l.
+   </div>
+   <div>
+    Требуется доказать, что l и l является биссектрисой угла l.
+   </div>
+   <div>
+   </div>
+   <div>
+    Треугольники l и l — прямоугольные, так как касательные перпендикулярны к радиусам в точках l и l. Сторона l — общая. Катеты l и l равны как радиусы одной и той же окружности. Треугольники равны по гипотенузе и катету, отсюда равны и катеты l и l, и углы l и l, то есть l делит угол пополам.
+   </div>
+  </div>
+ </div>
+</div>

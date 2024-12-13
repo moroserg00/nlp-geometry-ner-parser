@@ -1,0 +1,169 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mn>
+          180
+         </mn>
+<mi mathvariant="normal">
+          °
+         </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mn>
+             180
+            </mn>
+<mi mathvariant="normal">
+             °
+            </mi>
+</msup>
+<mo>
+            ⋅
+           </mo>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+              n
+             </mi>
+<mo>
+              −
+             </mo>
+<mn>
+              2
+             </mn>
+</mrow>
+</mfenced>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mn>
+           180
+          </mn>
+<mi mathvariant="normal">
+           °
+          </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mn>
+            180
+           </mn>
+<mi mathvariant="normal">
+            °
+           </mi>
+</msup>
+<mo>
+           ⋅
+          </mo>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+             n
+            </mi>
+<mo>
+             −
+            </mo>
+<mn>
+             2
+            </mn>
+</mrow>
+</mfenced>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msup>
+<mn>
+                  180
+                 </mn>
+<mi mathvariant="normal">
+                  °
+                 </mi>
+</msup>
+<mo>
+                 ⋅
+                </mo>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+                   n
+                  </mi>
+<mo>
+                   −
+                  </mo>
+<mn>
+                   2
+                  </mn>
+</mrow>
+</mfenced>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                 =
+                </mo>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mn>
+                  180
+                 </mn>
+<mi mathvariant="normal">
+                  °
+                 </mi>
+</msup>
+<mo>
+                 ⋅
+                </mo>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+                   11
+                  </mn>
+<mo>
+                   −
+                  </mo>
+<mn>
+                   2
+                  </mn>
+</mrow>
+</mfenced>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                 =
+                </mo>
+<mspace width="0.147em">
+</mspace>
+<msup>
+<mn>
+                  180
+                 </mn>
+<mi mathvariant="normal">
+                  °
+                 </mi>
+</msup>
+<mo>
+                 ⋅
+                </mo>
+<mn>
+                 9
+                </mn>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                 =
+                </mo>
+<msup>
+<mrow>
+<mspace width="0.147em">
+</mspace>
+<mn>
+                   1620
+                  </mn>
+</mrow>
+<mi mathvariant="normal">
+                  °
+                 </mi>
+</msup>
+</mrow>
+</math>]

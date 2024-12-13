@@ -1,0 +1,127 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+             EF
+            </mi>
+<mo>
+             ∥
+            </mo>
+<mi mathvariant="italic">
+             AC
+            </mi>
+<mo>
+             ;
+            </mo>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+             EF
+            </mi>
+<mo>
+             =
+            </mo>
+<mfrac>
+<mi mathvariant="italic">
+              AC
+             </mi>
+<mn>
+              2
+             </mn>
+</mfrac>
+<mo>
+             .
+            </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+                   EF
+                  </mi>
+<mo>
+                   ∥
+                  </mo>
+<mi mathvariant="italic">
+                   BC
+                  </mi>
+<mo>
+                   ,
+                  </mo>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+                   EF
+                  </mi>
+<mo>
+                   ∥
+                  </mo>
+<mi mathvariant="italic">
+                   AD
+                  </mi>
+<mo>
+                   ;
+                  </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi mathvariant="italic">
+                   EF
+                  </mi>
+<mo>
+                   =
+                  </mo>
+<mfrac>
+<mrow>
+<mi mathvariant="italic">
+                     BC
+                    </mi>
+<mo>
+                     +
+                    </mo>
+<mi mathvariant="italic">
+                     AD
+                    </mi>
+</mrow>
+<mn>
+                    2
+                   </mn>
+</mfrac>
+<mo>
+                   .
+                  </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>]

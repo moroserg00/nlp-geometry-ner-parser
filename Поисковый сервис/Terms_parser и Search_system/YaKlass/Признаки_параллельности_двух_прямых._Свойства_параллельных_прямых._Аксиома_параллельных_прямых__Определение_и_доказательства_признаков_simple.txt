@@ -1,0 +1,378 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div align="left">
+    <img alt="shutterstock_1723074382.jpg" class="gxs-resource-image" height="300" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/01b7c808-99dc-4a8f-a48c-1b2a21ae56b1/shutterstock1723074382w400.jpg" srcset="//ykl-res.azureedge.net/01b7c808-99dc-4a8f-a48c-1b2a21ae56b1/shutterstock1723074382w400.jpg 400w, //ykl-res.azureedge.net/3239b042-9929-49de-ac9f-f2f60f098c8a/shutterstock1723074382w800.jpg 800w, //ykl-res.azureedge.net/8fce3104-5c06-47b4-b073-83d2678fc52a/shutterstock1723074382.jpg 1024w" width="400"/>
+   </div>
+   <div align="left">
+    <em>
+     Рис
+    </em>
+    . l. Железная дорога. Рельсы не пересекаются.
+   </div>
+   <div align="center">
+   </div>
+   <div>
+    Две прямые в плоскости, либо пересекаются в одной точке, либо не пересекаются (не имеют общих точек).
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       На плоскости две прямые l и l, которые не пересекаются, называются
+       <font class="gxst-color-emph">
+        параллельными
+       </font>
+       и обозначаются
+       m
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div class="gxst-important">
+         <div class="gxst-ititle">
+          <span>
+           Обрати внимание!
+          </span>
+         </div>
+         <div class="gxst-ibody" title="Обрати внимание!">
+          <div>
+           Если рассмотреть прямые, которые не лежат в одной плоскости, то возможна ситуация, что прямые не пересекаются, но они и не параллельны.
+          </div>
+         </div>
+        </div>
+        <img alt="Cube.png" class="gxs-resource-image" height="426" src="//ykl-res.azureedge.net/8bb214c8-3c35-4693-adbb-3614560c0fc1/Cube.png" width="454"/>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l. Выделенные малиновым цветом отрезки не параллельны.
+   </div>
+   <div>
+   </div>
+   <div>
+    Рассмотрим один из признаков параллельности прямых на плоскости.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       <strong>
+        1 признак
+       </strong>
+       . Если две прямые на плоскости перпендикулярны одной и той же прямой, то они параллельны.
+      </div>
+     </div>
+    </div>
+    <img alt="Lenku_veidi_perp.png" class="gxs-resource-image" height="480" src="//ykl-res.azureedge.net/5c5983d5-2b33-411f-8548-1d1e27eff1bd/Lenku_veidi_perp.png" width="482"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l. Один из признаков параллельности прямых на плоскости.
+   </div>
+   <div>
+   </div>
+   <div>
+    Этот признак легко доказать, если вспомнить, что к прямой в плоскости из любой точки можно провести только один перпендикуляр.
+   </div>
+   <div>
+   </div>
+   <div>
+    Допустим, что прямые, перпендикулярные одной и той же прямой, не параллельны, то есть имеют общую точку.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Lenku_veidi_perp1.png" class="gxs-resource-image" height="479" src="//ykl-res.azureedge.net/016fbcc4-e155-446a-97cb-4669c9033e3e/Lenku_veidi_perp1.png" width="482"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l. Доказательство признака параллельности прямых на плоскости.
+   </div>
+   <div>
+   </div>
+   <div>
+    Получается противоречие — из одной точки l к прямой l проведены два перпендикуляра. Такое невозможно, поэтому две прямые на плоскости, перпендикулярные одной и той же прямой, параллельны.
+   </div>
+   <div>
+   </div>
+   <div>
+    <div class="gxst-title">
+     Для рассмотрения других признаков надо ознакомиться с некоторыми видами углов.
+    </div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        1) вспомним, что нам известны названия и свойства углов, которые образуют две пересекающиеся прямые.
+       </div>
+       <div>
+        <img alt="Lenku_veidi_teor2.png" class="gxs-resource-image" height="543" src="//ykl-res.azureedge.net/0270a979-c0c5-4bb3-9c54-9a79ec1b1d52/Lenku_veidi_teor2.png" width="487"/>
+       </div>
+       <div>
+        <em>
+         Рис
+        </em>
+        . l. Углы, образованные двумя пересекающимися прямыми.
+       </div>
+       <div>
+       </div>
+       <div>
+        <div>
+         <div>
+          <span class="gxst-emph">
+           Вертикальные
+          </span>
+          углы равны:
+          m
+          .
+         </div>
+         <div>
+          Сумма
+          <span class="gxst-emph">
+           смежных
+          </span>
+          углов
+          m
+          :
+          m
+          .
+         </div>
+        </div>
+       </div>
+       <div>
+       </div>
+       2) Вспомним названия углов при пересечении двух прямых третьей прямой (секущей).
+       <img alt="Lenku_veidi_teor1.png" class="gxs-resource-image" height="480" src="//ykl-res.azureedge.net/4cce6ddc-a887-49e8-a76d-10d7da7f6c04/Lenku_veidi_teor1.png" width="506"/>
+      </div>
+     </div>
+     <div>
+      <div>
+       <div>
+        <em>
+         Рис
+        </em>
+        . l. Углы, образованные при пересечении двух прямых секущей.
+       </div>
+       <div>
+       </div>
+       <div>
+        <span class="gxst-emph">
+         Накрест лежащие
+        </span>
+        углы:
+        m
+        ;
+       </div>
+       <div>
+        <span class="gxst-emph">
+         соответственные
+        </span>
+        углы:
+        m
+        ;
+       </div>
+       <div>
+        <span class="gxst-emph">
+         односторонние
+        </span>
+        углы:
+        m
+        .
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    Эти углы помогут определить параллельность прямых l и l.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       <strong>
+        2 признак.
+       </strong>
+       Если при пересечении двух прямых третьей секущей:
+      </div>
+      <div>
+       накрест лежащие углы равны, или
+      </div>
+      <div>
+       соответственные углы равны, или
+      </div>
+      <div>
+       сумма односторонних углов равна l — то прямые параллельны.
+      </div>
+     </div>
+    </div>
+    <img alt="Lenku_veidi_paral1.png" class="gxs-resource-image" height="499" src="//ykl-res.azureedge.net/16736c3b-a657-4bb4-b547-4b17073d4781/Lenku_veidi_paral1.png" width="502"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l. Признаки параллельности прямых на плоскости.
+   </div>
+   <div>
+   </div>
+   <div>
+    <strong>
+     Приведём доказательство.
+    </strong>
+   </div>
+   <div>
+   </div>
+   <div>
+    Сначала докажем: если прямые l и l пересекает прямая l, и
+    <font class="gxst-color-emph">
+     <strong>
+      накрест лежащие
+     </strong>
+    </font>
+    углы равны, то прямые l и l параллельны.
+   </div>
+   <div>
+   </div>
+   <div>
+    Например, если
+    m
+    , то
+    m
+    .
+   </div>
+   <div>
+    <img alt="Lenku_veidi_paral11.png" class="gxs-resource-image" height="357" src="//ykl-res.azureedge.net/5e3ce62d-b113-40d8-a06b-9bef97c1d9f4/Lenku_veidi_paral11.png" width="356"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l. Признак параллельности прямых по равенству накрест лежащих углов.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Lenku_veidi_paral11_atb.png" class="gxs-resource-image" height="358" src="//ykl-res.azureedge.net/c1b1aae4-cf2b-490e-8c62-a0a0e631d096/Lenku_veidi_paral11_atb.png" width="357"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l. Доказательство признака параллельности прямых по равенству накрест лежащих углов.
+   </div>
+   <div>
+   </div>
+   <div>
+    1) Отметим точки l и l, в которых прямые l и l пересекает прямая l. Через серединную точку l этого отрезка проведём перпендикуляр l к прямой l.
+   </div>
+   <div>
+    2)
+    m
+    l
+    m
+    как вертикальные углы,
+    m
+    l
+    m
+    l
+    m
+    , l — значит,
+    m
+    l
+    m
+    по признаку о стороне и двум прилежащим к ней углам.
+   </div>
+   <div>
+    3) Очевидно, если
+    m
+    прямоугольный, то и
+    m
+    прямоугольный, и l перпендикулярен к прямой l.
+   </div>
+   <div>
+    4) Согласно первому доказанному признаку прямые, перпендикулярные одной и той же прямой, параллельны.
+   </div>
+   <div>
+    5) В случае, когда
+    <strong>
+     <font class="gxst-color-emph">
+      равны соответственные углы,
+     </font>
+    </strong>
+    имеем в виду, что вертикальные углы равны, и доказываем, как в пунктах 1) — 4).
+   </div>
+   <div>
+    <img alt="Lenku_veidi_paral13.png" class="gxs-resource-image" height="358" src="//ykl-res.azureedge.net/9782fcc1-5d67-475f-a462-be04a8747f78/Lenku_veidi_paral13.png" width="357"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l. Признак параллельности прямых по равенству соответственных углов.
+   </div>
+   <div>
+    <img alt="Lenku_veidi_paral13_atb.png" class="gxs-resource-image" height="361" src="//ykl-res.azureedge.net/79d09537-6a4c-404b-9445-56d148951c3a/Lenku_veidi_paral13_atb.png" width="359"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l. Доказательство признака параллельности прямых по равенству соответственных углов.
+   </div>
+   <div>
+   </div>
+   <div>
+    6) В случае, когда
+    <strong>
+     <font class="gxst-color-emph">
+      сумма односторонних углов равна 180°
+     </font>
+    </strong>
+    , имеем в виду, что сумма смежных углов тоже равна l, и используем в доказательстве пункты 1) — 4).
+    <br/>
+    <img alt="Lenku_veidi_paral12.png" class="gxs-resource-image" height="355" src="//ykl-res.azureedge.net/02620966-11ee-4f89-8ffc-fe11a6413954/Lenku_veidi_paral12.png" width="354"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l. Признак параллельности прямых по сумме односторонних углов.
+   </div>
+   <div>
+    <img alt="Lenku_veidi_paral12_atb.png" class="gxs-resource-image" height="356" src="//ykl-res.azureedge.net/d0f54500-227a-4ea9-83ec-f9511792965f/Lenku_veidi_paral12_atb.png" width="355"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l. Доказательство признака параллельности прямых по сумме односторонних углов.
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     О свойствах параллельных прямых — в следующем пункте теории.
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

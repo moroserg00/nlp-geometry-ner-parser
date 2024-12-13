@@ -1,0 +1,208 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    В системе координат построим полуокружность радиуса
+    <span>
+     l
+    </span>
+    с центром в начале координат.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Vienibas_pusr.png" class="gxs-resource-image" height="331" src="//ykl-res.azureedge.net/0e4299fb-28ae-4a30-8eac-27acc76e5385/Vienibas_pusr.png" width="522"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Как уже известно, в прямоугольном треугольнике синус острого угла определяется как отношение противолежащего катета к гипотенузе, а косинус острого угла определяется как отношение прилежащего катета к гипотенузе.
+   </div>
+   <div>
+   </div>
+   <div>
+    В треугольнике l:
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+    Так как радиус полуокружности l, то
+    m
+    .
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Длина отрезка l равна величине координаты l точки l, а длина отрезка l равна величине координаты l точки l:
+      </div>
+      <div>
+       m
+       .
+      </div>
+     </div>
+    </div>
+    Следовательно, для углов
+    m
+    видно, что
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       В прямоугольном треугольнике тангенс острого угла равен отношению противолежащего катета к прилежащему катету, а значит,
+      </div>
+      <div>
+       m
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    Используя единичную полуокружность и рассмотренную информацию, определим синус, косинус и тангенс для
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+   </div>
+   <div>
+    Рассмотрим оба острых угла в треугольнике l. Если вместе они образуют
+    m
+    , то оба выразим через
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Vienibas_pusr2.png" class="gxs-resource-image" height="317" src="//ykl-res.azureedge.net/6c0976a7-e83a-4802-bfff-3dae2e51ca1e/Vienibas_pusr2.png" width="501"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Если
+    m
+    , то
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Видим, что справедливы равенства:
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+   </div>
+   <div>
+    Рассмотрим тупой угол, который также выразим через
+    m
+    .
+    <div>
+    </div>
+    <div>
+     <img alt="Vienibas_pusr1.png" class="gxs-resource-image" height="327" src="//ykl-res.azureedge.net/5801ddd0-5aa0-4b0e-bda6-1290ccc1b4d5/Vienibas_pusr1.png" width="516"/>
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    Справедливы следующие равенства:
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Эти формулы называются формулами приведения:
+      </div>
+      <div>
+      </div>
+      <div>
+       m
+      </div>
+      <div>
+      </div>
+      <div>
+       m
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    Если в треугольнике l применить теорему Пифагора, получаем
+    m
+    . Заменив отрезки соответственно синусом и косинусом, мы напишем
+    <span class="gxst-emph">
+    </span>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       <span class="gxst-emph">
+        главное тригонометрическое тождество
+       </span>
+      </div>
+      <div>
+       m
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    Это тождество позволяет вычислить величину синуса угла, если дан косинус
+   </div>
+   <div>
+    (как уже отмечено, синус для углов
+    m
+    только
+    <span class="gxst-emph">
+     0
+    </span>
+    или
+    <span class="gxst-emph">
+     положительный
+    </span>
+    ):
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+   </div>
+   <div>
+    — или величину косинуса угла, если дан синус:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+   </div>
+   <div>
+    Для острых углов косинус положительный, а для тупых углов берём отрицательное значение.
+   </div>
+  </div>
+ </div>
+</div>

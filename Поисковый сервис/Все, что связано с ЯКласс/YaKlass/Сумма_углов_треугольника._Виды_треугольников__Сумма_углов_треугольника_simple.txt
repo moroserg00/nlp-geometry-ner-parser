@@ -1,0 +1,248 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     <div class="gxst-theory">
+      <div>
+       Сумма углов треугольника равна l.
+      </div>
+     </div>
+    </div>
+   </div>
+   <img alt="Pierad.png" class="gxs-resource-image" height="302" src="//ykl-res.azureedge.net/3c7ba269-1875-48f1-a779-c575ee51e046/Pierad.png" width="427"/>
+   <div>
+   </div>
+   <div>
+    <strong>
+     Доказательство
+    </strong>
+   </div>
+   <div>
+   </div>
+   <div>
+    Рассмотрим произвольный треугольник l и докажем, что
+    m
+    l l
+    m
+    l l
+    m
+    l
+    m
+    .
+   </div>
+   <div>
+    1. Через вершину l параллельно стороне l проведём прямую l.
+   </div>
+   <div>
+    2. При пересечении параллельных прямых l и l секущей l, углы, которые обозначаются l, будут накрест лежащими углами,  а углы, обозначенные l — это накрест лежащие углы при пересечении этих же параллельных прямых секущей l.
+   </div>
+   <div>
+   </div>
+   <div>
+    Очевидно, сумма углов l, l и l равна развёрнутому углу с вершиной l, т. е.
+    <br/>
+    m
+    l l
+    m
+    l l
+    m
+    l
+    m
+    , или
+    m
+    l l
+    m
+    l l
+    m
+    l
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Теорема доказана.
+   </div>
+   <div>
+    <div class="gxst-title">
+     Следствия из теоремы о сумме углов треугольника.
+    </div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div class="gxst-theory">
+          <div>
+           <div>
+            <div>
+             <div>
+              <strong>
+               Следствие 1.
+              </strong>
+              Сумма острых углов прямоугольного треугольника равна
+              m
+              .
+             </div>
+             <div>
+             </div>
+             <div>
+              <strong>
+               Следствие 2.
+              </strong>
+              В равнобедренном прямоугольном треугольнике каждый острый угол равен
+              m
+              .
+             </div>
+             <div>
+             </div>
+             <div>
+              <strong>
+               Следствие 3.
+              </strong>
+              В равностороннем треугольнике каждый угол равен
+              m
+              .
+             </div>
+             <div>
+             </div>
+             <div>
+              <strong>
+               Следствие 4.
+              </strong>
+              В любом треугольнике либо все углы острые, либо два угла острые, а третий — тупой или прямой.
+             </div>
+             <div>
+             </div>
+            </div>
+           </div>
+           <div>
+            <div>
+             <div>
+              <strong>
+               Следствие 5.
+              </strong>
+              Внешний угол треугольника равен сумме двух внутренних углов, не смежных с ним.
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <img alt="Arejsl.png" class="gxs-resource-image" height="252" src="//ykl-res.azureedge.net/60ebcf05-7a1d-482d-a3e2-d46a479d75c6/Arejsl.png" width="520"/>
+   <div>
+   </div>
+   <div>
+    <strong>
+     Доказательство
+    </strong>
+   </div>
+   <div>
+   </div>
+   <div>
+    Из равенств
+    m
+    l l
+    m
+    l
+    m
+    и
+    m
+    l l
+    m
+    l l
+    m
+    l
+    m
+    получаем, что
+    m
+    l
+    m
+    l l
+    m
+    l.
+   </div>
+   <div>
+    <br/>
+    <div class="gxst-title">
+     Остроугольный, прямоугольный и тупоугольный треугольники.
+    </div>
+   </div>
+   <div>
+    Как гласит четвёртое следствие из теоремы о сумме углов треугольника, можно выделить три вида треугольников в зависимости от углов.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Saurl.png" class="gxs-resource-image" height="273" src="//ykl-res.azureedge.net/4c2fd0ee-eb44-497a-a0b2-b2f6043f0141/Saurl.png" width="420"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    У треугольника l все углы острые.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Taisnl.png" class="gxs-resource-image" height="230" src="//ykl-res.azureedge.net/23a20207-f25f-42d9-a141-276f9eff8de5/Taisnl.png" width="373"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    У треугольника l угол l
+    m
+    .
+   </div>
+   <div>
+    У прямоугольного треугольника сторона, лежащая против прямого угла, называется
+    <span>
+     <span>
+      <span>
+       <span class="gxst-emph">
+        <span>
+         <span>
+          <span>
+           гипотенузой
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+    </span>
+    , а две остальные стороны —
+    <span class="gxst-emph">
+     катетами
+    </span>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    На рисунке l — гипотенуза, l и l —
+    <span>
+     катеты
+    </span>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Platl.png" class="gxs-resource-image" height="214" src="//ykl-res.azureedge.net/88479794-863c-4fd9-a98e-17269599ddb0/Platl.png" width="423"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    У треугольника l один угол тупой.
+   </div>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,210 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Параллельный перенос.
+    </div>
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       <font class="gxst-color-emph">
+        <span class="gxst-emph">
+         <font class="gxst-color-emph">
+          Параллельным переносом
+         </font>
+        </span>
+       </font>
+       фигуры называется перенос всех точек пространства на одно расстояние в одном направлении.
+      </div>
+     </div>
+    </div>
+    Параллельный перенос определяет вектор, по которому совершается перенос.
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         Чтобы совершить параллельный перенос, нужно знать направление и расстояние, что означает задать вектор.
+        </div>
+        <div>
+        </div>
+       </div>
+      </div>
+      <div align="left">
+       <img alt="Pp.png" class="gxs-resource-image" height="350" src="//ykl-res.azureedge.net/4462dbd1-6949-4b0c-98d6-56ac90d90401/Pp.png" width="363"/>
+      </div>
+      <div align="left">
+       <em>
+        Рис
+       </em>
+       . l. Параллельный перенос треугольника l на вектор l.
+      </div>
+      <div align="left">
+      </div>
+      <div align="left">
+       Чтобы при параллельном переносе построить изображение многоугольника, достаточно построить изображения вершин этого многоугольника.
+      </div>
+      <div align="left">
+      </div>
+      <div align="left">
+       <div>
+        <div align="left">
+         Первоначальная фигура и фигура, полученная после параллельного переноса, равны.
+        </div>
+       </div>
+      </div>
+      <div align="left">
+       Параллельный перенос используется для конструирования графиков функций.
+      </div>
+      <div align="left">
+       <div>
+        <div align="left">
+         На рисунке изображена парабола и два результата параллельного переноса.
+        </div>
+        <div align="left">
+        </div>
+        <div align="left">
+         <img alt="Grafiki_pp.png" class="gxs-resource-image" height="408" src="//ykl-res.azureedge.net/5832ef4f-639d-4af9-a00b-a16d39e45f45/Grafiki_pp.png" width="395"/>
+        </div>
+        <div align="left">
+         <div align="left">
+          <em>
+           Рис
+          </em>
+          . l. Параллельный перенос параболы.
+         </div>
+        </div>
+       </div>
+      </div>
+      <div align="left">
+      </div>
+      <div align="left">
+       Параллельный перенос можно встретить в реальной жизни.
+      </div>
+      <div align="left">
+      </div>
+      <div align="left">
+       <img alt="nadia_if Shutterstock.jpg" class="gxs-resource-image" height="300" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/f1442bec-d466-4acf-8403-dfb6fc20d205/nadiaifShutterstockw400.jpg" srcset="//ykl-res.azureedge.net/f1442bec-d466-4acf-8403-dfb6fc20d205/nadiaifShutterstockw400.jpg 400w, //ykl-res.azureedge.net/4c2d714f-bcc9-415a-b5b8-df47ab4e1d16/nadiaifShutterstockw800.jpg 800w, //ykl-res.azureedge.net/1f50876f-7cf0-4c39-8b4f-c958cd542d0a/nadiaifShutterstock.jpg 1024w" width="400"/>
+      </div>
+      <div align="left">
+       <div align="left">
+        <em>
+         Рис
+        </em>
+        . l. Окна.
+       </div>
+      </div>
+      <div align="left">
+       <div>
+        <div align="left">
+         <div class="gxst-title">
+          Поворот.
+         </div>
+        </div>
+        <div align="left">
+         <div>
+          <div class="gxst-definition">
+           <div>
+            <div>
+             Если одна фигура получена из другой фигуры поворотом всех её точек относительно центра l на один и тот же угол в одном и том же направлении, то такое преобразование фигуры называется
+             <font class="gxst-color-emph">
+              <span class="gxst-emph">
+               <font class="gxst-color-emph">
+                поворотом
+               </font>
+              </span>
+             </font>
+             .
+            </div>
+           </div>
+          </div>
+          Чтобы поворот имел место, должен быть задан центр l и угол поворота
+          m
+          .
+         </div>
+         <div>
+          <div>
+           <div>
+            <div align="left">
+            </div>
+            <div>
+             <div>
+              <div>
+               Против часовой стрелки — положительный угол поворота, наоборот — отрицательный угол поворота (так же как углы поворота в единичной окружности).
+              </div>
+             </div>
+             <div>
+              <div>
+               Треугольник l повёрнут в положительном направлении (приблизительно на
+               <span>
+                m
+                <span>
+                 <span>
+                  <span>
+                   l
+                  </span>
+                 </span>
+                </span>
+               </span>
+               градусов).
+              </div>
+              <div>
+              </div>
+              <div>
+               <img alt="Pagr.png" class="gxs-resource-image" height="424" src="//ykl-res.azureedge.net/b774e15e-c759-4feb-8f51-891f0707e5cf/Pagr.png" width="354"/>
+              </div>
+              <div>
+               <div align="left">
+                <em>
+                 Рис
+                </em>
+                . l. Поворот треугольника l на угол
+                m
+                .
+               </div>
+              </div>
+              <div>
+              </div>
+             </div>
+            </div>
+            <div align="left">
+             <div>
+              <div align="left">
+               Если угол поворота равен l или l градусам, то фигура отображается как центрально симметричная данной, и этот поворот называется случаем центральной симметрии.
+              </div>
+              <div align="left">
+              </div>
+             </div>
+            </div>
+            <div align="left">
+             <img alt="Pagr_180.png" class="gxs-resource-image" height="465" src="//ykl-res.azureedge.net/a068d92c-639b-4f0e-a022-30da77eaf47e/Pagr_180.png" width="350"/>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div align="left">
+     <em>
+      Рис
+     </em>
+     . l. Поворот треугольника l на угол
+     m
+     .
+    </div>
+    <div align="left">
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

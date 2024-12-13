@@ -1,0 +1,104 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>
+         P
+        </mi>
+<msub>
+<mi>
+          M
+         </mi>
+<mn>
+          1
+         </mn>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+         PM
+        </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+          M
+         </mi>
+<mn>
+          1
+         </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+        M
+       </mi>
+<mn>
+        1
+       </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+          M
+         </mi>
+<mn>
+          1
+         </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>
+         O
+        </mi>
+<msub>
+<mi>
+          M
+         </mi>
+<mn>
+          1
+         </mn>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+         OM
+        </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+          M
+         </mi>
+<mn>
+          1
+         </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+        M
+       </mi>
+<mn>
+        1
+       </mn>
+</msub>
+</mrow>
+</math>]

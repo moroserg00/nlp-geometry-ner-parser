@@ -1,0 +1,433 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    В прямоугольном треугольнике тригонометрические функции используются для вычисления сторон и острых углов треугольника.
+   </div>
+   <div>
+   </div>
+   <div align="center">
+    <div>
+     <div align="left">
+      <img alt="zīm.JPG" class="gxs-resource-image" src="//ykl-res.azureedge.net/fc5d50dd-aee2-4a26-91d2-3eadb2edc04c/z%C4%ABm.JPG"/>
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      <div>
+       m
+      </div>
+     </div>
+     <div align="left">
+      <span>
+       <div>
+        <div align="left">
+         <div align="left">
+          <div align="left">
+           <div align="left">
+            <span>
+             <div>
+              <div align="left">
+               <div align="left">
+                <div align="left">
+                 <span>
+                  <span>
+                   <div align="left">
+                    <span>
+                     <div class="gxst-title">
+                      Как выбрать правильную функцию?
+                     </div>
+                    </span>
+                   </div>
+                  </span>
+                 </span>
+                </div>
+                <div align="left">
+                 <div align="left">
+                  Если используются
+                  <span>
+                   <span>
+                    <span>
+                     <span>
+                      <span>
+                       <span>
+                        <span>
+                         только катеты
+                        </span>
+                       </span>
+                      </span>
+                     </span>
+                    </span>
+                   </span>
+                  </span>
+                  , применяется
+                  <span>
+                   <span>
+                    <span>
+                     <span class="gxst-emph">
+                      <span>
+                       <span>
+                        <span>
+                         tg
+                        </span>
+                       </span>
+                      </span>
+                     </span>
+                    </span>
+                   </span>
+                  </span>
+                  .
+                 </div>
+                </div>
+               </div>
+               <div align="left">
+               </div>
+               <div align="left">
+                Если используется
+                <span>
+                 <span>
+                  <span>
+                   гипотенуза
+                  </span>
+                 </span>
+                </span>
+                (дана или надо вычислить), то применяются
+                <span>
+                 <span>
+                  <span>
+                   <span class="gxst-emph">
+                    <span>
+                     <span>
+                      <span>
+                       sin
+                      </span>
+                     </span>
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                или
+                <span>
+                 <span>
+                  <span>
+                   <span class="gxst-emph">
+                    <span>
+                     <span>
+                      <span>
+                       cos
+                      </span>
+                     </span>
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                .
+               </div>
+               <div align="left">
+               </div>
+               <div align="left">
+                Если используется
+                <span>
+                 <span>
+                  <span>
+                   противолежащий катет
+                  </span>
+                 </span>
+                </span>
+                (дан или надо вычислить), то применяется
+                <span>
+                 <span>
+                  <span>
+                   <span class="gxst-emph">
+                    <span>
+                     <span>
+                      <span>
+                       sin
+                      </span>
+                     </span>
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                .
+               </div>
+               <div align="left">
+               </div>
+               <div align="left">
+                Если используется
+                <span>
+                 <span>
+                  <span>
+                   прилежащий катет
+                  </span>
+                 </span>
+                </span>
+                , то применяется
+                <span>
+                 <span>
+                  <span>
+                   <span class="gxst-emph">
+                    <span>
+                     <span>
+                      <span>
+                       cos
+                      </span>
+                     </span>
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+                .
+               </div>
+               <div align="left">
+               </div>
+               <div align="left">
+                Если в треугольнике даны оба острых угла, лучше на рисунке отметить только один угол, чтобы однозначно понять, где прилежащий и где противолежащий катеты.
+               </div>
+               <div align="left">
+               </div>
+               <div align="left">
+                <span>
+                 Гипотенуза всегда в знаменателе
+                </span>
+                .
+               </div>
+              </div>
+             </div>
+            </span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </span>
+      <span>
+       <div class="gxst-title">
+        Значения тригонометрических функций (которые нужно знать наизусть).
+       </div>
+      </span>
+     </div>
+    </div>
+   </div>
+   <div>
+    <table align="left" style="border: 1px solid rgb(211, 211, 211); width: 400px; height: 120px; border-collapse: collapse;">
+     <tbody>
+      <tr style="height: 25%;">
+       <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+        <div>
+        </div>
+        <div>
+        </div>
+        <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+         l
+         m
+         <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+          l
+          m
+          <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+           <div>
+            l
+            m
+           </div>
+          </td>
+          <tr style="height: 25%;">
+           <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+            l
+            m
+            l
+            <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+             m
+             <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+              m
+              <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+               m
+              </td>
+              <tr style="height: 25%;">
+               <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+                l
+                m
+                <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+                 m
+                 <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+                  m
+                  <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+                   m
+                  </td>
+                  <tr style="height: 25%;">
+                   <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+                    l
+                    m
+                    l
+                    <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+                     m
+                     <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+                      l
+                      <td style="border: 1px solid rgb(211, 211, 211); width: 25%;">
+                       m
+                      </td>
+                     </td>
+                    </td>
+                   </td>
+                  </tr>
+                 </td>
+                </td>
+               </td>
+              </tr>
+             </td>
+            </td>
+           </td>
+          </tr>
+         </td>
+        </td>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+    <div align="left">
+     Величины остальных углов можно найти в таблице или вычислить с помощью калькулятора.
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <div class="gxst-example">
+      <div class="gxst-ititle">
+       <span>
+        Пример:
+       </span>
+      </div>
+      <div class="gxst-ibody">
+       <div align="left">
+        <img alt="2.jpg" class="gxs-resource-image" src="//ykl-res.azureedge.net/f0e31b3e-f542-402e-a447-ee4d209f45ea/2.jpg"/>
+       </div>
+       <div align="left">
+        дано: l l l,
+        m
+        .
+       </div>
+       <div align="left">
+        Вычислить: l.
+       </div>
+       <div align="left">
+        Искомый отрезок —
+        <span>
+         <strong>
+          гипотенуза
+         </strong>
+        </span>
+        , дан угол и
+        <span>
+         <strong>
+          прилежащий катет
+         </strong>
+        </span>
+        , поэтому будем использовать l.
+       </div>
+       <div align="left">
+       </div>
+       <div align="left">
+        m
+       </div>
+      </div>
+     </div>
+    </div>
+    <div>
+     <div align="left">
+      <span>
+       <div align="left">
+       </div>
+       <div align="left">
+        <strong>
+         Использование свойства прямоугольного треугольника:
+        </strong>
+       </div>
+       <div align="left">
+       </div>
+      </span>
+      <img alt="taisnlenka trijsturis.JPG" class="gxs-resource-image" src="//ykl-res.azureedge.net/f9eb21be-ff4d-4267-9937-3968fe764230/taisnlenka%20trijsturis.JPG"/>
+     </div>
+     <div align="left">
+     </div>
+    </div>
+    <div align="left">
+     Катет прямоугольного треугольника, лежащий против угла в l
+     m
+     , равен половине гипотенузы.
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <div>
+      <div>
+       <div>
+        Катет, лежащий против угла в l
+        m
+        , равен произведению меньшего катета на
+        m
+        .
+       </div>
+       <div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div align="left">
+     <img alt="reg trijst apr.jpg" class="gxs-resource-image" src="//ykl-res.azureedge.net/f8a49b17-6974-42b2-9210-c62cbe65543a/reg%20trijst%20apr.jpg"/>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     Данное соотношение удобно использовать для нахождения высоты равностороннего треугольника.
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     Угол равностороннего  треугольника равен l
+     m
+     , и биссектриса делит этот угол пополам.
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <img alt="sešstūris ar lenkiem.JPG" class="gxs-resource-image" src="//ykl-res.azureedge.net/9fcc0764-92cd-465f-b120-3359dd66981f/se%C5%A1st%C5%ABris%20ar%20lenkiem.JPG"/>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     В правильном шестиугольнике большая диагональ, меньшая диагональ и сторона шестиугольника образуют  прямоугольный треугольник, один из углов которого равен l
+     m
+     .
+    </div>
+    <div align="left">
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

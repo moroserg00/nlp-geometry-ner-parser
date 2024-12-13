@@ -1,0 +1,129 @@
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+</script>
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       <font class="gxst-color-emph">
+        Квадратом
+       </font>
+       называется прямоугольник, у которого все стороны равны.
+      </div>
+     </div>
+    </div>
+    <img alt="1 квадрат.png" class="gxs-resource-image" height="311" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/90dba748-e0a2-4f27-8e66-5d54de631470/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82w300.png" srcset="//ykl-res.azureedge.net/90dba748-e0a2-4f27-8e66-5d54de631470/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82w300.png 300w, //ykl-res.azureedge.net/0c611cd7-1da6-4704-8b29-260271b7654b/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82.png 429w" width="300"/>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div align="center">
+         <div>
+          <div>
+           <div align="left">
+            <div>
+             <div>
+              <span>
+               <div class="gxst-title">
+                Свойства квадрата.
+               </div>
+              </span>
+             </div>
+            </div>
+           </div>
+           <div align="left">
+            <div class="gxst-theory">
+             <div>
+              Квадрату присущи все свойства параллелограмма. Квадрат можно считать ромбом с прямыми углами или прямоугольником с равными сторонами, поэтому квадрат обладает всеми свойствами ромба и прямоугольника.
+             </div>
+            </div>
+           </div>
+           <div align="left">
+            1. Все стороны квадрата равны: l.
+           </div>
+           <div align="left">
+           </div>
+           <div align="left">
+            <img alt="1 квадрат 1.png" class="gxs-resource-image" height="268" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/07f84e67-e895-47b6-b601-da8cf2caeaec/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%821w300.png" srcset="//ykl-res.azureedge.net/07f84e67-e895-47b6-b601-da8cf2caeaec/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%821w300.png 300w, //ykl-res.azureedge.net/7a3ea924-7408-44a3-b227-4ab69fb0fb4b/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%821.png 485w" width="300"/>
+           </div>
+           <div>
+           </div>
+           <div align="left">
+            2. Каждый из углов квадрата равен l
+            m
+            .
+           </div>
+           <div align="left">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="1 квадрат 2.png" class="gxs-resource-image" height="277" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/a7536e97-338b-45cf-9d5b-5d795b764c72/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%822w300.png" srcset="//ykl-res.azureedge.net/a7536e97-338b-45cf-9d5b-5d795b764c72/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%822w300.png 300w, //ykl-res.azureedge.net/4002a413-121d-473f-b2d1-770640944db2/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%822.png 473w" width="300"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     3. Диагонали квадрата равны и точкой пересечения делятся пополам: l;  l.
+    </div>
+    <div>
+    </div>
+   </div>
+   <div>
+    <img alt="1 квадрат 3.png" class="gxs-resource-image" height="275" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/144e027e-c956-4745-bf39-d45f622b99be/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%823w300.png" srcset="//ykl-res.azureedge.net/144e027e-c956-4745-bf39-d45f622b99be/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%823w300.png 300w, //ykl-res.azureedge.net/d4e44ecd-b949-412b-859e-d21ae4cd4cdf/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%823.png 476w" width="300"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    4. Диагонали квадрата взаимно перпендикулярны: l
+    m
+    l.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="1 квадрат 4.png" class="gxs-resource-image" height="288" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/7bb518fc-e320-422b-9b19-62a0ff50883f/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%824w300.png" srcset="//ykl-res.azureedge.net/7bb518fc-e320-422b-9b19-62a0ff50883f/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%824w300.png 300w, //ykl-res.azureedge.net/1554ca6b-ca68-42f1-a59f-d52b04a71764/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%824.png 470w" width="300"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    5. Диагонали квадрата являются биссектрисами его углов:
+    m
+    l
+    m
+    l
+    m
+    l
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="1 квадрат 5.png" class="gxs-resource-image" height="290" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/fbff6ac9-6d6c-4a60-8a98-af59c9466d9c/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%825w300.png" srcset="//ykl-res.azureedge.net/fbff6ac9-6d6c-4a60-8a98-af59c9466d9c/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%825w300.png 300w, //ykl-res.azureedge.net/e9f09092-ab9f-4a10-90ba-8e4bd2338478/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%825.png 443w" width="300"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    6. Диагонали квадрата делят его на четыре равных прямоугольных равнобедренных треугольника.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="1 квадрат 6.png" class="gxs-resource-image" height="279" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/c8235aa7-d43c-4a41-a5f0-42438ecf62a9/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%826w300.png" srcset="//ykl-res.azureedge.net/c8235aa7-d43c-4a41-a5f0-42438ecf62a9/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%826w300.png 300w, //ykl-res.azureedge.net/efdbcb64-55ad-480c-ae31-8e8822f76ee1/1%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%826.png 461w" width="300"/>
+   </div>
+   <div>
+   </div>
+  </div>
+ </div>
+</div>

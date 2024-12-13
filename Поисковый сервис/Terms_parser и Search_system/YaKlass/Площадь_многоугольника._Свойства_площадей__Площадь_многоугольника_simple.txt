@@ -1,0 +1,146 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <span class="gxst-emph">
+       Площадь многоугольника
+      </span>
+      — это величина той части плоскости, которую занимает многоугольник.
+     </div>
+    </div>
+   </div>
+   <div>
+    Измерение площади связано со сравнением занимаемой части плоскости с некими единицами измерения площади.
+   </div>
+   <div>
+   </div>
+   <div>
+    За единицу измерения площади принимаем квадрат, сторона которого — единица измерения отрезков, и называют это квадратной единицей измерения.
+   </div>
+   <div>
+   </div>
+   <div>
+    То есть:
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      площадь квадрата равна квадрату его стороны.
+     </div>
+    </div>
+   </div>
+   <div>
+    При необходимости большую квадратную единицу измерения площади разбивают на меньшие квадратные единицы измерения площади, например:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Квадратный сантиметр.png" class="gxs-resource-image" height="591" sizes="(max-width: 500px) 100vw, 500px" src="//ykl-res.azureedge.net/c53e8e41-c462-4946-9a55-5b06a9f83cf2/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%D1%81%D0%B0%D0%BD%D1%82%D0%B8%D0%BC%D0%B5%D1%82%D1%80w500.png" srcset="//ykl-res.azureedge.net/c53e8e41-c462-4946-9a55-5b06a9f83cf2/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%D1%81%D0%B0%D0%BD%D1%82%D0%B8%D0%BC%D0%B5%D1%82%D1%80w500.png 500w, //ykl-res.azureedge.net/03bee3dc-1b80-41fa-8b35-464fd630d28d/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%D1%81%D0%B0%D0%BD%D1%82%D0%B8%D0%BC%D0%B5%D1%82%D1%80.png 584w" width="500"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l.
+    <em>
+     Квадратные единицы
+    </em>
+   </div>
+   <div>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Свойства площадей:
+      </div>
+      <div>
+       1. равные многоугольники имеют равные площади.
+      </div>
+      <div>
+       2. Если многоугольник состоит из нескольких многоугольников (которые не перекрываются), то его площадь равна сумме площадей этих многоугольников.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <img alt="Summa.png" class="gxs-resource-image" height="350" src="//ykl-res.azureedge.net/6af80080-b2cf-43ec-be09-83e44785a4d1/Summa.png" width="317"/>
+     </div>
+     <div>
+      <em>
+       Рис
+      </em>
+      . l.
+      <em>
+       Многоугольник
+      </em>
+     </div>
+     <div>
+     </div>
+     <div>
+      <div class="gxst-definition">
+       <div>
+        <div>
+         Если многоугольники имеют равные площади, но они не равные, то их называют
+         <span class="gxst-emph">
+          равновеликими
+         </span>
+         .
+        </div>
+       </div>
+      </div>
+      На рисунке — равновеликие четырёхугольники, площадь которых —
+      <span>
+       <span>
+        <span>
+         l
+        </span>
+       </span>
+      </span>
+      <span class="gxst-emph">
+       кв. ед. изм.
+      </span>
+     </div>
+     <div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Vienlieli.png" class="gxs-resource-image" height="412" src="//ykl-res.azureedge.net/81e5459f-f6e7-4750-b93d-166ce3a3fc98/Vienlieli.png" width="341"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l.
+    <em>
+     Равновеликие прямоугольники
+    </em>
+   </div>
+   <div>
+    <div>
+     <div class="gxst-theory">
+      <div>
+       Площадь прямоугольника равна произведению его смежных сторон.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+   </div>
+  </div>
+ </div>
+</div>

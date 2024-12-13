@@ -1,0 +1,1375 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     Скалярным произведением двух векторов
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mover>
+        <mi>
+         a
+        </mi>
+        <mo>
+         →
+        </mo>
+       </mover>
+      </mrow>
+     </math>
+     и
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mover>
+        <mi>
+         b
+        </mi>
+        <mo>
+         →
+        </mo>
+       </mover>
+      </mrow>
+     </math>
+     будет скалярная величина (число), равная произведению модулей этих векторов, умноженная на косинус угла между ними:
+    </div>
+    <div>
+     <br/>
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mover>
+        <mi>
+         a
+        </mi>
+        <mo>
+         →
+        </mo>
+       </mover>
+       <mo>
+        ⋅
+       </mo>
+       <mover>
+        <mi>
+         b
+        </mi>
+        <mo>
+         →
+        </mo>
+       </mover>
+       <mspace width="0.147em">
+       </mspace>
+       <mo>
+        =
+       </mo>
+       <mspace width="0.147em">
+       </mspace>
+       <mfenced close="|" open="|">
+        <mover>
+         <mi>
+          a
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+       </mfenced>
+       <mo>
+        ⋅
+       </mo>
+       <mfenced close="|" open="|">
+        <mover>
+         <mi>
+          b
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+       </mfenced>
+       <mo>
+        ⋅
+       </mo>
+       <mi mathvariant="italic">
+        cos
+       </mi>
+       <mspace width="0.147em">
+       </mspace>
+       <mi mathvariant="normal">
+        α
+       </mi>
+      </mrow>
+     </math>
+     .
+    </div>
+   </div>
+   <div>
+    <br/>
+    <img alt="Sk_reiz_garums.png" class="gxs-resource-image" height="216" src="//ykl-res.azureedge.net/d2267a58-cdd4-44f8-b1c1-967282ec2b59/Sk_reiz_garums.png" width="338"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Очень важно правильно определить угол между векторами. Если векторы не имеют общей начальной точки, необходимо представить, какой угол бы образовался, если их переместить к общей начальной точке.
+   </div>
+   <div>
+   </div>
+   <div>
+    Угол между векторами обозначают
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mrow>
+        <mover>
+         <mi>
+          a
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+        <mspace width="0.147em">
+        </mspace>
+        <mover>
+         <mi>
+          b
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+       </mrow>
+       <mo stretchy="true">
+        ˆ
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi mathvariant="normal">
+       α
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    1. Если векторы сонаправлены, то
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mrow>
+        <mover>
+         <mi>
+          a
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+        <mspace width="0.147em">
+        </mspace>
+        <mover>
+         <mi>
+          b
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+       </mrow>
+       <mo stretchy="true">
+        ˆ
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mn>
+       0
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Lenkis_vekt1.png" class="gxs-resource-image" height="163" src="//ykl-res.azureedge.net/fb4dd460-75ad-4c25-8b2d-146608a0385b/Lenkis_vekt1.png" width="301"/>
+   </div>
+   <div>
+    <div class="gxst-important">
+     <div class="gxst-ititle">
+      <span>
+       Обрати внимание!
+      </span>
+     </div>
+     <div class="gxst-ibody" title="Обрати внимание!">
+      <div>
+       Так как косинус угла в \(0\) градусов равен \(1\), то скалярное произведение сонаправленных векторов является произведением их длин.
+      </div>
+      <div>
+       Если два вектора равны, то такое скалярное произведение называют
+       <span>
+        <span class="gxst-emph">
+         <span>
+          скалярным квадратом
+         </span>
+        </span>
+        .
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    2. Если векторы противоположно направлены, то
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mrow>
+        <mover>
+         <mi>
+          a
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+        <mspace width="0.147em">
+        </mspace>
+        <mover>
+         <mi>
+          b
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+       </mrow>
+       <mo stretchy="true">
+        ˆ
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mn>
+       180
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <img alt="Lenkis_vekt3.png" class="gxs-resource-image" height="171" src="//ykl-res.azureedge.net/3b9ef663-9727-4807-9027-e4f8510dae3e/Lenkis_vekt3.png" width="317"/>
+    </div>
+    <div>
+     <div>
+      <div>
+       <div class="gxst-important">
+        <div class="gxst-ititle">
+         <span>
+          Обрати внимание!
+         </span>
+        </div>
+        <div class="gxst-ibody" title="Обрати внимание!">
+         Так как косинус угла в
+         <span>
+          <span>
+           <span>
+            <span>
+             <span>
+              <span>
+               <span>
+                \(180\)
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+         градусов равен
+         <span>
+          <span>
+           <span>
+            <span>
+             <span>
+              <span>
+               <span>
+                \(-1\)
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+         , то скалярное произведение противоположно направленных векторов равно отрицательному произведению их длин.
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     3. Векторы называют перпендикулярными, если
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mover>
+        <mrow>
+         <mover>
+          <mi>
+           a
+          </mi>
+          <mo>
+           →
+          </mo>
+         </mover>
+         <mspace width="0.147em">
+         </mspace>
+         <mover>
+          <mi>
+           b
+          </mi>
+          <mo>
+           →
+          </mo>
+         </mover>
+        </mrow>
+        <mo stretchy="true">
+         ˆ
+        </mo>
+       </mover>
+       <mspace width="0.147em">
+       </mspace>
+       <mo>
+        =
+       </mo>
+       <mspace width="0.147em">
+       </mspace>
+       <mn>
+        90
+       </mn>
+       <mi mathvariant="normal">
+        °
+       </mi>
+      </mrow>
+     </math>
+     .
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Lenkis_vekt2.png" class="gxs-resource-image" height="230" src="//ykl-res.azureedge.net/f71d3d5e-f530-467d-bc7e-8714477038bf/Lenkis_vekt2.png" width="332"/>
+   </div>
+   <div>
+    <div>
+     <div class="gxst-important">
+      <div class="gxst-ititle">
+       <span>
+        Обрати внимание!
+       </span>
+      </div>
+      <div class="gxst-ibody" title="Обрати внимание!">
+       Так как косинус прямого угла равен
+       <span>
+        \(0\)
+       </span>
+       , то скалярное произведение перпендикулярных векторов равно
+       <span>
+        \(0\)
+       </span>
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    4. Необходимо внимательно рассмотреть ситуации, когда векторы образуют тупой угол.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Lenkis_vekt5.png" class="gxs-resource-image" height="199" src="//ykl-res.azureedge.net/424d3841-745e-4a36-8283-0f6b2f982fa0/Lenkis_vekt5.png" width="400"/>
+    <img alt="Lenkis_vekt6.png" class="gxs-resource-image" height="213" src="//ykl-res.azureedge.net/9f3c71f6-e739-48e4-8729-1c872457ba93/Lenkis_vekt6.png" width="442"/>
+   </div>
+   <div>
+    <div class="gxst-important">
+     <div class="gxst-ititle">
+      <span>
+       Обрати внимание!
+      </span>
+     </div>
+     <div class="gxst-ibody" title="Обрати внимание!">
+      <div>
+       Так как косинус тупого угла отрицательный, то скалярное произведение таких векторов, которые образуют тупой угол, является отрицательным.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="gxst-title">
+     Скалярное произведение векторов, заданных координатами.
+    </div>
+   </div>
+   <div>
+    Если
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mi>
+        a
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mfenced close=")" open="(">
+       <mrow>
+        <msub>
+         <mi>
+          x
+         </mi>
+         <mi>
+          a
+         </mi>
+        </msub>
+        <mo>
+         ;
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msub>
+         <mi>
+          y
+         </mi>
+         <mi>
+          a
+         </mi>
+        </msub>
+       </mrow>
+      </mfenced>
+     </mrow>
+    </math>
+    и
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mi>
+        b
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mfenced close=")" open="(">
+       <mrow>
+        <msub>
+         <mi>
+          x
+         </mi>
+         <mi>
+          b
+         </mi>
+        </msub>
+        <mo>
+         ;
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msub>
+         <mi>
+          y
+         </mi>
+         <mi>
+          b
+         </mi>
+        </msub>
+       </mrow>
+      </mfenced>
+     </mrow>
+    </math>
+    , то
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mi>
+        a
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ⋅
+      </mo>
+      <mover>
+       <mi>
+        b
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <msub>
+       <mi>
+        x
+       </mi>
+       <mi>
+        a
+       </mi>
+      </msub>
+      <mo>
+       ⋅
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <msub>
+       <mi>
+        x
+       </mi>
+       <mi>
+        b
+       </mi>
+      </msub>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       +
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <msub>
+       <mi>
+        y
+       </mi>
+       <mi>
+        a
+       </mi>
+      </msub>
+      <mo>
+       ⋅
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <msub>
+       <mi>
+        y
+       </mi>
+       <mi>
+        b
+       </mi>
+      </msub>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Так как в координатах
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mfenced close="|" open="|">
+       <mover>
+        <mi>
+         a
+        </mi>
+        <mo>
+         →
+        </mo>
+       </mover>
+      </mfenced>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <msqrt>
+       <mrow>
+        <msup>
+         <msub>
+          <mi>
+           x
+          </mi>
+          <mi>
+           a
+          </mi>
+         </msub>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mo>
+         +
+        </mo>
+        <msup>
+         <msub>
+          <mi>
+           y
+          </mi>
+          <mi>
+           a
+          </mi>
+         </msub>
+         <mn>
+          2
+         </mn>
+        </msup>
+       </mrow>
+      </msqrt>
+     </mrow>
+    </math>
+    и
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mfenced close="|" open="|">
+       <mover>
+        <mi>
+         b
+        </mi>
+        <mo>
+         →
+        </mo>
+       </mover>
+      </mfenced>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <msqrt>
+       <mrow>
+        <msup>
+         <msub>
+          <mi>
+           x
+          </mi>
+          <mi>
+           b
+          </mi>
+         </msub>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mo>
+         +
+        </mo>
+        <msup>
+         <msub>
+          <mi>
+           y
+          </mi>
+          <mi>
+           b
+          </mi>
+         </msub>
+         <mn>
+          2
+         </mn>
+        </msup>
+       </mrow>
+      </msqrt>
+     </mrow>
+    </math>
+    , то можно определить косинус угла между векторами и, следовательно, величину угла.
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <div align="left">
+      <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+       <mtable columnalign="left" indentalign="left">
+        <mtr>
+         <mtd>
+          <mi mathvariant="italic">
+           cos
+          </mi>
+          <mspace width="0.147em">
+          </mspace>
+          <mi mathvariant="normal">
+           α
+          </mi>
+          <mspace width="0.147em">
+          </mspace>
+          <mo>
+           =
+          </mo>
+          <mspace width="0.147em">
+          </mspace>
+          <mfrac>
+           <mrow>
+            <mover>
+             <mi>
+              a
+             </mi>
+             <mo>
+              →
+             </mo>
+            </mover>
+            <mo>
+             ⋅
+            </mo>
+            <mover>
+             <mi>
+              b
+             </mi>
+             <mo>
+              →
+             </mo>
+            </mover>
+            <mspace width="0.147em">
+            </mspace>
+            <mspace width="0.147em">
+            </mspace>
+           </mrow>
+           <mrow>
+            <mfenced close="|" open="|">
+             <mover>
+              <mi>
+               a
+              </mi>
+              <mo>
+               →
+              </mo>
+             </mover>
+            </mfenced>
+            <mo>
+             ⋅
+            </mo>
+            <mfenced close="|" open="|">
+             <mover>
+              <mi>
+               b
+              </mi>
+              <mo>
+               →
+              </mo>
+             </mover>
+            </mfenced>
+           </mrow>
+          </mfrac>
+          <mo>
+           ;
+          </mo>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mrow>
+          </mrow>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mi mathvariant="italic">
+           cos
+          </mi>
+          <mspace width="0.147em">
+          </mspace>
+          <mi mathvariant="normal">
+           α
+          </mi>
+          <mspace width="0.147em">
+          </mspace>
+          <mo>
+           =
+          </mo>
+          <mspace width="0.147em">
+          </mspace>
+          <mfrac>
+           <mrow>
+            <msub>
+             <mi>
+              x
+             </mi>
+             <mi>
+              a
+             </mi>
+            </msub>
+            <mo>
+             ⋅
+            </mo>
+            <mspace width="0.147em">
+            </mspace>
+            <msub>
+             <mi>
+              x
+             </mi>
+             <mi>
+              b
+             </mi>
+            </msub>
+            <mspace width="0.147em">
+            </mspace>
+            <mo>
+             +
+            </mo>
+            <mspace width="0.147em">
+            </mspace>
+            <msub>
+             <mi>
+              y
+             </mi>
+             <mi>
+              a
+             </mi>
+            </msub>
+            <mo>
+             ⋅
+            </mo>
+            <mspace width="0.147em">
+            </mspace>
+            <msub>
+             <mi>
+              y
+             </mi>
+             <mi>
+              b
+             </mi>
+            </msub>
+            <mspace width="0.147em">
+            </mspace>
+           </mrow>
+           <mrow>
+            <mspace width="0.147em">
+            </mspace>
+            <msqrt>
+             <mrow>
+              <msup>
+               <msub>
+                <mi>
+                 x
+                </mi>
+                <mi>
+                 a
+                </mi>
+               </msub>
+               <mn>
+                2
+               </mn>
+              </msup>
+              <mo>
+               +
+              </mo>
+              <msup>
+               <msub>
+                <mi>
+                 y
+                </mi>
+                <mi>
+                 a
+                </mi>
+               </msub>
+               <mn>
+                2
+               </mn>
+              </msup>
+             </mrow>
+            </msqrt>
+            <mo>
+             ⋅
+            </mo>
+            <mspace width="0.147em">
+            </mspace>
+            <msqrt>
+             <mrow>
+              <msup>
+               <msub>
+                <mi>
+                 x
+                </mi>
+                <mi>
+                 b
+                </mi>
+               </msub>
+               <mn>
+                2
+               </mn>
+              </msup>
+              <mo>
+               +
+              </mo>
+              <msup>
+               <msub>
+                <mi>
+                 y
+                </mi>
+                <mi>
+                 b
+                </mi>
+               </msub>
+               <mn>
+                2
+               </mn>
+              </msup>
+             </mrow>
+            </msqrt>
+           </mrow>
+          </mfrac>
+          <mo>
+           .
+          </mo>
+         </mtd>
+        </mtr>
+       </mtable>
+      </math>
+     </div>
+     <div>
+      <div class="gxst-title">
+       Свойства скалярного произведения векторов.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    1. Скалярное произведение вектора самого на себя всегда больше или равно нулю. Скалярное произведение вектора самого на себя равно нулю тогда и только тогда, когда вектор равен нулевому вектору.
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mi>
+        a
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ⋅
+      </mo>
+      <mover>
+       <mi>
+        a
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       &gt;
+      </mo>
+      <mn>
+       0
+      </mn>
+      <mo>
+       ;
+      </mo>
+      <mspace width="0.294em">
+      </mspace>
+      <mover>
+       <mn>
+        0
+       </mn>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ⋅
+      </mo>
+      <mover>
+       <mn>
+        0
+       </mn>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mn>
+       0
+      </mn>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    <br/>
+    2. Скалярное произведение вектора самого на себя равно квадрату его модуля:
+   </div>
+   <div>
+    <br/>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mi>
+        a
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ⋅
+      </mo>
+      <mover>
+       <mi>
+        a
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <msup>
+       <mrow>
+        <mspace width="0.147em">
+        </mspace>
+        <mfenced close="|" open="|">
+         <mover>
+          <mi>
+           a
+          </mi>
+          <mo>
+           →
+          </mo>
+         </mover>
+        </mfenced>
+       </mrow>
+       <mn>
+        2
+       </mn>
+      </msup>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    3. Для скалярного произведения в силе переместительный закон:
+   </div>
+   <div>
+    <br/>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mover>
+       <mi>
+        a
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ⋅
+      </mo>
+      <mover>
+       <mi>
+        b
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mover>
+       <mi>
+        b
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ⋅
+      </mo>
+      <mover>
+       <mi>
+        a
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    4. Для скалярного произведения в силе распределительный закон:
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mfenced close=")" open="(">
+       <mrow>
+        <mover>
+         <mi>
+          a
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         +
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mover>
+         <mi>
+          b
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+       </mrow>
+      </mfenced>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ⋅
+      </mo>
+      <mover>
+       <mrow>
+        <mi>
+         c
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+       </mrow>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mover>
+       <mi>
+        a
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ⋅
+      </mo>
+      <mover>
+       <mi>
+        c
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       +
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mover>
+       <mi>
+        b
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ⋅
+      </mo>
+      <mover>
+       <mi>
+        c
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    5.  Для скалярного произведения в силе сочетательный закон:
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mfenced close=")" open="(">
+       <mrow>
+        <mspace width="0.147em">
+        </mspace>
+        <mi>
+         k
+        </mi>
+        <mo>
+         ⋅
+        </mo>
+        <mover>
+         <mi>
+          a
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+        <mspace width="0.147em">
+        </mspace>
+       </mrow>
+      </mfenced>
+      <mo>
+       ⋅
+      </mo>
+      <mover>
+       <mi>
+        b
+       </mi>
+       <mo>
+        →
+       </mo>
+      </mover>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi>
+       k
+      </mi>
+      <mo>
+       ⋅
+      </mo>
+      <mfenced close=")" open="(">
+       <mrow>
+        <mover>
+         <mi>
+          a
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         ⋅
+        </mo>
+        <mover>
+         <mi>
+          b
+         </mi>
+         <mo>
+          →
+         </mo>
+        </mover>
+       </mrow>
+      </mfenced>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    6. Если скалярное произведение двух ненулевых векторов равно нулю, то эти векторы перпендикулярны.
+   </div>
+  </div>
+  
+ </div>
+</div>

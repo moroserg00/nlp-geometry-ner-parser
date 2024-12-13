@@ -1,0 +1,126 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     <div>
+      <div class="gxst-definition">
+       <div>
+        <div>
+         Два угла, у которых одна сторона общая, а две другие являются продолжением одна другой, называются
+         <font class="gxst-color-emph">
+          с
+         </font>
+         <font class="gxst-color-emph">
+          межными
+         </font>
+         .
+        </div>
+       </div>
+      </div>
+      <img alt="Lenku_veidi_1taisne.png" class="gxs-resource-image" height="378" src="//ykl-res.azureedge.net/7d2f56c6-bce7-45af-980a-252385111686/Lenku_veidi_1taisne.png" width="464"/>
+     </div>
+    </div>
+   </div>
+   <div>
+    Так как угол
+    m
+    как развёрнутый угол, и луч l делит его на две части, то
+    m
+    .
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Сумма смежных углов равна
+       m
+       .
+      </div>
+     </div>
+    </div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       Два угла называются
+       <font class="gxst-color-emph">
+        вертикальными
+       </font>
+       , если обе стороны одного угла являются продолжениями сторон другого.
+      </div>
+     </div>
+    </div>
+    <img alt="Lenku_veidi_2taisnes.png" class="gxs-resource-image" height="562" src="//ykl-res.azureedge.net/7f1e63bf-4378-4534-a335-5aa041ede9e7/Lenku_veidi_2taisnes.png" width="503"/>
+   </div>
+   <div>
+    Если пересекаются две прямые, то образуются две пары вертикальных углов —
+    m
+    и
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    и
+    m
+    по свойству смежных углов, следовательно,
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Также понятно, что
+    m
+    .
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Вертикальные углы равны.
+     </div>
+    </div>
+   </div>
+   <div>
+    Если один из вертикальных углов прямой (равен
+    m
+    ), то остальные углы тоже прямые.
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       Если две пересекающиеся прямые образуют четыре прямых угла, они называются
+       <font class="gxst-color-emph">
+        перпендикулярными
+       </font>
+       .
+      </div>
+     </div>
+    </div>
+    <img alt="пер прямые 7.png" class="gxs-resource-image" height="346" src="//ykl-res.azureedge.net/d84f31dc-f29c-430c-a876-4b8f24ce1bac/%D0%BF%D0%B5%D1%80%D0%BF%D1%80%D1%8F%D0%BC%D1%8B%D0%B57.png" width="516"/>
+   </div>
+   <div>
+    Это записывают
+    m
+    .
+   </div>
+   <div>
+    <div>
+     <div class="gxst-theory">
+      <div>
+       Две прямые, перпендикулярные к третьей, не пересекаются.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="пер прямые 6.png" class="gxs-resource-image" height="346" src="//ykl-res.azureedge.net/f52c0523-e76a-4c59-9cee-e544be35a01c/%D0%BF%D0%B5%D1%80%D0%BF%D1%80%D1%8F%D0%BC%D1%8B%D0%B56.png" width="516"/>
+   </div>
+   <div>
+   </div>
+  </div>
+ </div>
+</div>

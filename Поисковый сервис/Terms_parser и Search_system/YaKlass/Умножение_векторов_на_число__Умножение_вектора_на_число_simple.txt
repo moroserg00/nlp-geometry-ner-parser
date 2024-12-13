@@ -1,0 +1,87 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         Произведением вектора
+         m
+         на число l (
+         m
+         ) называется вектор
+         m
+         , модуль которого равен
+         m
+         , при этом:
+        </div>
+       </div>
+      </div>
+      <div>
+       <div>
+        - векторы
+        m
+        и
+        m
+        сонаправлены, если l;
+       </div>
+       <div>
+        - векторы
+        m
+        и
+        m
+        противоположно направлены, если l.
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     <img alt="Reiz1.png" class="gxs-resource-image" height="390" src="//ykl-res.azureedge.net/4d177694-1106-436c-a0c3-17804f0a0f71/Reiz1.png" width="546"/>
+    </div>
+    <div>
+     При умножении вектора на число данный вектор и результат коллинеарны.
+    </div>
+    <div>
+     <div class="gxst-theory">
+      <div>
+       <div>
+        Справедливо следующее суждение:
+       </div>
+       <div>
+        два ненулевых вектора
+        m
+        и
+        m
+        коллинеарны тогда и только тогда, когда существует такое число l, при котором выполняется равенство
+        m
+        .
+       </div>
+      </div>
+     </div>
+     <div class="gxst-important">
+      <div class="gxst-ititle">
+       <span>
+        Обрати внимание!
+       </span>
+      </div>
+      <div class="gxst-ibody" title="Обрати внимание!">
+       <div>
+        Если умножить вектор на число l, получим равные векторы.
+       </div>
+       <div>
+        Если умножить вектор на число l, получим противоположные векторы.
+       </div>
+       <div>
+        <img alt="Reiz2.png" class="gxs-resource-image" height="392" src="//ykl-res.azureedge.net/49b6b747-a9a9-4328-8bb8-52dd557bb1a3/Reiz2.png" width="543"/>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

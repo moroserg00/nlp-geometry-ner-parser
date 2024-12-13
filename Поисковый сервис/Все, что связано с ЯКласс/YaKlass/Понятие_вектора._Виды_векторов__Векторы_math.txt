@@ -1,0 +1,156 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi mathvariant="italic">
+           AB
+          </mi>
+<mo>
+           →
+          </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+           a
+          </mi>
+<mo>
+           →
+          </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mn>
+         0
+        </mn>
+<mo>
+         →
+        </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi mathvariant="italic">
+           AB
+          </mi>
+<mo>
+           →
+          </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfenced close="|" open="|">
+<mover>
+<mi mathvariant="italic">
+            AB
+           </mi>
+<mo>
+            →
+           </mo>
+</mover>
+</mfenced>
+<mspace width="0.147em">
+</mspace>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfenced close="|" open="|">
+<mover>
+<mi>
+            g
+           </mi>
+<mo>
+            →
+           </mo>
+</mover>
+</mfenced>
+<mo>
+          =
+         </mo>
+<mn>
+          1
+         </mn>
+<mo>
+          .
+         </mo>
+<mn>
+          5
+         </mn>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfenced close="|" open="|">
+<mover>
+<mi mathvariant="italic">
+            AB
+           </mi>
+<mo>
+            →
+           </mo>
+</mover>
+</mfenced>
+<mo>
+          =
+         </mo>
+<mn>
+          3
+         </mn>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+           g
+          </mi>
+<mo>
+           →
+          </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi mathvariant="italic">
+           AB
+          </mi>
+<mo>
+           →
+          </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfenced close="|" open="|">
+<mover>
+<mn>
+            0
+           </mn>
+<mo>
+            →
+           </mo>
+</mover>
+</mfenced>
+<mo>
+          =
+         </mo>
+<mn>
+          0
+         </mn>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi mathvariant="italic">
+             AD
+            </mi>
+<mo>
+             →
+            </mo>
+</mover>
+</mrow>
+</math>]

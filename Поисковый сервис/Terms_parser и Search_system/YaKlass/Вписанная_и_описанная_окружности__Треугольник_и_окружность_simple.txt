@@ -1,0 +1,257 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Окружность, описанная около треугольника.
+    </div>
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      Окружность называют
+      <span class="gxst-emph">
+       описанной около треугольника
+      </span>
+      , если все вершины треугольника расположены на окружности.
+     </div>
+    </div>
+   </div>
+   <div>
+    Её центр равноудалён от всех вершин, то есть должен находиться в точке пересечения серединных перпендикуляров к сторонам треугольника.
+   </div>
+   <div>
+    Следовательно, около любого треугольника можно описать окружность, так как серединные перпендикуляры к сторонам пересекаются в одной точке.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Trijst_vidusp_01.png" class="gxs-resource-image" height="314" src="//ykl-res.azureedge.net/3e176b65-88aa-43b8-a77b-d09c067d6c74/Trijst_vidusp_01.png" width="290"/>
+   </div>
+   <div>
+   </div>
+   <div align="center">
+    <div align="center">
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <div>
+            <div>
+             <div align="left">
+              Для остроугольного треугольника центр окружности находится в треугольнике.
+             </div>
+             <div align="left">
+             </div>
+             <div align="left">
+              Другая ситуация с прямоугольным и тупоугольным треугольниками.
+             </div>
+             <div align="left">
+             </div>
+             <div align="left">
+              <img alt="Trijst_vidusp21.png" class="gxs-resource-image" height="323" src="//ykl-res.azureedge.net/edde1368-d11f-473c-b582-4c3def4ceee0/Trijst_vidusp21.png" width="341"/>
+              <img alt="Trijst_vidusp11.png" class="gxs-resource-image" height="329" src="//ykl-res.azureedge.net/4ddfcb20-ff53-404d-b45c-f30f857883df/Trijst_vidusp11.png" width="346"/>
+             </div>
+             <div align="left">
+              <div class="gxst-title">
+               Окружность, вписанная в треугольник.
+              </div>
+             </div>
+             <div align="left">
+              <div class="gxst-definition">
+               <div>
+                <div align="left">
+                 Окружность называют
+                 <span class="gxst-emph">
+                  вписанной в треугольник
+                 </span>
+                 , если все стороны треугольника касаются окружности.
+                </div>
+               </div>
+              </div>
+              Её центр равноудалён от всех сторон, то есть должен находиться в точке пересечения биссектрис треугольника.
+             </div>
+             <div align="left">
+             </div>
+             <div align="left">
+              <div>
+               Следовательно, в любой треугольник можно вписать окружность, так как биссектрисы треугольника пересекаются в одной точке.
+              </div>
+              <div>
+              </div>
+             </div>
+             <div align="left">
+              <img alt="Trijst_bisektrises_01.png" class="gxs-resource-image" height="281" src="//ykl-res.azureedge.net/9bf4b226-dd12-4ddd-8788-d220cddf10d7/Trijst_bisektrises_01.png" width="411"/>
+             </div>
+             <div align="left">
+             </div>
+             <div align="left">
+              Так как биссектрисы углов треугольника всегда пересекаются внутри треугольника, то для всех треугольников центр вписанной окружности находится в треугольниках.
+             </div>
+             <div align="left">
+              <div class="gxst-title">
+               Формулы.
+              </div>
+             </div>
+             <div align="left">
+              <span>
+               <strong>
+                Равносторонний треугольник
+               </strong>
+              </span>
+             </div>
+             <div align="left">
+              <span>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div align="left">
+     <div class="gxst-important">
+      <div class="gxst-ititle">
+       <span>
+        Обрати внимание!
+       </span>
+      </div>
+      <div class="gxst-ibody" title="Обрати внимание!">
+       <div align="left">
+        У равностороннего треугольника совпадают биссектрисы, медианы и высоты, то есть, эти отрезки являются также серединными перпендикулярами. Это значит, что центры описанной и вписанной окружности совпадают.
+       </div>
+      </div>
+     </div>
+     <div align="left">
+      <u>
+       Радиус описанной окружности
+      </u>
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      m
+      , поэтому
+      m
+      .
+     </div>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <u>
+      Радиус вписанной окружности
+     </u>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     m
+     , где l — высота треугольника.
+    </div>
+    <div align="left">
+     Если дана сторона треугольника l, то
+     m
+     .
+    </div>
+    <div align="left">
+     Поэтому
+     m
+     .
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <span>
+      <div align="left">
+       <strong>
+        Прямоугольный треугольник
+       </strong>
+      </div>
+     </span>
+     <strong>
+     </strong>
+     <div align="left">
+      <u>
+       Радиус описанной окружности
+      </u>
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      m
+      , где l — гипотенуза.
+     </div>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <u>
+      Радиус вписанной окружности
+     </u>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     m
+     , где l — полупериметр.
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <span>
+      <strong>
+       Произвольный треугольник
+      </strong>
+     </span>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <u>
+      Радиус описанной окружности
+     </u>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     m
+     ;
+    </div>
+    <div align="left">
+     m
+     , где
+     m
+     — угол, противолежащий стороне l;
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     m
+     .
+    </div>
+   </div>
+   <div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <u>
+      Радиус вписанной окружности
+     </u>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     m
+     , где l — полупериметр.
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

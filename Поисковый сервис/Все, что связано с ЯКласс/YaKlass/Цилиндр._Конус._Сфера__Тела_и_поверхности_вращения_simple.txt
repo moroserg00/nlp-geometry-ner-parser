@@ -1,0 +1,334 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Цилиндр.
+    </div>
+   </div>
+   <div>
+    Цилиндр можно получить вращением прямоугольника
+    m
+    вокруг одной из его сторон
+    m
+    или прямоугольника
+    m
+    вокруг прямой
+    m
+    , которая проходит через серединные точки противолежащих сторон.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Cilindrs_ax1.png" class="gxs-resource-image" height="333" src="//ykl-res.azureedge.net/4507c300-e1fc-4bf5-b217-3ce39e4b6b64/Cilindrs_ax1.png" width="239"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Прямая
+    m
+    называется
+    <span class="gxst-emph">
+     осью
+    </span>
+    цилиндра,
+    m
+    и
+    m
+    —
+    <span class="gxst-emph">
+     образующими
+    </span>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <span class="gxst-emph">
+     Высота
+    </span>
+    l цилиндра совпадает с любым из отрезков
+    m
+    l
+    m
+    l
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Два круга, которые образовались при вращении, называют
+    <span class="gxst-emph">
+     основаниями
+    </span>
+    цилиндра.
+   </div>
+   <div>
+   </div>
+   <div>
+    <span class="gxst-emph">
+     Радиусом
+    </span>
+    l l l l l цилиндра называется радиус его основания.
+    <br/>
+    <br/>
+    <span class="gxst-emph">
+     Осевым сечением
+    </span>
+    цилиндра называется сечение цилиндра плоскостью, проходящей через его ось. Осевым сечением цилиндра (прямого кругового цилиндра) является прямоугольник, на данном рисунке — прямоугольник
+    m
+    .
+   </div>
+   <div>
+    <br/>
+    <span class="gxst-emph">
+     Развёртка
+    </span>
+    боковой поверхности цилиндра — тоже прямоугольник.
+   </div>
+   <div>
+    <br/>
+    <img alt="Sanu_vsma1.png" class="gxs-resource-image" height="269" src="//ykl-res.azureedge.net/ff8f422d-9cc8-4515-81e5-e9744e448f2e/Sanu_vsma1.png" width="539"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Боковая поверхность прямого кругового цилиндра равна произведению длины окружности основания на высоту:
+    <br/>
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Полная поверхность цилиндра вычисляется по формуле:
+    <br/>
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Для объёма прямого кругового цилиндра верно:
+    <br/>
+    m
+    .
+   </div>
+   <div>
+    <div>
+     <span>
+      <div class="gxst-title">
+       Конус.
+      </div>
+     </span>
+    </div>
+    <div>
+     <span>
+      <span>
+       Конус
+      </span>
+     </span>
+     можно получить вращением прямоугольного треугольника l вокруг одного из его катетов l или равнобедренного треугольника l вокруг прямой l, проходящей через вершину l и середину l основания треугольника.
+    </div>
+    <div>
+    </div>
+   </div>
+   <div>
+    <img alt="Konuss.png" class="gxs-resource-image" height="366" src="//ykl-res.azureedge.net/768b7b8a-6786-42b7-a34e-31a04e17f04c/Konuss.png" width="232"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <span class="gxst-emph">
+     Осью
+    </span>
+    прямого кругового конуса называется прямая l, содержащая его
+    <span class="gxst-emph">
+     высоту
+    </span>
+    l.
+   </div>
+   <div>
+    <br/>
+    <span class="gxst-emph">
+     Осевое сечение
+    </span>
+    конуса, проходящее через его вершину, представляет собой равнобедренный треугольник, у которого боковые стороны l и l являются
+    <span>
+     <span class="gxst-emph">
+      <span>
+       образующими
+      </span>
+     </span>
+     l
+    </span>
+    конуса.
+   </div>
+   <div>
+   </div>
+   <div>
+    <span class="gxst-emph">
+     Радиус
+    </span>
+    конуса l l l l l — это радиус основания.
+   </div>
+   <div>
+   </div>
+   <div>
+    <span class="gxst-emph">
+     Развёртка
+    </span>
+    боковой поверхности конуса представляет собой круговой сектор.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Sanu_vsma11.png" class="gxs-resource-image" height="433" src="//ykl-res.azureedge.net/4ccc964c-0274-4417-b78d-0e316c63c6c5/Sanu_vsma11.png" width="430"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Радиус этого сектора равен образующей конуса, то есть равен l, а длина дуги сектора равна длине окружности основания конуса, то есть равна l.
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     Площадь боковой поверхности конуса определяется как площадь данного кругового сектора:
+    </div>
+    <div>
+     m
+     .
+    </div>
+    <div>
+    </div>
+    <div>
+     Если рассмотреть длину окружности основания конуса как длину дуги кругового сектора, получаем:
+    </div>
+    <div>
+     m
+    </div>
+    <div>
+    </div>
+    <div>
+     m
+     — ещё одна формула для определения боковой поверхности конуса.
+    </div>
+    <div>
+    </div>
+    <div>
+     Полная поверхность конуса:
+    </div>
+    <div>
+     m
+     .
+    </div>
+    <div>
+    </div>
+    <div>
+     Объём конуса находим по формуле:
+    </div>
+    <div>
+     m
+     .
+    </div>
+   </div>
+   <div>
+    <span>
+     <div>
+      <span>
+       <div class="gxst-title">
+        Шар и поверхность шара — сфера.
+       </div>
+      </span>
+     </div>
+    </span>
+   </div>
+   <div>
+    Сфера получается при вращении полукруга или круга вокруг его диаметра l как оси.
+   </div>
+   <div>
+    <br/>
+    <img alt="Lode1.png" class="gxs-resource-image" height="373" src="//ykl-res.azureedge.net/968e6120-c816-4509-8694-a94de0a50552/Lode1.png" width="378"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Граница шара называется
+    <span class="gxst-emph">
+     шаровой поверхностью
+    </span>
+    , или
+    <span class="gxst-emph">
+     сферой
+    </span>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Таким образом, точками сферы являются все точки шара, которые удалены от центра l на расстояние, равное
+    <span>
+     <span class="gxst-emph">
+      <span>
+       радиусу
+      </span>
+     </span>
+     <span>
+      l
+     </span>
+     .
+    </span>
+   </div>
+   <div>
+    <span>
+    </span>
+   </div>
+   <div>
+    Любой отрезок, такой как l, l и l или другие, соединяющие центр шара с точкой шаровой поверхности, также называется радиусом.
+    <br/>
+   </div>
+   <div>
+    Отрезок, соединяющий две точки шаровой поверхности и проходящий через центр шара, называется
+    <span class="gxst-emph">
+     диаметром
+    </span>
+    , как l на рисунке. Концы любого диаметра называются
+    <span class="gxst-emph">
+     диаметрально противоположными точками
+    </span>
+    шара.
+   </div>
+   <div>
+    <br/>
+    Сечение шара плоскостью, проходящей через его центр, называется
+    <span class="gxst-emph">
+     большим кругом
+    </span>
+    , а сечение сферы —
+    <span class="gxst-emph">
+     большой окружностью
+    </span>
+    .
+    <br/>
+   </div>
+   <div>
+    Поверхность сферы:
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Объём шара:
+   </div>
+   <div>
+    m
+    .
+   </div>
+  </div>
+ </div>
+</div>

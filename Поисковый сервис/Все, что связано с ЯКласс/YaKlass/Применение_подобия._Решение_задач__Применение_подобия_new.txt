@@ -1,0 +1,979 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Подобие.
+    </div>
+   </div>
+   <div>
+    <img alt="shutterstock_1204240012.jpg" class="gxs-resource-image" height="225" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/93e295b5-758a-4dc8-aae5-04036f4314a6/shutterstock1204240012w300.jpg" srcset="//ykl-res.azureedge.net/93e295b5-758a-4dc8-aae5-04036f4314a6/shutterstock1204240012w300.jpg 300w, //ykl-res.azureedge.net/31ce20d6-b167-4025-b0b1-3db9ee8a14a8/shutterstock1204240012w600.jpg 600w, //ykl-res.azureedge.net/8dafe2ea-4ed8-4e60-93ec-5fb1358c4eb6/shutterstock1204240012.jpg 1024w" width="300"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Подобными фигурами могут быть не только треугольники.
+   </div>
+   <div>
+    Если изменить (увеличить или уменьшить) все размеры любой плоской фигуры в одно и то же число раз (отношение подобия), то старая и новая фигуры называются подобными при условии, что в двух подобных фигурах любые соответственные углы равны.
+   </div>
+   <div>
+    <br/>
+    Также два тела могут быть подобны, если одно из них может быть получено из другого путём увеличения (или уменьшения) всех его линейных размеров в одном и том же отношении.
+   </div>
+   <div>
+   </div>
+   <div>
+    Например, картина и её фотография — это подобные фигуры. Карты одной и той же территории, сделанные в разных масштабах, подобны.
+   </div>
+   <div>
+   </div>
+   <div>
+    Автомобиль и его модель — подобные тела, также любой макет подобен оригиналу, если сделан с соблюдением масштаба всех размеров.
+   </div>
+   <div>
+   </div>
+   <div>
+    Из геометрических фигур всегда подобны:
+   </div>
+   <div>
+    все квадраты,
+   </div>
+   <div>
+    все равносторонние треугольники,
+   </div>
+   <div>
+    все круги,
+   </div>
+   <div>
+    все окружности.
+   </div>
+   <div>
+   </div>
+   <div>
+    В заданиях школьного курса геометрии всё-таки чаще будут использованы подобные треугольники. Далее рассмотрим, как в разных ситуациях образуются подобные треугольники или как их использовать для решения проблем.
+   </div>
+   <div>
+    <div class="gxst-title">
+     Средняя линия треугольника.
+    </div>
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      Отрезок, соединяющий середины двух сторон треугольника, называется
+      <font class="gxst-color-emph">
+       средней линией
+      </font>
+      этого
+      <font class="gxst-color-emph">
+       треугольника
+      </font>
+      .
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Средняя линия треугольника параллельна одной из его сторон и равна половине этой стороны.
+     </div>
+    </div>
+    <img alt="Vidusl.png" class="gxs-resource-image" height="276" src="//ykl-res.azureedge.net/1d3e437a-96f9-491e-b39b-c7097a36ff05/Vidusl.png" width="298"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mtable columnalign="left" indentalign="left">
+      <mtr>
+       <mtd>
+        <mi mathvariant="italic">
+         EF
+        </mi>
+        <mo>
+         ∥
+        </mo>
+        <mi mathvariant="italic">
+         AC
+        </mi>
+        <mo>
+         ;
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mi mathvariant="italic">
+         EF
+        </mi>
+        <mo>
+         =
+        </mo>
+        <mfrac>
+         <mi mathvariant="italic">
+          AC
+         </mi>
+         <mn>
+          2
+         </mn>
+        </mfrac>
+        <mo>
+         .
+        </mo>
+       </mtd>
+      </mtr>
+     </mtable>
+    </math>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+      </div>
+      <div>
+       В каждом треугольнике три средних линии.
+      </div>
+      <div>
+      </div>
+      <div>
+       <img alt="Vidusl2.png" class="gxs-resource-image" height="279" src="//ykl-res.azureedge.net/45a21ef3-0e3c-4e57-a27b-8af664227fb3/Vidusl2.png" width="301"/>
+      </div>
+      <div>
+      </div>
+      <div>
+       Средние линии \(DE\), \(EF\), \(DF\).
+      </div>
+      <div>
+      </div>
+      <div>
+       <div class="gxst-important">
+        <div class="gxst-ititle">
+         <span>
+          Обрати внимание!
+         </span>
+        </div>
+        <div class="gxst-ibody" title="Обрати внимание!">
+         Данный треугольник \(ABC\) и треугольник \(FDE\), образованный средними линиями, подобны по признаку подобия о трёх пропорциональных сторонах.
+        </div>
+       </div>
+      </div>
+      <div>
+       <div class="gxst-title">
+        Пропорциональные отрезки в прямоугольном треугольнике.
+       </div>
+      </div>
+      <div>
+       <img alt="Taisnl_prop.png" class="gxs-resource-image" height="215" src="//ykl-res.azureedge.net/c8bc0aa2-c4bf-4afb-ba47-e3401d79dd7c/Taisnl_prop.png" width="381"/>
+      </div>
+      <div>
+      </div>
+      <div>
+       Если в прямоугольном треугольнике провести высоту к гипотенузе, получаем три пары прямоугольных треугольников по признаку подобия о равных углах, так как
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+         <mi mathvariant="italic">
+          BAC
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          +
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+         <mi mathvariant="italic">
+          ACB
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mn>
+          90
+         </mn>
+         <mi mathvariant="normal">
+          °
+         </mi>
+        </mrow>
+       </math>
+       и
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+         <mi mathvariant="italic">
+          CBD
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          +
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+         <mi mathvariant="italic">
+          DBA
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mn>
+          90
+         </mn>
+         <mi mathvariant="normal">
+          °
+         </mi>
+        </mrow>
+       </math>
+       , следовательно,
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+         <mi mathvariant="italic">
+          BAC
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+         <mi mathvariant="italic">
+          CBD
+         </mi>
+         <mo>
+          ,
+         </mo>
+         <mspace width="0.294em">
+         </mspace>
+         <mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+         <mi mathvariant="italic">
+          ACB
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mo lspace="4px" rspace="4px">
+          ∡
+         </mo>
+         <mi mathvariant="italic">
+          DBA
+         </mi>
+        </mrow>
+       </math>
+       .
+      </div>
+      <div>
+      </div>
+      <div>
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mi mathvariant="normal">
+          Δ
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="italic">
+          ABC
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          ∼
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="normal">
+          Δ
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="italic">
+          ADB
+         </mi>
+         <mo>
+          ,
+         </mo>
+         <mspace width="0.294em">
+         </mspace>
+         <mi mathvariant="normal">
+          Δ
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="italic">
+          ABC
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          ∼
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="normal">
+          Δ
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="italic">
+          BDC
+         </mi>
+         <mo>
+          ,
+         </mo>
+         <mspace width="0.441em">
+         </mspace>
+         <mi mathvariant="normal">
+          Δ
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="italic">
+          ADB
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          ∼
+         </mo>
+         <mi mathvariant="normal">
+          Δ
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="italic">
+          BDC
+         </mi>
+        </mrow>
+       </math>
+       .
+      </div>
+      <div>
+      </div>
+      <div>
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mtable columnalign="left" indentalign="left">
+         <mtr>
+          <mtd>
+           <mfrac>
+            <mi mathvariant="italic">
+             AB
+            </mi>
+            <mi mathvariant="italic">
+             AD
+            </mi>
+           </mfrac>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            =
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mfrac>
+            <mi mathvariant="italic">
+             AC
+            </mi>
+            <mi mathvariant="italic">
+             AB
+            </mi>
+           </mfrac>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            =
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mfrac>
+            <mi mathvariant="italic">
+             BC
+            </mi>
+            <mi mathvariant="italic">
+             DB
+            </mi>
+           </mfrac>
+           <mo>
+            ;
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mspace width="0.147em">
+           </mspace>
+           <mspace width="0.147em">
+           </mspace>
+           <mspace width="0.147em">
+           </mspace>
+           <mspace width="0.147em">
+           </mspace>
+          </mtd>
+         </mtr>
+         <mtr>
+          <mtd>
+           <mrow>
+           </mrow>
+          </mtd>
+         </mtr>
+         <mtr>
+          <mtd>
+           <mfrac>
+            <mi mathvariant="italic">
+             AB
+            </mi>
+            <mi mathvariant="italic">
+             BD
+            </mi>
+           </mfrac>
+           <mo>
+            =
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mfrac>
+            <mi mathvariant="italic">
+             AC
+            </mi>
+            <mi mathvariant="italic">
+             BC
+            </mi>
+           </mfrac>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            =
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mfrac>
+            <mi mathvariant="italic">
+             BC
+            </mi>
+            <mi mathvariant="italic">
+             DC
+            </mi>
+           </mfrac>
+           <mo>
+            ;
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+          </mtd>
+         </mtr>
+         <mtr>
+          <mtd>
+           <mrow>
+           </mrow>
+          </mtd>
+         </mtr>
+         <mtr>
+          <mtd>
+           <mfrac>
+            <mi mathvariant="italic">
+             AD
+            </mi>
+            <mi mathvariant="italic">
+             BD
+            </mi>
+           </mfrac>
+           <mo>
+            =
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mfrac>
+            <mi mathvariant="italic">
+             AB
+            </mi>
+            <mi mathvariant="italic">
+             BC
+            </mi>
+           </mfrac>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            =
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mfrac>
+            <mi mathvariant="italic">
+             DB
+            </mi>
+            <mi mathvariant="italic">
+             DC
+            </mi>
+           </mfrac>
+           <mo>
+            ;
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+          </mtd>
+         </mtr>
+        </mtable>
+       </math>
+      </div>
+      <div>
+      </div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <div>
+            <div>
+             <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+              <mtable columnalign="left" indentalign="left">
+               <mtr>
+                <mtd>
+                 <mfrac>
+                  <mi mathvariant="italic">
+                   AB
+                  </mi>
+                  <mi mathvariant="italic">
+                   AD
+                  </mi>
+                 </mfrac>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo>
+                  =
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mfrac>
+                  <mi mathvariant="italic">
+                   AC
+                  </mi>
+                  <mi mathvariant="italic">
+                   AB
+                  </mi>
+                 </mfrac>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo lspace="verythickmathspace" rspace="verythickmathspace">
+                  ⇒
+                 </mo>
+                 <msup>
+                  <mrow>
+                   <mspace width="0.147em">
+                   </mspace>
+                   <mi mathvariant="italic">
+                    AB
+                   </mi>
+                  </mrow>
+                  <mn>
+                   2
+                  </mn>
+                 </msup>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo>
+                  =
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mi mathvariant="italic">
+                  AC
+                 </mi>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mi mathvariant="italic">
+                  AD
+                 </mi>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo lspace="verythickmathspace" rspace="verythickmathspace">
+                  ⇒
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mi mathvariant="italic">
+                  AB
+                 </mi>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo>
+                  =
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <msqrt>
+                  <mrow>
+                   <mi mathvariant="italic">
+                    AC
+                   </mi>
+                   <mo>
+                    ⋅
+                   </mo>
+                   <mi mathvariant="italic">
+                    AD
+                   </mi>
+                  </mrow>
+                 </msqrt>
+                 <mo>
+                  ;
+                 </mo>
+                </mtd>
+               </mtr>
+               <mtr>
+                <mtd>
+                 <mrow>
+                 </mrow>
+                </mtd>
+               </mtr>
+               <mtr>
+                <mtd>
+                 <mfrac>
+                  <mi mathvariant="italic">
+                   AC
+                  </mi>
+                  <mi mathvariant="italic">
+                   BC
+                  </mi>
+                 </mfrac>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo>
+                  =
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mfrac>
+                  <mi mathvariant="italic">
+                   BC
+                  </mi>
+                  <mi mathvariant="italic">
+                   DC
+                  </mi>
+                 </mfrac>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo lspace="verythickmathspace" rspace="verythickmathspace">
+                  ⇒
+                 </mo>
+                 <msup>
+                  <mrow>
+                   <mspace width="0.147em">
+                   </mspace>
+                   <mi mathvariant="italic">
+                    BC
+                   </mi>
+                  </mrow>
+                  <mn>
+                   2
+                  </mn>
+                 </msup>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo>
+                  =
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mi mathvariant="italic">
+                  AC
+                 </mi>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mi mathvariant="italic">
+                  DC
+                 </mi>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo lspace="verythickmathspace" rspace="verythickmathspace">
+                  ⇒
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mi mathvariant="italic">
+                  BC
+                 </mi>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo>
+                  =
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <msqrt>
+                  <mrow>
+                   <mi mathvariant="italic">
+                    AC
+                   </mi>
+                   <mo>
+                    ⋅
+                   </mo>
+                   <mi mathvariant="italic">
+                    DC
+                   </mi>
+                  </mrow>
+                 </msqrt>
+                 <mo>
+                  ;
+                 </mo>
+                </mtd>
+               </mtr>
+               <mtr>
+                <mtd>
+                 <mrow>
+                 </mrow>
+                </mtd>
+               </mtr>
+               <mtr>
+                <mtd>
+                 <mfrac>
+                  <mi mathvariant="italic">
+                   AD
+                  </mi>
+                  <mi mathvariant="italic">
+                   BD
+                  </mi>
+                 </mfrac>
+                 <mo>
+                  =
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mfrac>
+                  <mi mathvariant="italic">
+                   DB
+                  </mi>
+                  <mi mathvariant="italic">
+                   DC
+                  </mi>
+                 </mfrac>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo>
+                  =
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <msup>
+                  <mrow>
+                   <mspace width="0.147em">
+                   </mspace>
+                   <mi mathvariant="italic">
+                    BD
+                   </mi>
+                  </mrow>
+                  <mn>
+                   2
+                  </mn>
+                 </msup>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo>
+                  =
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mi mathvariant="italic">
+                  AD
+                 </mi>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mi mathvariant="italic">
+                  DC
+                 </mi>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo lspace="verythickmathspace" rspace="verythickmathspace">
+                  ⇒
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mi mathvariant="italic">
+                  BD
+                 </mi>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <mo>
+                  =
+                 </mo>
+                 <mspace width="0.147em">
+                 </mspace>
+                 <msqrt>
+                  <mrow>
+                   <mi mathvariant="italic">
+                    AD
+                   </mi>
+                   <mo>
+                    ⋅
+                   </mo>
+                   <mi mathvariant="italic">
+                    DC
+                   </mi>
+                  </mrow>
+                 </msqrt>
+                 <mo>
+                  .
+                 </mo>
+                </mtd>
+               </mtr>
+              </mtable>
+             </math>
+            </div>
+            <div align="left">
+            </div>
+            <div>
+             <div class="gxst-title">
+              Практические приложения подобия треугольников.
+             </div>
+            </div>
+            <div>
+             1. Определение высоты трудноизмеряемого предмета.
+            </div>
+            <div>
+            </div>
+            <div>
+             <img alt="Lidziba_daba2.png" class="gxs-resource-image" height="261" src="//ykl-res.azureedge.net/8d6f5642-28c0-4e6d-b4f2-80801261be24/Lidziba_daba2.png" width="431"/>
+            </div>
+            <div>
+            </div>
+            <div>
+             С помощью шеста \(AC\) с вращающейся планкой, которая направляется к верхней недоступной точке
+             <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+              <mrow>
+               <msub>
+                <mi>
+                 A
+                </mi>
+                <mn>
+                 1
+                </mn>
+               </msub>
+              </mrow>
+             </math>
+             , рассматриваются подобные треугольники \(ABC\) и
+             <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+              <mrow>
+               <msub>
+                <mi>
+                 A
+                </mi>
+                <mn>
+                 1
+                </mn>
+               </msub>
+               <mi>
+                B
+               </mi>
+               <msub>
+                <mi>
+                 C
+                </mi>
+                <mn>
+                 1
+                </mn>
+               </msub>
+              </mrow>
+             </math>
+             .
+            </div>
+            <div>
+            </div>
+            <div>
+             2. Определение расстояния до недоступной точки.
+            </div>
+            <div>
+            </div>
+            <div>
+             <img alt="Lidziba_daba1.png" class="gxs-resource-image" height="270" src="//ykl-res.azureedge.net/f6cb34ba-ae97-4449-8cee-7c2954695d2b/Lidziba_daba1.png" width="495"/>
+            </div>
+            <div>
+            </div>
+            <div>
+             Измеряется отрезок \(AC\), с помощью необходимых инструментов измеряются углы \(A\) и \(C\), строится подобный треугольник
+             <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+              <mrow>
+               <msub>
+                <mi>
+                 A
+                </mi>
+                <mn>
+                 1
+                </mn>
+               </msub>
+               <msub>
+                <mi>
+                 B
+                </mi>
+                <mn>
+                 1
+                </mn>
+               </msub>
+               <msub>
+                <mi>
+                 C
+                </mi>
+                <mn>
+                 1
+                </mn>
+               </msub>
+              </mrow>
+             </math>
+             , в котором проводятся дальнейшие измерения.
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  
+ </div>
+</div>

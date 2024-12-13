@@ -1,0 +1,242 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       ABC
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>
+       B
+      </mi>
+<msub>
+<mi>
+        A
+       </mi>
+<mn>
+        1
+       </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+        A
+       </mi>
+<mn>
+        1
+       </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       ACB
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<msub>
+<mi>
+        A
+       </mi>
+<mn>
+        1
+       </mn>
+</msub>
+<mi mathvariant="italic">
+       CB
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       ACB
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<msub>
+<mi>
+        A
+       </mi>
+<mn>
+        1
+       </mn>
+</msub>
+<mi mathvariant="italic">
+       CB
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi mathvariant="italic">
+        AA
+       </mi>
+<mn>
+        1
+       </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi mathvariant="italic">
+        AA
+       </mi>
+<mn>
+        1
+       </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mn>
+        90
+       </mn>
+<mi mathvariant="normal">
+        °
+       </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi mathvariant="normal">
+       Δ
+      </mi>
+<mi mathvariant="italic">
+       ABD
+      </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+       =
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="normal">
+       Δ
+      </mi>
+<mi mathvariant="italic">
+       CBD
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi mathvariant="normal">
+       Δ
+      </mi>
+<mi mathvariant="italic">
+       ABD
+      </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+       =
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="normal">
+       Δ
+      </mi>
+<mi mathvariant="italic">
+       CBD
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       ABD
+      </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+       =
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       CBD
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi>
+       A
+      </mi>
+<mo>
+       =
+      </mo>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi>
+       C
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       ADB
+      </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+       =
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       CDB
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mn>
+       180
+      </mn>
+<mi mathvariant="normal">
+       °
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mn>
+       90
+      </mn>
+<mi mathvariant="normal">
+       °
+      </mi>
+</mrow>
+</math>]

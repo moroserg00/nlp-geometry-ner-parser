@@ -1,0 +1,162 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <span>
+     <div>
+      <span>
+       <div class="gxst-title">
+        Свойства, присущие только равнобедренным трапециям.
+       </div>
+      </span>
+     </div>
+    </span>
+   </div>
+   <div>
+    1. У равнобедренной трапеции углы при основаниях попарно равны.
+   </div>
+   <div>
+   </div>
+   <div>
+    На рисунке l равные углы
+    m
+    ,
+    m
+    .
+   </div>
+   <div>
+    <img alt="Трапеция 5.png" class="gxs-resource-image" height="197" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/95958ad7-a64b-4383-bce1-5ad0a811b417/%D0%A2%D1%80%D0%B0%D0%BF%D0%B5%D1%86%D0%B8%D1%8F5w300.png" srcset="//ykl-res.azureedge.net/95958ad7-a64b-4383-bce1-5ad0a811b417/%D0%A2%D1%80%D0%B0%D0%BF%D0%B5%D1%86%D0%B8%D1%8F5w300.png 300w, //ykl-res.azureedge.net/bee97c82-f09e-4fd4-ac68-1d478482d15c/%D0%A2%D1%80%D0%B0%D0%BF%D0%B5%D1%86%D0%B8%D1%8F5.png 527w" width="300"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l.
+    <em>
+     Равнобедренная трапеция с равными углами
+    </em>
+   </div>
+   <div>
+    <div>
+    </div>
+    <div>
+     2. Диагонали равнобедренной трапеции равны.
+    </div>
+    <div>
+    </div>
+    <div>
+     На рисунке l равны диагонали l.
+    </div>
+    <div>
+     <img alt="Трапеция 6.png" class="gxs-resource-image" height="220" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/5de76dbe-64f5-47d8-8257-5d110d03aeb1/%D0%A2%D1%80%D0%B0%D0%BF%D0%B5%D1%86%D0%B8%D1%8F6w300.png" srcset="//ykl-res.azureedge.net/5de76dbe-64f5-47d8-8257-5d110d03aeb1/%D0%A2%D1%80%D0%B0%D0%BF%D0%B5%D1%86%D0%B8%D1%8F6w300.png 300w, //ykl-res.azureedge.net/2fbbfd92-4cc4-43cd-b782-fceb32490c8d/%D0%A2%D1%80%D0%B0%D0%BF%D0%B5%D1%86%D0%B8%D1%8F6.png 490w" width="300"/>
+    </div>
+    <div>
+     <div>
+      <em>
+       Рис
+      </em>
+      . l.
+      <em>
+       Равнобедренная трапеция с равными диагоналями
+      </em>
+     </div>
+    </div>
+    <div align="left">
+     <span>
+      <span>
+       <span>
+        <span>
+         <span>
+          <span>
+           <span>
+            <span>
+             <span>
+              <span>
+               <span>
+                <span>
+                 <span>
+                  <span>
+                   <span>
+                    <span>
+                     <span>
+                      <span>
+                       <span>
+                        <span>
+                         <span>
+                          <span>
+                           <span>
+                            <span>
+                             <span>
+                              <span>
+                               <span>
+                                <span>
+                                 <span>
+                                  <span>
+                                   <span>
+                                    <span>
+                                     <span>
+                                      <span>
+                                       <div class="gxst-title">
+                                        Признаки равнобедренной трапеции.
+                                       </div>
+                                      </span>
+                                     </span>
+                                    </span>
+                                   </span>
+                                  </span>
+                                 </span>
+                                </span>
+                               </span>
+                              </span>
+                             </span>
+                            </span>
+                           </span>
+                          </span>
+                         </span>
+                        </span>
+                       </span>
+                      </span>
+                     </span>
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </span>
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </span>
+      </span>
+     </span>
+    </div>
+    <div align="left">
+     <div align="left">
+      <div>
+       <div align="left">
+        <div align="left">
+         1. Если углы при основании трапеции равны, то эта трапеция равнобедренная.
+        </div>
+        <div align="left">
+        </div>
+       </div>
+       <div align="left">
+        <div>
+         <div align="left">
+          2. Если диагонали трапеции равны, то эта трапеция равнобедренная.
+         </div>
+         <div align="left">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

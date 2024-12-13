@@ -1,0 +1,1881 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     <div>
+      <div class="gxst-title">
+       Площадь параллелограмма.
+      </div>
+     </div>
+    </div>
+    Необходимо определить, что такое
+    <font class="gxst-color-emph">
+     высота параллелограмма
+    </font>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Это перпендикуляр, проведённый из любой точки стороны параллелограмма к прямой, содержащей противоположную параллельную сторону. Обычно высоту проводят из вершины параллелограмма. Так как параллелограмм имеет две пары параллельных сторон, то он имеет высоты двух различных длин.
+   </div>
+   <div>
+   </div>
+   <div>
+    Высота \(BE\), проведённая между длинными сторонами, короче высоты \(BF\), проведённой между короткими сторонами.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Pgrama_augst.png" class="gxs-resource-image" height="201" src="//ykl-res.azureedge.net/ba3a2311-0db3-41be-b9e6-166b168226cf/Pgrama_augst.png" width="441"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Так как стороны ромба одинаковы, то высоты ромба также одинаковы: \(BE = BF\).
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Romba_augst.png" class="gxs-resource-image" height="262" src="//ykl-res.azureedge.net/165a5e7a-aaa6-464e-8185-b3151e577368/Romba_augst.png" width="416"/>
+    <span class="gxst-emph">
+    </span>
+   </div>
+   <div>
+    <span>
+     <span>
+      <div class="gxst-title">
+       Площадь произвольного параллелограмма.
+      </div>
+     </span>
+    </span>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Площадь параллелограмма равна произведению высоты и стороны, к которой проведена высота.
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Pgrama_lauk1.png" class="gxs-resource-image" height="190" src="//ykl-res.azureedge.net/43780410-af43-4a74-a820-9dc92692f368/Pgrama_lauk1.png" width="511"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Проведём высоты из двух вершин \(B\) и \(C\) к стороне \(AD\) .
+   </div>
+   <div>
+   </div>
+   <div>
+    Прямоугольные треугольники \(ABE\) и \(DCF\) равны (равные гипотенузы как противоположные стороны параллелограмма и равные катеты как расстояние между параллельными прямыми).
+   </div>
+   <div>
+   </div>
+   <div>
+    Параллелограмм \(ABCD\) и прямоугольник \(EBCF\) — равновеликие, так как состоят из равных фигур:
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mtable columnalign="left" indentalign="left">
+      <mtr>
+       <mtd>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mi mathvariant="italic">
+          ABCD
+         </mi>
+        </msub>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mi mathvariant="italic">
+          ABE
+         </mi>
+        </msub>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         +
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mi mathvariant="italic">
+          EBCD
+         </mi>
+        </msub>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mi mathvariant="italic">
+          EBCF
+         </mi>
+        </msub>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mi mathvariant="italic">
+          EBCD
+         </mi>
+        </msub>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         +
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mrow>
+          <mi mathvariant="italic">
+           DCF
+          </mi>
+          <mo>
+           .
+          </mo>
+         </mrow>
+        </msub>
+       </mtd>
+      </mtr>
+     </mtable>
+    </math>
+   </div>
+   <div>
+   </div>
+   <div>
+    Значит, площадь параллелограмма определяется так же, как площадь прямоугольника:
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mtable columnalign="left" indentalign="left">
+      <mtr>
+       <mtd>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mi mathvariant="italic">
+          EBCF
+         </mi>
+        </msub>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         BE
+        </mi>
+        <mo>
+         ⋅
+        </mo>
+        <mi mathvariant="italic">
+         BC
+        </mi>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mi mathvariant="italic">
+          ABCD
+         </mi>
+        </msub>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mi mathvariant="italic">
+         BE
+        </mi>
+        <mo>
+         ⋅
+        </mo>
+        <mi mathvariant="italic">
+         BC
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         BE
+        </mi>
+        <mo>
+         ⋅
+        </mo>
+        <mi mathvariant="italic">
+         AD
+        </mi>
+        <mo>
+         .
+        </mo>
+       </mtd>
+      </mtr>
+     </mtable>
+    </math>
+   </div>
+   <div>
+   </div>
+   <div>
+    Если обозначить сторону через \(a\), высоту — через \(h\), то:
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msub>
+       <mi>
+        S
+       </mi>
+       <mrow>
+        <mtext>
+         п
+        </mtext>
+        <mo>
+         −
+        </mo>
+        <mtext>
+         гр
+        </mtext>
+       </mrow>
+      </msub>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi>
+       a
+      </mi>
+      <mo>
+       ⋅
+      </mo>
+      <mi>
+       h
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Для определения площади параллелограмма можно использовать короткую сторону и высоту, проведённую к короткой стороне.
+   </div>
+   <div>
+    <div>
+     <span>
+      <div class="gxst-title">
+       Площадь ромба.
+      </div>
+     </span>
+     Диагонали ромба в точке пересечения делятся пополам, они перпендикулярны и делят ромб на четыре равных прямоугольных треугольника.
+    </div>
+    <div>
+    </div>
+   </div>
+   <div>
+    <img alt="Romba_lauk.png" class="gxs-resource-image" height="255" src="//ykl-res.azureedge.net/3ae95d4f-1917-4719-b488-5d1898b76edc/Romba_lauk.png" width="404"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msub>
+       <mi>
+        S
+       </mi>
+       <mi mathvariant="italic">
+        ABCD
+       </mi>
+      </msub>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mn>
+       4
+      </mn>
+      <mo>
+       ⋅
+      </mo>
+      <msub>
+       <mi>
+        S
+       </mi>
+       <mi mathvariant="italic">
+        ABO
+       </mi>
+      </msub>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mn>
+       4
+      </mn>
+      <mo>
+       ⋅
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mfrac>
+       <mrow>
+        <mi mathvariant="italic">
+         BO
+        </mi>
+        <mo>
+         ⋅
+        </mo>
+        <mi mathvariant="italic">
+         AO
+        </mi>
+       </mrow>
+       <mn>
+        2
+       </mn>
+      </mfrac>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mn>
+       2
+      </mn>
+      <mo>
+       ⋅
+      </mo>
+      <mi mathvariant="italic">
+       BO
+      </mi>
+      <mo>
+       ⋅
+      </mo>
+      <mi mathvariant="italic">
+       AO
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Формула определения площади ромба:
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msub>
+       <mi>
+        S
+       </mi>
+       <mtext>
+        ромба
+       </mtext>
+      </msub>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mfrac>
+       <mrow>
+        <msub>
+         <mi>
+          d
+         </mi>
+         <mn>
+          1
+         </mn>
+        </msub>
+        <mo>
+         ⋅
+        </mo>
+        <msub>
+         <mi>
+          d
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msub>
+       </mrow>
+       <mn>
+        2
+       </mn>
+      </mfrac>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Эта формула справедлива для определения площади любого четырёхугольника, если его диагонали перпендикулярны.
+   </div>
+   <div>
+   </div>
+   <div>
+    Так как диагонали квадрата равны, то для определения площади квадрата в формуле достаточно длины одной диагонали:
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msub>
+       <mi>
+        S
+       </mi>
+       <mtext>
+        квадрата
+       </mtext>
+      </msub>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mfrac>
+       <msup>
+        <mi>
+         d
+        </mi>
+        <mn>
+         2
+        </mn>
+       </msup>
+       <mn>
+        2
+       </mn>
+      </mfrac>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    <div class="gxst-title">
+     Площадь произвольного треугольника.
+    </div>
+    <div>
+     <font class="gxst-color-emph">
+      <font color="#000000">
+       Так как диагональ параллелограмма делит его на два равных треугольника, то площадь треугольника равна половине площади параллелограмма.
+      </font>
+     </font>
+    </div>
+    <div>
+    </div>
+   </div>
+   <div align="left">
+    <img alt="Trijst_lauk1.png" class="gxs-resource-image" height="181" src="//ykl-res.azureedge.net/3b0f45bf-213e-4c7f-be1e-120ba30d5e70/Trijst_lauk1.png" width="486"/>
+   </div>
+   <div align="left">
+   </div>
+   <font class="gxst-color-emph">
+   </font>
+   <div align="left">
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msub>
+       <mi>
+        S
+       </mi>
+       <mtext>
+        треуг
+       </mtext>
+      </msub>
+      <mo>
+       =
+      </mo>
+      <mfrac>
+       <mrow>
+        <mi>
+         a
+        </mi>
+        <msub>
+         <mi>
+          h
+         </mi>
+         <mi>
+          a
+         </mi>
+        </msub>
+       </mrow>
+       <mn>
+        2
+       </mn>
+      </mfrac>
+     </mrow>
+    </math>
+    , где \(h\) — высота (на рисунке — \(BE\)), проведённая к стороне \(a\) (на рисунке — \(AD\)).
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    Для определения площади треугольника можно использовать любую сторону и высоту, проведённую к этой стороне.
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    Удобно иногда использовать формулу Герона, если известны длины всех трёх сторон треугольника.
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    <font class="gxst-color-emph">
+     <div>
+      <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+       <mtable columnalign="left" indentalign="left">
+        <mtr>
+         <mtd>
+          <msub>
+           <mi>
+            S
+           </mi>
+           <mi mathvariant="normal">
+            Δ
+           </mi>
+          </msub>
+          <mo>
+           =
+          </mo>
+          <msqrt>
+           <mrow>
+            <mi>
+             p
+            </mi>
+            <mfenced close=")" open="(">
+             <mrow>
+              <mi>
+               p
+              </mi>
+              <mo>
+               −
+              </mo>
+              <mi>
+               a
+              </mi>
+             </mrow>
+            </mfenced>
+            <mfenced close=")" open="(">
+             <mrow>
+              <mi>
+               p
+              </mi>
+              <mo>
+               −
+              </mo>
+              <mi>
+               b
+              </mi>
+             </mrow>
+            </mfenced>
+            <mfenced close=")" open="(">
+             <mrow>
+              <mi>
+               p
+              </mi>
+              <mo>
+               −
+              </mo>
+              <mi>
+               c
+              </mi>
+             </mrow>
+            </mfenced>
+           </mrow>
+          </msqrt>
+          <mo>
+           ;
+          </mo>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mrow>
+          </mrow>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mi>
+           p
+          </mi>
+          <mo>
+           =
+          </mo>
+          <mfrac>
+           <mrow>
+            <mi>
+             a
+            </mi>
+            <mo>
+             +
+            </mo>
+            <mi>
+             b
+            </mi>
+            <mo>
+             +
+            </mo>
+            <mi>
+             c
+            </mi>
+           </mrow>
+           <mn>
+            2
+           </mn>
+          </mfrac>
+         </mtd>
+        </mtr>
+       </mtable>
+      </math>
+     </div>
+     <div>
+     </div>
+    </font>
+    — формула Герона, где \(a\), \(b\) и \(c\) — стороны треугольника, \(p\) — полупериметр треугольника.
+   </div>
+   <div align="left">
+    <div class="gxst-title">
+     Площадь прямоугольного треугольника.
+    </div>
+   </div>
+   <div align="left">
+    Так как катеты прямоугольного треугольника взаимно перпендикулярны, то один катет может быть высотой, а другой катет — стороной, к которой проведена высота. Получаем формулу:
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    <font class="gxst-color-emph">
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi>
+        S
+       </mi>
+       <mo>
+        =
+       </mo>
+       <mfrac>
+        <mrow>
+         <mi>
+          a
+         </mi>
+         <mo>
+          ⋅
+         </mo>
+         <mi>
+          b
+         </mi>
+        </mrow>
+        <mn>
+         2
+        </mn>
+       </mfrac>
+      </mrow>
+     </math>
+    </font>
+    , где \(a\) и \(b\) — катеты.
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    Для прямоугольного треугольника также можно применять формулы площади произвольного треугольника.
+   </div>
+   <div align="left">
+    <div align="left">
+     <div class="gxst-example">
+      <div class="gxst-ititle">
+       <span>
+        Пример:
+       </span>
+      </div>
+      <div class="gxst-ibody">
+       <div align="left">
+        1. вычислим площадь треугольника со сторонами \(17\) см, \(39\) см, \(44\) см.
+       </div>
+       <div align="left">
+       </div>
+       <div align="left">
+        <div>
+         <div>
+          <div>
+           Решение:
+          </div>
+          <div>
+          </div>
+          <div>
+           <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+            <mtable columnalign="left" indentalign="left">
+             <mtr>
+              <mtd>
+               <mi>
+                p
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mfrac>
+                <mrow>
+                 <mn>
+                  17
+                 </mn>
+                 <mo>
+                  +
+                 </mo>
+                 <mn>
+                  39
+                 </mn>
+                 <mo>
+                  +
+                 </mo>
+                 <mn>
+                  44
+                 </mn>
+                </mrow>
+                <mn>
+                 2
+                </mn>
+               </mfrac>
+               <mo>
+                =
+               </mo>
+               <mn>
+                50
+               </mn>
+               <mo>
+                ;
+               </mo>
+               <mspace width="0.147em">
+               </mspace>
+               <mspace width="0.147em">
+               </mspace>
+               <mspace width="0.147em">
+               </mspace>
+               <mspace width="0.147em">
+               </mspace>
+               <mspace width="0.147em">
+               </mspace>
+               <mspace width="0.147em">
+               </mspace>
+              </mtd>
+             </mtr>
+             <mtr>
+              <mtd>
+               <msub>
+                <mi>
+                 S
+                </mi>
+                <mi mathvariant="normal">
+                 Δ
+                </mi>
+               </msub>
+               <mo>
+                =
+               </mo>
+               <msqrt>
+                <mrow>
+                 <mn>
+                  50
+                 </mn>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mfenced close=")" open="(">
+                  <mrow>
+                   <mn>
+                    50
+                   </mn>
+                   <mo>
+                    −
+                   </mo>
+                   <mn>
+                    17
+                   </mn>
+                  </mrow>
+                 </mfenced>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mfenced close=")" open="(">
+                  <mrow>
+                   <mn>
+                    50
+                   </mn>
+                   <mo>
+                    −
+                   </mo>
+                   <mn>
+                    39
+                   </mn>
+                  </mrow>
+                 </mfenced>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mfenced close=")" open="(">
+                  <mrow>
+                   <mn>
+                    50
+                   </mn>
+                   <mo>
+                    −
+                   </mo>
+                   <mn>
+                    44
+                   </mn>
+                  </mrow>
+                 </mfenced>
+                </mrow>
+               </msqrt>
+               <mo>
+                =
+               </mo>
+               <msqrt>
+                <mrow>
+                 <mn>
+                  50
+                 </mn>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mn>
+                  33
+                 </mn>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mn>
+                  11
+                 </mn>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mn>
+                  6
+                 </mn>
+                </mrow>
+               </msqrt>
+               <mo>
+                =
+               </mo>
+              </mtd>
+             </mtr>
+             <mtr>
+              <mtd>
+               <mo>
+                =
+               </mo>
+               <msqrt>
+                <mrow>
+                 <mn>
+                  25
+                 </mn>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mn>
+                  2
+                 </mn>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mn>
+                  3
+                 </mn>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mn>
+                  11
+                 </mn>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mn>
+                  11
+                 </mn>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mn>
+                  2
+                 </mn>
+                 <mo>
+                  ⋅
+                 </mo>
+                 <mn>
+                  3
+                 </mn>
+                </mrow>
+               </msqrt>
+               <mo>
+                =
+               </mo>
+               <mn>
+                5
+               </mn>
+               <mo>
+                ⋅
+               </mo>
+               <mn>
+                2
+               </mn>
+               <mo>
+                ⋅
+               </mo>
+               <mn>
+                3
+               </mn>
+               <mo>
+                ⋅
+               </mo>
+               <mn>
+                11
+               </mn>
+               <mo>
+                =
+               </mo>
+               <mn>
+                330
+               </mn>
+               <mspace width="0.147em">
+               </mspace>
+               <mfenced close=")" open="(">
+                <msup>
+                 <mi mathvariant="italic">
+                  см
+                 </mi>
+                 <mn>
+                  2
+                 </mn>
+                </msup>
+               </mfenced>
+               <mo>
+                .
+               </mo>
+              </mtd>
+             </mtr>
+            </mtable>
+           </math>
+          </div>
+          <div>
+          </div>
+          <div>
+           Чтобы легче было вычислить корень, необходимо не перемножать все числа, а раскладывать их на множители:
+           <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+            <mrow>
+             <msqrt>
+              <mrow>
+               <mi>
+                a
+               </mi>
+               <mo>
+                ⋅
+               </mo>
+               <mi>
+                a
+               </mi>
+              </mrow>
+             </msqrt>
+             <mo>
+              =
+             </mo>
+             <mi>
+              a
+             </mi>
+            </mrow>
+           </math>
+           .
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    Формулу Герона можно использовать для вычисления высоты треугольника.
+   </div>
+   <div align="left">
+    <div>
+     <div>
+      <div>
+       <div>
+        <div class="gxst-example">
+         <div class="gxst-ititle">
+          <span>
+           Пример:
+          </span>
+         </div>
+         <div class="gxst-ibody">
+          <div>
+           2. вычислим меньшую высоту треугольника, стороны которого равны \(15\) см, \(13\) см, \(4\) см.
+          </div>
+          <div>
+          </div>
+          <div>
+           Решение:
+          </div>
+          <div>
+           используем две формулы вычисления площади:
+           <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+            <mrow>
+             <mspace width="0.147em">
+             </mspace>
+             <mspace width="0.147em">
+             </mspace>
+             <mspace width="0.147em">
+             </mspace>
+             <msub>
+              <mi>
+               S
+              </mi>
+              <mi mathvariant="normal">
+               Δ
+              </mi>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <mfrac>
+              <mrow>
+               <mi>
+                a
+               </mi>
+               <msub>
+                <mi>
+                 h
+                </mi>
+                <mi>
+                 a
+                </mi>
+               </msub>
+              </mrow>
+              <mn>
+               2
+              </mn>
+             </mfrac>
+            </mrow>
+           </math>
+           и
+           <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+            <mrow>
+             <msub>
+              <mi>
+               S
+              </mi>
+              <mi mathvariant="normal">
+               Δ
+              </mi>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <msqrt>
+              <mrow>
+               <mi>
+                p
+               </mi>
+               <mfenced close=")" open="(">
+                <mrow>
+                 <mi>
+                  p
+                 </mi>
+                 <mo>
+                  −
+                 </mo>
+                 <mi>
+                  a
+                 </mi>
+                </mrow>
+               </mfenced>
+               <mfenced close=")" open="(">
+                <mrow>
+                 <mi>
+                  p
+                 </mi>
+                 <mo>
+                  −
+                 </mo>
+                 <mi>
+                  b
+                 </mi>
+                </mrow>
+               </mfenced>
+               <mfenced close=")" open="(">
+                <mrow>
+                 <mi>
+                  p
+                 </mi>
+                 <mo>
+                  −
+                 </mo>
+                 <mi>
+                  c
+                 </mi>
+                </mrow>
+               </mfenced>
+              </mrow>
+             </msqrt>
+            </mrow>
+           </math>
+           .
+          </div>
+          <div>
+          </div>
+          <div>
+           Меньшая высота в треугольнике — та, которая проведена к большей стороне, поэтому \(a =\) \(15\) см.
+          </div>
+          <div>
+          </div>
+          <div>
+           <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+            <mrow>
+             <msub>
+              <mi>
+               S
+              </mi>
+              <mi mathvariant="normal">
+               Δ
+              </mi>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <msqrt>
+              <mrow>
+               <mi>
+                p
+               </mi>
+               <mfenced close=")" open="(">
+                <mrow>
+                 <mi>
+                  p
+                 </mi>
+                 <mo>
+                  −
+                 </mo>
+                 <mi>
+                  a
+                 </mi>
+                </mrow>
+               </mfenced>
+               <mfenced close=")" open="(">
+                <mrow>
+                 <mi>
+                  p
+                 </mi>
+                 <mo>
+                  −
+                 </mo>
+                 <mi>
+                  b
+                 </mi>
+                </mrow>
+               </mfenced>
+               <mfenced close=")" open="(">
+                <mrow>
+                 <mi>
+                  p
+                 </mi>
+                 <mo>
+                  −
+                 </mo>
+                 <mi>
+                  c
+                 </mi>
+                </mrow>
+               </mfenced>
+              </mrow>
+             </msqrt>
+             <mo>
+              =
+             </mo>
+             <msqrt>
+              <mrow>
+               <mn>
+                16
+               </mn>
+               <mo>
+                ⋅
+               </mo>
+               <mn>
+                1
+               </mn>
+               <mo>
+                ⋅
+               </mo>
+               <mn>
+                3
+               </mn>
+               <mo>
+                ⋅
+               </mo>
+               <mn>
+                12
+               </mn>
+              </mrow>
+             </msqrt>
+             <mo>
+              =
+             </mo>
+             <mn>
+              24
+             </mn>
+             <mspace width="0.147em">
+             </mspace>
+             <mfenced close=")" open="(">
+              <msup>
+               <mtext>
+                см
+               </mtext>
+               <mn>
+                2
+               </mn>
+              </msup>
+             </mfenced>
+            </mrow>
+           </math>
+           .
+          </div>
+          <div>
+           <br/>
+           Составляем уравнение:
+          </div>
+          <div>
+          </div>
+          <div align="left">
+           <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+            <mtable columnalign="left" indentalign="left">
+             <mtr>
+              <mtd>
+               <mfenced close="|" open="">
+                <mrow>
+                 <mfrac>
+                  <mrow>
+                   <mn>
+                    15
+                   </mn>
+                   <mo>
+                    ⋅
+                   </mo>
+                   <mi>
+                    h
+                   </mi>
+                  </mrow>
+                  <mn>
+                   2
+                  </mn>
+                 </mfrac>
+                 <mo>
+                  =
+                 </mo>
+                 <mn>
+                  24
+                 </mn>
+                </mrow>
+               </mfenced>
+               <mspace width="0.147em">
+               </mspace>
+               <mo>
+                ⋅
+               </mo>
+               <mn>
+                2
+               </mn>
+              </mtd>
+             </mtr>
+             <mtr>
+              <mtd>
+               <mrow>
+               </mrow>
+              </mtd>
+             </mtr>
+             <mtr>
+              <mtd>
+               <mn>
+                15
+               </mn>
+               <mo>
+                ⋅
+               </mo>
+               <mi>
+                h
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mn>
+                48
+               </mn>
+               <mo>
+                ;
+               </mo>
+              </mtd>
+             </mtr>
+             <mtr>
+              <mtd>
+               <mrow>
+               </mrow>
+              </mtd>
+             </mtr>
+             <mtr>
+              <mtd>
+               <mi>
+                h
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mfrac>
+                <mn>
+                 48
+                </mn>
+                <mn>
+                 15
+                </mn>
+               </mfrac>
+               <mo>
+                =
+               </mo>
+               <mn>
+                3,2
+               </mn>
+               <mspace width="0.147em">
+               </mspace>
+               <mo stretchy="false">
+                (
+               </mo>
+               <mi mathvariant="italic">
+                см
+               </mi>
+               <mo stretchy="false">
+                )
+               </mo>
+               <mo>
+                .
+               </mo>
+              </mtd>
+             </mtr>
+            </mtable>
+           </math>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div align="left">
+        Иногда формула Герона используется для вычисления площади параллелограмма, если даны стороны параллелограмма и его диагональ.
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div align="left">
+    <div>
+     <div>
+      <div>
+       <div>
+        <div class="gxst-example">
+         <div class="gxst-ititle">
+          <span>
+           Пример:
+          </span>
+         </div>
+         <div class="gxst-ibody">
+          <div>
+           3. дан параллелограмм со сторонами \(17\) см и \(39\) см, длина диагонали равна \(44\) см. Вычислим площадь параллелограмма.
+          </div>
+          <div>
+          </div>
+          <div>
+           Решение:
+          </div>
+          <div>
+          </div>
+          <div>
+           диагональ делит параллелограмм на два равных треугольника. Используем результат, полученный в первом примере:
+          </div>
+          <div>
+          </div>
+          <div>
+           <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+            <mrow>
+             <msub>
+              <mi>
+               S
+              </mi>
+              <mtext>
+               параллелограмма
+              </mtext>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <mn>
+              2
+             </mn>
+             <mo>
+              ⋅
+             </mo>
+             <msub>
+              <mi>
+               S
+              </mi>
+              <mi mathvariant="normal">
+               Δ
+              </mi>
+             </msub>
+             <mo>
+              =
+             </mo>
+             <mn>
+              2
+             </mn>
+             <mo>
+              ⋅
+             </mo>
+             <mn>
+              330
+             </mn>
+             <mo>
+              =
+             </mo>
+             <mn>
+              660
+             </mn>
+             <mo stretchy="false">
+              (
+             </mo>
+             <msup>
+              <mtext>
+               см
+              </mtext>
+              <mn>
+               2
+              </mn>
+             </msup>
+             <mo stretchy="false">
+              )
+             </mo>
+            </mrow>
+           </math>
+           .
+          </div>
+         </div>
+        </div>
+       </div>
+       <div>
+        <div class="gxst-title">
+         Площадь трапеции.
+        </div>
+        Трапеция имеет одну пару параллельных сторон, следовательно, имеет одну высоту — перпендикуляр, проведённый между параллельными сторонами.
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    Чаще всего высоту трапеции проводят из вершин или через точку пересечения диагоналей.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Trapeces_augst.png" class="gxs-resource-image" height="216" src="//ykl-res.azureedge.net/95fc0733-497b-4195-9a9d-d5ba89c5b978/Trapeces_augst.png" width="411"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Площадь трапеции определим как сумму площадей треугольников, на которые трапецию делит диагональ.
+    <br/>
+   </div>
+   <div>
+    <img alt="Trapeces_lauk.png" class="gxs-resource-image" height="216" src="//ykl-res.azureedge.net/97477f82-e213-4502-a799-9a9cceddee77/Trapeces_lauk.png" width="419"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mtable columnalign="left" indentalign="left">
+      <mtr>
+       <mtd>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mi mathvariant="italic">
+          ABCD
+         </mi>
+        </msub>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mi mathvariant="italic">
+          ABD
+         </mi>
+        </msub>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         +
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mi mathvariant="italic">
+          DBC
+         </mi>
+        </msub>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <msub>
+         <mi>
+          S
+         </mi>
+         <mi mathvariant="italic">
+          ABCD
+         </mi>
+        </msub>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mfrac>
+         <mrow>
+          <mi mathvariant="italic">
+           AD
+          </mi>
+          <mo>
+           ⋅
+          </mo>
+          <mi mathvariant="italic">
+           BE
+          </mi>
+         </mrow>
+         <mn>
+          2
+         </mn>
+        </mfrac>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         +
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mfrac>
+         <mrow>
+          <mi mathvariant="italic">
+           BC
+          </mi>
+          <mo>
+           ⋅
+          </mo>
+          <mi mathvariant="italic">
+           DF
+          </mi>
+         </mrow>
+         <mn>
+          2
+         </mn>
+        </mfrac>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mfrac>
+         <mrow>
+          <mi mathvariant="italic">
+           AD
+          </mi>
+          <mo>
+           ⋅
+          </mo>
+          <mi mathvariant="italic">
+           BE
+          </mi>
+         </mrow>
+         <mn>
+          2
+         </mn>
+        </mfrac>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         +
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mfrac>
+         <mrow>
+          <mi mathvariant="italic">
+           BC
+          </mi>
+          <mo>
+           ⋅
+          </mo>
+          <mi mathvariant="italic">
+           BE
+          </mi>
+         </mrow>
+         <mn>
+          2
+         </mn>
+        </mfrac>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mfrac>
+         <mrow>
+          <mfenced close=")" open="(">
+           <mrow>
+            <mi mathvariant="italic">
+             AD
+            </mi>
+            <mo>
+             +
+            </mo>
+            <mi mathvariant="italic">
+             BC
+            </mi>
+           </mrow>
+          </mfenced>
+          <mo>
+           ⋅
+          </mo>
+          <mi mathvariant="italic">
+           BE
+          </mi>
+         </mrow>
+         <mn>
+          2
+         </mn>
+        </mfrac>
+        <mo>
+         .
+        </mo>
+       </mtd>
+      </mtr>
+     </mtable>
+    </math>
+   </div>
+   <div>
+   </div>
+   <div>
+    Если обозначить параллельные стороны (основания) трапеции через \(a\) и \(b\), высоту через \(h\), то:
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>
+         S
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+       </mrow>
+       <mtext>
+        трап
+       </mtext>
+      </msub>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mfrac>
+       <mrow>
+        <mi>
+         a
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         +
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mi>
+         b
+        </mi>
+       </mrow>
+       <mn>
+        2
+       </mn>
+      </mfrac>
+      <mo>
+       ⋅
+      </mo>
+      <mi>
+       h
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    <div class="gxst-important">
+     <div class="gxst-ititle">
+      <span>
+       Обрати внимание!
+      </span>
+     </div>
+     <div class="gxst-ibody" title="Обрати внимание!">
+      <div>
+       Важные следствия:
+      </div>
+      <div>
+      </div>
+      <div>
+       1. если высоты треугольников равны, то их площади относятся как длины оснований.
+      </div>
+      <div>
+      </div>
+      <div>
+       2. Если основания треугольников равны, то их площади относятся как длины высот.
+      </div>
+      <div>
+      </div>
+      <div>
+       3. Если высоты треугольников равны и их основания равны, то они равновелики, например, медиана делит треугольник на две равновеликие части.
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  
+ </div>
+</div>

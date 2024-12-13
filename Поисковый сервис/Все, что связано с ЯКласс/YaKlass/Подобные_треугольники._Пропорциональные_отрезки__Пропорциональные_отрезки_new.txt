@@ -1,0 +1,435 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       <span class="gxst-emph">
+        Отношением двух отрезков
+       </span>
+       называется отношение их длин.
+      </div>
+     </div>
+    </div>
+    Рассмотрим два отрезка \(AB\) и \(VN\), где отрезок \(AB\) в \(2\) раза больше второго отрезка.
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <div>
+            <div>
+             <div align="left">
+              <img alt="Proporc_nogr1.png" class="gxs-resource-image" height="177" src="//ykl-res.azureedge.net/0a4ea0c5-9ef2-4655-b2f6-fd38948e001f/Proporc_nogr1.png" width="265"/>
+             </div>
+             <div align="left">
+             </div>
+             <div align="left">
+              <div>
+               Отношение отрезков \(AB\) и \(VN\) равно \(2 : 1\):
+              </div>
+              <div align="left">
+              </div>
+              <div align="left">
+               <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+                <mrow>
+                 <mfrac>
+                  <mi mathvariant="italic">
+                   AB
+                  </mi>
+                  <mi mathvariant="italic">
+                   VN
+                  </mi>
+                 </mfrac>
+                 <mo>
+                  =
+                 </mo>
+                 <mfrac>
+                  <mn>
+                   2
+                  </mn>
+                  <mn>
+                   1
+                  </mn>
+                 </mfrac>
+                </mrow>
+               </math>
+               .
+              </div>
+              <div align="left">
+              </div>
+              <div align="left">
+               Можно также сказать, что отношение отрезков \(VN\) и \(AB\) равно \(1 : 2\):
+              </div>
+              <div align="left">
+              </div>
+              <div>
+               <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+                <mrow>
+                 <mfrac>
+                  <mi mathvariant="italic">
+                   VN
+                  </mi>
+                  <mi mathvariant="italic">
+                   AB
+                  </mi>
+                 </mfrac>
+                 <mo>
+                  =
+                 </mo>
+                 <mfrac>
+                  <mn>
+                   1
+                  </mn>
+                  <mn>
+                   2
+                  </mn>
+                 </mfrac>
+                </mrow>
+               </math>
+               .
+              </div>
+              <div>
+              </div>
+             </div>
+            </div>
+            <div>
+             В этом примере отрезок \(AR\) равен трём единицам, а \(VZ\) равен двум единицам.
+            </div>
+            <div>
+            </div>
+            <div>
+             <div align="left">
+              <img alt="Proporc_nogr2.png" class="gxs-resource-image" height="175" src="//ykl-res.azureedge.net/5fe83546-ee4f-48ae-ac7b-44e2c2dbab24/Proporc_nogr2.png" width="332"/>
+             </div>
+             <div align="left">
+             </div>
+             <div align="left">
+              <div>
+               Отношение отрезков \(AR\) и \(VZ\) равно \(3 : 2\):
+              </div>
+              <div>
+              </div>
+              <div align="left">
+               <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+                <mrow>
+                 <mfrac>
+                  <mi mathvariant="italic">
+                   AR
+                  </mi>
+                  <mi mathvariant="italic">
+                   VZ
+                  </mi>
+                 </mfrac>
+                 <mo>
+                  =
+                 </mo>
+                 <mfrac>
+                  <mn>
+                   3
+                  </mn>
+                  <mn>
+                   2
+                  </mn>
+                 </mfrac>
+                </mrow>
+               </math>
+              </div>
+              <div align="left">
+              </div>
+             </div>
+            </div>
+            <div>
+             или
+            </div>
+            <div>
+            </div>
+            <div>
+             <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+              <mrow>
+               <mfrac>
+                <mi mathvariant="italic">
+                 VZ
+                </mi>
+                <mi mathvariant="italic">
+                 AR
+                </mi>
+               </mfrac>
+               <mo>
+                =
+               </mo>
+               <mfrac>
+                <mn>
+                 2
+                </mn>
+                <mn>
+                 3
+                </mn>
+               </mfrac>
+              </mrow>
+             </math>
+             .
+            </div>
+           </div>
+           <div>
+            <div class="gxst-definition">
+             <div>
+              <div>
+               Если отношение отрезков \(a\) и \(b\) равно отношению отрезков \(c\) и \(d\), т. е.
+               <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+                <mrow>
+                 <mfrac>
+                  <mi>
+                   a
+                  </mi>
+                  <mi>
+                   b
+                  </mi>
+                 </mfrac>
+                 <mo>
+                  =
+                 </mo>
+                 <mfrac>
+                  <mi>
+                   c
+                  </mi>
+                  <mi>
+                   d
+                  </mi>
+                 </mfrac>
+                </mrow>
+               </math>
+               ,
+               <br/>
+               то эти отрезки называются
+               <span class="gxst-emph">
+                пропорциональными
+               </span>
+               .
+              </div>
+             </div>
+            </div>
+            Сравниваем данные ранее отрезки, они не пропорциональны, т. к.
+            <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+             <mrow>
+              <mfrac>
+               <mi mathvariant="italic">
+                AB
+               </mi>
+               <mi mathvariant="italic">
+                VN
+               </mi>
+              </mfrac>
+              <mo>
+               ≠
+              </mo>
+              <mfrac>
+               <mi mathvariant="italic">
+                AR
+               </mi>
+               <mi mathvariant="italic">
+                VZ
+               </mi>
+              </mfrac>
+             </mrow>
+            </math>
+            .
+           </div>
+          </div>
+          <div>
+          </div>
+          <div>
+           Рассмотрим данные рисунки:
+          </div>
+          <div>
+          </div>
+          <div>
+           <img alt="Proporc_nogr1.png" class="gxs-resource-image" height="177" src="//ykl-res.azureedge.net/0a4ea0c5-9ef2-4655-b2f6-fd38948e001f/Proporc_nogr1.png" width="265"/>
+           <img alt="Proporc_nogr3.png" class="gxs-resource-image" height="179" src="//ykl-res.azureedge.net/3ea28aca-9b11-441e-9171-fa93b179d404/Proporc_nogr3.png" width="436"/>
+          </div>
+          <div>
+          </div>
+          <div>
+           Сравним отношения отрезков
+           <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+            <mrow>
+             <mfrac>
+              <mi mathvariant="italic">
+               AB
+              </mi>
+              <mi mathvariant="italic">
+               VN
+              </mi>
+             </mfrac>
+             <mspace width="0.147em">
+             </mspace>
+             <mtext>
+              и
+             </mtext>
+             <mspace width="0.147em">
+             </mspace>
+             <mfrac>
+              <mi mathvariant="italic">
+               AH
+              </mi>
+              <mi mathvariant="italic">
+               VT
+              </mi>
+             </mfrac>
+            </mrow>
+           </math>
+           .
+           <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+            <mrow>
+             <mfrac>
+              <mi mathvariant="italic">
+               AB
+              </mi>
+              <mi mathvariant="italic">
+               VN
+              </mi>
+             </mfrac>
+             <mo>
+              =
+             </mo>
+             <mspace width="0.147em">
+             </mspace>
+             <mfrac>
+              <mn>
+               2
+              </mn>
+              <mn>
+               1
+              </mn>
+             </mfrac>
+             <mspace width="0.147em">
+             </mspace>
+             <mspace width="0.147em">
+             </mspace>
+             <mspace width="0.147em">
+             </mspace>
+             <mtext>
+              и
+             </mtext>
+             <mspace width="0.147em">
+             </mspace>
+             <mspace width="0.147em">
+             </mspace>
+             <mspace width="0.147em">
+             </mspace>
+             <mfrac>
+              <mi mathvariant="italic">
+               AH
+              </mi>
+              <mi mathvariant="italic">
+               VT
+              </mi>
+             </mfrac>
+             <mo>
+              =
+             </mo>
+             <mfrac>
+              <msup>
+               <menclose notation="updiagonalstrike">
+                <mn>
+                 4
+                </mn>
+               </menclose>
+               <mn>
+                2
+               </mn>
+              </msup>
+              <msub>
+               <menclose notation="updiagonalstrike">
+                <mn>
+                 2
+                </mn>
+               </menclose>
+               <mn>
+                1
+               </mn>
+              </msub>
+             </mfrac>
+             <mo>
+              =
+             </mo>
+             <mfrac>
+              <mn>
+               2
+              </mn>
+              <mn>
+               1
+              </mn>
+             </mfrac>
+            </mrow>
+           </math>
+           .
+          </div>
+          <div>
+           <div>
+            Значит,
+            <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+             <mrow>
+              <mfrac>
+               <mi mathvariant="italic">
+                AB
+               </mi>
+               <mi mathvariant="italic">
+                VN
+               </mi>
+              </mfrac>
+              <mo>
+               =
+              </mo>
+              <mspace width="0.147em">
+              </mspace>
+              <mfrac>
+               <mi mathvariant="italic">
+                AH
+               </mi>
+               <mi mathvariant="italic">
+                VT
+               </mi>
+              </mfrac>
+             </mrow>
+            </math>
+            — эти пары отрезков пропорциональны.
+           </div>
+           <div>
+           </div>
+          </div>
+          <div align="left">
+           <div>
+            <div align="left">
+             <div align="left">
+              <div>
+               <div align="left">
+                <div>
+                 <div align="left">
+                  Чтобы записать отношение отрезков, необходимы два отрезка. Чтобы найти пропорциональные отрезки, необходимы две пары отрезков.
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  
+ </div>
+</div>

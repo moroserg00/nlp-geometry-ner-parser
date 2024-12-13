@@ -1,0 +1,250 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         Произведением вектора
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mover>
+            <mi>
+             a
+            </mi>
+            <mo>
+             →
+            </mo>
+           </mover>
+          </mrow>
+         </math>
+         на число \(k\) (
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mi>
+            k
+           </mi>
+           <mo>
+            ≠
+           </mo>
+           <mn>
+            0
+           </mn>
+          </mrow>
+         </math>
+         ) называется вектор
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mover>
+            <mi>
+             b
+            </mi>
+            <mo>
+             →
+            </mo>
+           </mover>
+          </mrow>
+         </math>
+         , модуль которого равен
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mfenced close="|" open="|">
+            <mover>
+             <mi>
+              b
+             </mi>
+             <mo>
+              →
+             </mo>
+            </mover>
+           </mfenced>
+           <mo>
+            =
+           </mo>
+           <mfenced close="|" open="|">
+            <mi>
+             k
+            </mi>
+           </mfenced>
+           <mo>
+            ⋅
+           </mo>
+           <mfenced close="|" open="|">
+            <mover>
+             <mi>
+              a
+             </mi>
+             <mo>
+              →
+             </mo>
+            </mover>
+           </mfenced>
+          </mrow>
+         </math>
+         , при этом:
+        </div>
+       </div>
+      </div>
+      <div>
+       <div>
+        - векторы
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover>
+           <mi>
+            a
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+         </mrow>
+        </math>
+        и
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover>
+           <mi>
+            b
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+         </mrow>
+        </math>
+        сонаправлены, если \(k &gt; 0\);
+       </div>
+       <div>
+        - векторы
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover>
+           <mi>
+            a
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+         </mrow>
+        </math>
+        и
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover>
+           <mi>
+            b
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+         </mrow>
+        </math>
+        противоположно направлены, если \(k &lt; 0\).
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     <img alt="Reiz1.png" class="gxs-resource-image" height="390" src="//ykl-res.azureedge.net/4d177694-1106-436c-a0c3-17804f0a0f71/Reiz1.png" width="546"/>
+    </div>
+    <div>
+     При умножении вектора на число данный вектор и результат коллинеарны.
+    </div>
+    <div>
+     <div class="gxst-theory">
+      <div>
+       <div>
+        Справедливо следующее суждение:
+       </div>
+       <div>
+        два ненулевых вектора
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover>
+           <mi>
+            a
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+         </mrow>
+        </math>
+        и
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover>
+           <mi>
+            b
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+         </mrow>
+        </math>
+        коллинеарны тогда и только тогда, когда существует такое число \(k\), при котором выполняется равенство
+        <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover>
+           <mi>
+            a
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+          <mo>
+           =
+          </mo>
+          <mi>
+           k
+          </mi>
+          <mo>
+           ⋅
+          </mo>
+          <mover>
+           <mi>
+            b
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+         </mrow>
+        </math>
+        .
+       </div>
+      </div>
+     </div>
+     <div class="gxst-important">
+      <div class="gxst-ititle">
+       <span>
+        Обрати внимание!
+       </span>
+      </div>
+      <div class="gxst-ibody" title="Обрати внимание!">
+       <div>
+        Если умножить вектор на число \(1\), получим равные векторы.
+       </div>
+       <div>
+        Если умножить вектор на число \(-1\), получим противоположные векторы.
+       </div>
+       <div>
+        <img alt="Reiz2.png" class="gxs-resource-image" height="392" src="//ykl-res.azureedge.net/49b6b747-a9a9-4328-8bb8-52dd557bb1a3/Reiz2.png" width="543"/>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  
+ </div>
+</div>

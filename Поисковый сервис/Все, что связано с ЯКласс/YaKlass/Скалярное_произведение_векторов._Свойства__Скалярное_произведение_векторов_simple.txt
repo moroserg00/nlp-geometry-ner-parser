@@ -1,0 +1,282 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     Скалярным произведением двух векторов
+     m
+     и
+     m
+     будет скалярная величина (число), равная произведению модулей этих векторов, умноженная на косинус угла между ними:
+    </div>
+    <div>
+     <br/>
+     m
+     .
+    </div>
+   </div>
+   <div>
+    <br/>
+    <img alt="Sk_reiz_garums.png" class="gxs-resource-image" height="216" src="//ykl-res.azureedge.net/d2267a58-cdd4-44f8-b1c1-967282ec2b59/Sk_reiz_garums.png" width="338"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Очень важно правильно определить угол между векторами. Если векторы не имеют общей начальной точки, необходимо представить, какой угол бы образовался, если их переместить к общей начальной точке.
+   </div>
+   <div>
+   </div>
+   <div>
+    Угол между векторами обозначают
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    1. Если векторы сонаправлены, то
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Lenkis_vekt1.png" class="gxs-resource-image" height="163" src="//ykl-res.azureedge.net/fb4dd460-75ad-4c25-8b2d-146608a0385b/Lenkis_vekt1.png" width="301"/>
+   </div>
+   <div>
+    <div class="gxst-important">
+     <div class="gxst-ititle">
+      <span>
+       Обрати внимание!
+      </span>
+     </div>
+     <div class="gxst-ibody" title="Обрати внимание!">
+      <div>
+       Так как косинус угла в l градусов равен l, то скалярное произведение сонаправленных векторов является произведением их длин.
+      </div>
+      <div>
+       Если два вектора равны, то такое скалярное произведение называют
+       <span>
+        <span class="gxst-emph">
+         <span>
+          скалярным квадратом
+         </span>
+        </span>
+        .
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    2. Если векторы противоположно направлены, то
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <img alt="Lenkis_vekt3.png" class="gxs-resource-image" height="171" src="//ykl-res.azureedge.net/3b9ef663-9727-4807-9027-e4f8510dae3e/Lenkis_vekt3.png" width="317"/>
+    </div>
+    <div>
+     <div>
+      <div>
+       <div class="gxst-important">
+        <div class="gxst-ititle">
+         <span>
+          Обрати внимание!
+         </span>
+        </div>
+        <div class="gxst-ibody" title="Обрати внимание!">
+         Так как косинус угла в
+         <span>
+          <span>
+           <span>
+            <span>
+             <span>
+              <span>
+               <span>
+                l
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+         градусов равен
+         <span>
+          <span>
+           <span>
+            <span>
+             <span>
+              <span>
+               <span>
+                l
+               </span>
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+         , то скалярное произведение противоположно направленных векторов равно отрицательному произведению их длин.
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     3. Векторы называют перпендикулярными, если
+     m
+     .
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Lenkis_vekt2.png" class="gxs-resource-image" height="230" src="//ykl-res.azureedge.net/f71d3d5e-f530-467d-bc7e-8714477038bf/Lenkis_vekt2.png" width="332"/>
+   </div>
+   <div>
+    <div>
+     <div class="gxst-important">
+      <div class="gxst-ititle">
+       <span>
+        Обрати внимание!
+       </span>
+      </div>
+      <div class="gxst-ibody" title="Обрати внимание!">
+       Так как косинус прямого угла равен
+       <span>
+        l
+       </span>
+       , то скалярное произведение перпендикулярных векторов равно
+       <span>
+        l
+       </span>
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    4. Необходимо внимательно рассмотреть ситуации, когда векторы образуют тупой угол.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Lenkis_vekt5.png" class="gxs-resource-image" height="199" src="//ykl-res.azureedge.net/424d3841-745e-4a36-8283-0f6b2f982fa0/Lenkis_vekt5.png" width="400"/>
+    <img alt="Lenkis_vekt6.png" class="gxs-resource-image" height="213" src="//ykl-res.azureedge.net/9f3c71f6-e739-48e4-8729-1c872457ba93/Lenkis_vekt6.png" width="442"/>
+   </div>
+   <div>
+    <div class="gxst-important">
+     <div class="gxst-ititle">
+      <span>
+       Обрати внимание!
+      </span>
+     </div>
+     <div class="gxst-ibody" title="Обрати внимание!">
+      <div>
+       Так как косинус тупого угла отрицательный, то скалярное произведение таких векторов, которые образуют тупой угол, является отрицательным.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="gxst-title">
+     Скалярное произведение векторов, заданных координатами.
+    </div>
+   </div>
+   <div>
+    Если
+    m
+    и
+    m
+    , то
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Так как в координатах
+    m
+    и
+    m
+    , то можно определить косинус угла между векторами и, следовательно, величину угла.
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <div align="left">
+      m
+     </div>
+     <div>
+      <div class="gxst-title">
+       Свойства скалярного произведения векторов.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    1. Скалярное произведение вектора самого на себя всегда больше или равно нулю. Скалярное произведение вектора самого на себя равно нулю тогда и только тогда, когда вектор равен нулевому вектору.
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+    <br/>
+    2. Скалярное произведение вектора самого на себя равно квадрату его модуля:
+   </div>
+   <div>
+    <br/>
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    3. Для скалярного произведения в силе переместительный закон:
+   </div>
+   <div>
+    <br/>
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    4. Для скалярного произведения в силе распределительный закон:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    5.  Для скалярного произведения в силе сочетательный закон:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    6. Если скалярное произведение двух ненулевых векторов равно нулю, то эти векторы перпендикулярны.
+   </div>
+  </div>
+ </div>
+</div>

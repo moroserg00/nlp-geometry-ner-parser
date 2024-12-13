@@ -1,0 +1,67 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       Если все стороны четырёхугольника касаются окружности, то он называется четырёхугольником,
+       <span class="gxst-emph">
+        описанным
+       </span>
+       около этой окружности, а окружность —
+       <span class="gxst-emph">
+        вписанной
+       </span>
+       в четырёхугольник.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div align="left">
+    Не все четырёхугольники возможно описать около окружности, так как биссектрисы четырёх углов могут не пересекаться в одной точке, и не удастся найти центр вписанной окружности.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Суммы противоположных сторон описанного четырёхугольника равны
+      <span>
+       \(a+c=b+d\)
+      </span>
+      .
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Cetrst_iev_rl.png" class="gxs-resource-image" height="323" src="//ykl-res.azureedge.net/486e4dbd-8db9-4b62-952e-16832c9f22be/Cetrst_iev_rl.png" width="280"/>
+   </div>
+   <div align="center">
+    <div>
+     <div align="left">
+     </div>
+     <div align="left">
+      Так как отрезки касательных, проведённых из одной точки к окружности, равны, и \(AB = AK + KB\), \(BC = BL + LC\), \(CD = CM + MD\), и \(AD = DN + NA\), то, очевидно, \(AB + CD = BC + AD\).
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      Это свойство можно использовать и как признак для определения, в какие четырёхугольники можно вписать окружность.
+     </div>
+     <div align="left">
+      <div class="gxst-theory">
+       <div>
+        <div align="left">
+         Если суммы противоположных сторон четырёхугольника равны, то в такой четырёхугольник можно вписать окружность.
+        </div>
+       </div>
+      </div>
+     </div>
+     <div align="left">
+      Самостоятельно сделай обзор четырёхугольников (параллелограмм, в том числе — квадрат, прямоугольник, ромб, трапеция, в том числе — равнобедренная трапеция и прямоугольная трапеция), в которые можно вписать окружность.
+     </div>
+    </div>
+   </div>
+  </div>
+  
+ </div>
+</div>

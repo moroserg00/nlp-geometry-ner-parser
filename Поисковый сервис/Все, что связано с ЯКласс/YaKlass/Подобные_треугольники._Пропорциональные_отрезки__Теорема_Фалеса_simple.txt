@@ -1,0 +1,86 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Если параллельные прямые, пересекающие стороны угла, отсекают на одной его стороне равные отрезки, то они отсекают равные отрезки и на другой его стороне.
+      <br/>
+     </div>
+    </div>
+    Теорему Фалеса используют, чтобы разделить отрезок на несколько равных частей.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Talesa_t.png" class="gxs-resource-image" height="244" src="//ykl-res.azureedge.net/79b13d61-56dc-48a1-a507-cb7d75b165b0/Talesa_t.png" width="427"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           Необходимо разделить отрезок l на
+           <span class="gxst-emph">
+            l
+           </span>
+           равных частей.
+           <br/>
+           <br/>
+           Нарисуем угол, на одной стороне которого лежит отрезок l. Сторону угла l нарисуем по клеточкам
+          </div>
+          <div>
+           и используем клеточки для деления стороны на
+           <span class="gxst-emph">
+            l
+           </span>
+           равных частей:
+           <br/>
+           l.
+           <br/>
+           <br/>
+           Концы обоих отрезков соединяем, получаем l.
+          </div>
+          <div>
+           Проводим прямые, параллельные l, начинающиеся в точках
+           <br/>
+           l, получаем
+           <span class="gxst-emph">
+            l
+           </span>
+           параллельных прямых (опять используем клеточки).
+          </div>
+         </div>
+         <div>
+         </div>
+         <div>
+          Если l   и   l
+          m
+          l
+          m
+          l
+          m
+          l
+          m
+          l
+          m
+          l
+          m
+          l,
+          <br/>
+          то по теореме Фалеса l.
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

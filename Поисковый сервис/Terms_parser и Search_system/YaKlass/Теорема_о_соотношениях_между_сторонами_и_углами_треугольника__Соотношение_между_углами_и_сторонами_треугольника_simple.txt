@@ -1,0 +1,209 @@
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+</script>
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       В треугольнике против большей стороны лежит больший угол.
+      </div>
+     </div>
+    </div>
+    <div>
+     <img alt="Lenki_malas1.png" class="gxs-resource-image" height="273" src="//ykl-res.azureedge.net/39304c0b-7f66-4dff-b59c-4f92c18f5b2b/Lenki_malas1.png" width="432"/>
+     <br/>
+     <strong>
+     </strong>
+    </div>
+    <div>
+     <strong>
+      Доказательство
+     </strong>
+    </div>
+    <div>
+    </div>
+   </div>
+   <div>
+    Пусть дан треугольник l, в котором l. Необходимо доказать, что
+    m
+    l
+    m
+    l.
+   </div>
+   <div>
+   </div>
+   <div>
+    На стороне l отметим точку l такую, что l. Это возможно, ведь по условию l.
+   </div>
+   <div>
+   </div>
+   <div>
+    Обозначим
+    m
+    l
+    m
+    l,
+    m
+    l
+    m
+    l. Точка l лежит между l и l, поэтому
+    m
+    l
+    m
+    l.
+   </div>
+   <div>
+    Треугольник l — равнобедренный, углы при основании равны,
+    m
+    l
+    m
+    l. Значит,
+    m
+    l
+    m
+    l.
+   </div>
+   <div>
+   </div>
+   <div>
+    Угол
+    m
+    l
+    m
+    l
+    m
+    l как внешний угол треугольника l, значит
+    m
+    l
+    m
+    l. Но
+    m
+    l
+    m
+    l, поэтому
+    m
+    l
+    m
+    l.
+   </div>
+   <div>
+   </div>
+   <div>
+    <strong>
+     Справедлива и обратная теорема
+    </strong>
+    .
+   </div>
+   <div class="gxst-theory">
+    <div>
+     В треугольнике против большего угла лежит большая сторона.
+    </div>
+   </div>
+   <div>
+    <div>
+    </div>
+    <div>
+     <strong>
+      Следствия
+     </strong>
+    </div>
+    <div>
+    </div>
+    <div>
+     <div>
+      <span class="gxst-emph">
+       Следствие 1
+      </span>
+      . Если два угла треугольника равны, то треугольник равнобедренный (признак равнобедренного треугольника).
+     </div>
+     <div>
+     </div>
+     <div>
+      <span class="gxst-emph">
+       Следствие 2
+      </span>
+      . Если три угла треугольника равны, то треугольник равносторонний.
+     </div>
+     <div>
+     </div>
+     <div>
+      <span class="gxst-emph">
+       Следствие 3
+      </span>
+      . В прямоугольном треугольнике гипотенуза больше катета.
+      <br/>
+      <div class="gxst-title">
+       Неравенство треугольника.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="gxst-theory">
+    <div>
+     Каждая сторона треугольника меньше суммы двух других сторон.
+    </div>
+   </div>
+   <div>
+    <img alt="Lenki_malas2.png" class="gxs-resource-image" height="254" src="//ykl-res.azureedge.net/6194fd92-0b0c-4a9d-b630-ff3b47aff2bc/Lenki_malas2.png" width="444"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <strong>
+     Доказательство
+    </strong>
+   </div>
+   <div>
+   </div>
+   <div>
+    Рассмотрим треугольник l и докажем, что l.
+   </div>
+   <div>
+   </div>
+   <div>
+    Продолжим сторону l и отложим отрезок l.
+   </div>
+   <div>
+    Треугольник l — равнобедренный, следовательно,
+    m
+    l
+    m
+    l.
+   </div>
+   <div>
+    В треугольнике l очевидно, что
+    m
+    l
+    m
+    l, а это значит, что
+    m
+    l
+    m
+    l.
+   </div>
+   <div>
+   </div>
+   <div>
+    Так как против большего угла лежит большая сторона, l, а l, значит, l.
+    <div>
+     <div>
+      <div>
+      </div>
+      <div>
+       <font class="gxst-color-emph">
+        <strong>
+         Следствие 4
+        </strong>
+       </font>
+       . Для любых трёх точек l, l и l, не лежащих на одной прямой, справедливы неравенства:
+       <br/>
+       l.
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

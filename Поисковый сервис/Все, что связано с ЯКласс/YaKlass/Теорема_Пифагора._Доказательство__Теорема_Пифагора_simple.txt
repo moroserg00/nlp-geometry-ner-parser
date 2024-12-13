@@ -1,0 +1,329 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <span class="gxst-emph">
+     Пифагор
+    </span>
+    (l–l года до н. э.) – древнегреческий математик, мыслитель и философ.
+   </div>
+   <div>
+    <br/>
+    <img alt="shutterstock_1465744193.jpg" class="gxs-resource-image" height="300" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/4b17fd9b-2265-4b1e-bf20-62e3ebaa5173/shutterstock1465744193w400.jpg" srcset="//ykl-res.azureedge.net/4b17fd9b-2265-4b1e-bf20-62e3ebaa5173/shutterstock1465744193w400.jpg 400w, //ykl-res.azureedge.net/9c8d54d2-0517-4590-98ed-6d8315c8d884/shutterstock1465744193w800.jpg 800w, //ykl-res.azureedge.net/8a4ae009-4b34-451d-980f-8aa0020010e5/shutterstock1465744193.jpg 1024w" width="400"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . l. Пифагор.
+   </div>
+   <div>
+   </div>
+   <div>
+    Факты биографии Пифагора достоверно не известны. О его жизненном пути можно судить лишь по произведениям других древнегреческих философов. По их мнению, математик Пифагор общался с известнейшими мудрецами, учёными того времени.
+    <br/>
+    Известно, что долгое время Пифагор пробыл в Египте, изучая местные таинства.
+   </div>
+   <div>
+    Философия Пифагора, его образ жизни привлекли многих последователей, но у философа и учёного было и много противников.
+    <br/>
+    Как математик Пифагор достиг больших успехов. Одна из самых известных геометрических теорем —
+    <span class="gxst-emph">
+     теорема Пифагора
+    </span>
+    , ему приписывают открытие и доказательство теоремы, создание таблицы Пифагора.
+   </div>
+   <div>
+   </div>
+   <div align="left">
+    <img alt="pythagoras-153530_640.png" class="gxs-resource-image" height="200" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/13490296-5661-4332-8f4c-3bfc0fb7cdb7/pythagoras153530640w400.png" srcset="//ykl-res.azureedge.net/13490296-5661-4332-8f4c-3bfc0fb7cdb7/pythagoras153530640w400.png 400w, //ykl-res.azureedge.net/a92f0384-a388-4cb8-9016-445d90377dd2/pythagoras153530640.png 640w" width="400"/>
+   </div>
+   <div align="left">
+    <div>
+     <em>
+      Рис
+     </em>
+     . l. Теорема Пифагора.
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <span class="gxst-emph">
+      <div>
+       Площадь квадрата, построенного на гипотенузе прямоугольного треугольника, равна сумме площадей квадратов, построенных на его катетах.
+      </div>
+     </span>
+    </div>
+    <div>
+     В истории математики находим утверждения, что эту теорему знали за много лет до Пифагора, например, древние египтяне знали о том, что треугольник со сторонами l, l и l является прямоугольным.
+    </div>
+    <div>
+    </div>
+    <div>
+     В наше время теорема звучит так (подразумевая не только площади, но и длины сторон прямоугольного треугольника):
+    </div>
+    <div>
+    </div>
+    <div>
+     <img alt="Taisnl2.png" class="gxs-resource-image" height="318" src="//ykl-res.azureedge.net/3c52af04-d843-4868-b19f-ba2966461912/Taisnl2.png" width="535"/>
+    </div>
+    <div>
+     <div>
+      <em>
+       Рис
+      </em>
+      . l. Прямоугольный треугольник.
+     </div>
+    </div>
+    <div>
+     <div class="gxst-theory">
+      <div>
+       <div>
+        В прямоугольном треугольнике квадрат гипотенузы равен сумме квадратов катетов
+        m
+        .
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div align="center">
+    <div>
+     <div align="left">
+      Известны очень многие доказательства теоремы разными математическими методами, но одни из самых наглядных связаны с площадями.
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      1. Построим квадрат, сторона которого равна сумме катетов данного треугольника
+      m
+      .  Площадь квадрата равна
+      m
+      :
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      <img alt="Taisnl3.png" class="gxs-resource-image" height="337" src="//ykl-res.azureedge.net/ae1c42e4-82b3-4c4c-a50c-9b5e13e68cdc/Taisnl3.png" width="340"/>
+     </div>
+     <div align="left">
+      <div>
+       <em>
+        Рис
+       </em>
+       . l. Первое доказательство теоремы Пифагора.
+      </div>
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      2. Если провести гипотенузы l, очевидно, что они образовали квадрат внутри построенного квадрата.
+     </div>
+     <div align="left">
+      Стороны четырёхугольника равны l, а углы — прямые, так как острые углы прямоугольного треугольника в сумме дают
+      m
+      , то угол четырёхугольника также равен
+      m
+      , потому что вместе все три угла дают
+      m
+      .
+     </div>
+     <div align="left">
+      Следовательно, площадь квадрата состоит из четырёх площадей равных прямоугольных треугольников и площади квадрата, образованного гипотенузами.
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      <img alt="Taisnl4.png" class="gxs-resource-image" height="347" src="//ykl-res.azureedge.net/bdee2d60-1650-440c-a946-0dc4784a4779/Taisnl4.png" width="343"/>
+     </div>
+     <div align="left">
+      <div align="left">
+       <div>
+        <em>
+         Рис
+        </em>
+        . l. Второе доказательство теоремы Пифагора.
+       </div>
+      </div>
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      3. На двух сторонах квадрата поменяем местами отрезки l и l, при этом длина стороны квадрата не меняется.
+     </div>
+     <div align="left">
+      Теперь площадь квадрата можем сложить из двух площадей квадратов, образованных катетами l и l, и двух площадей прямоугольников:
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      <img alt="Taisnl5.png" class="gxs-resource-image" height="351" src="//ykl-res.azureedge.net/f10955a9-1873-40cb-99d7-05aab6b96c4d/Taisnl5.png" width="348"/>
+     </div>
+     <div align="left">
+      <div align="left">
+       <div>
+        <em>
+         Рис
+        </em>
+        . l. Третье доказательство теоремы Пифагора.
+       </div>
+      </div>
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      4. Из этого следуют выводы:
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      m
+      и
+      m
+      — что и является одним из доказательств теоремы Пифагора.
+     </div>
+     <div align="left">
+      <div class="gxst-important">
+       <div class="gxst-ititle">
+        <span>
+         Обрати внимание!
+        </span>
+       </div>
+       <div class="gxst-ibody" title="Обрати внимание!">
+        <div align="left">
+         Если находим длину гипотенузы l, то выполняем сложение квадратов длин катетов l и l и определяем квадратный корень:
+        </div>
+        <div align="left">
+        </div>
+        <div align="left">
+         m
+        </div>
+        <div align="left">
+        </div>
+        <div align="left">
+         Если находим длину одного катета, то выполняем вычитание длины квадрата другого катета из квадрата длины гипотенузы и определяем квадратный корень:
+        </div>
+        <div align="left">
+        </div>
+        <div align="left">
+         m
+        </div>
+       </div>
+      </div>
+     </div>
+     <div align="center">
+      <div align="left">
+       Обратная теорема используется как признак прямоугольного треугольника.
+      </div>
+     </div>
+     <div align="left">
+      <div class="gxst-theory">
+       <div>
+        Если квадрат одной стороны треугольника равен сумме квадратов двух других сторон, то треугольник является прямоугольным.
+       </div>
+      </div>
+     </div>
+     <div>
+      <div align="left">
+       <div class="gxst-example">
+        <div class="gxst-ititle">
+         <span>
+          Пример:
+         </span>
+        </div>
+        <div class="gxst-ibody">
+         <div>
+          <div align="left">
+           является ли треугольник со сторонами l см, l см и l см прямоугольным?
+          </div>
+          <div align="left">
+           Выбираем большую сторону и проверяем, выполняется ли теорема Пифагора:
+          </div>
+          <div align="left">
+          </div>
+          <div align="left">
+           m
+           — значит, этот треугольник не прямоугольный.
+          </div>
+         </div>
+         <div>
+          <div>
+           <div>
+            <div>
+             <div>
+              <div align="left">
+               <div align="left">
+                Является ли треугольник со сторонами l см, l см и l см прямоугольным?
+               </div>
+               <div align="left">
+                Выбираем большую сторону и проверяем, выполняется ли теорема Пифагора:
+               </div>
+               <div align="left">
+               </div>
+               <div align="left">
+                m
+                — значит, этот треугольник прямоугольный.
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div align="left">
+      Чтобы не тратить много времени на решение, полезно запомнить наиболее часто используемые числа Пифагора:
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      катет, катет, гипотенуза
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      <div align="left">
+       l, l, l;
+      </div>
+      <div align="left">
+       <div align="left">
+        l, l, l;
+       </div>
+       <div align="left">
+        l, l, l;
+       </div>
+       <div align="left">
+        l, l, l.
+       </div>
+      </div>
+     </div>
+     <div align="left">
+      Посмотри ещё одно своеобразное доказательство теоремы Пифагора:
+     </div>
+     <div align="left">
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Pitagora_3.gif" class="gxs-resource-image" src="//ykl-res.azureedge.net/71a70b06-1020-4aa2-b036-77a02fea8cb2/Pitagora_3.gif"/>
+   </div>
+   <div>
+    <div align="left">
+     <div>
+      <em>
+       Рис
+      </em>
+      . l. Четвёртое доказательство теоремы Пифагора.
+     </div>
+    </div>
+   </div>
+   <div>
+   </div>
+  </div>
+ </div>
+</div>

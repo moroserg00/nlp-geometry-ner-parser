@@ -1,0 +1,98 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi mathvariant="italic">
+       AB
+      </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+       &lt;
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+       CD
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       ABC
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       MNK
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       ABC
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       MNK
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="verythickmathspace" rspace="verythickmathspace">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       ABC
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       MNK
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       ECD
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       ECG
+      </mi>
+<mo>
+       =
+      </mo>
+<mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+<mi mathvariant="italic">
+       GCD
+      </mi>
+</mrow>
+</math>]

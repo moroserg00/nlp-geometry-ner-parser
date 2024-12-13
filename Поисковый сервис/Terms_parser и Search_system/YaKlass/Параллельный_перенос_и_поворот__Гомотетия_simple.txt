@@ -1,0 +1,160 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     Гомотетия с центром l и коэффициентом l — это преобразование, в котором каждая точка l отображается такой точкой
+     m
+     .
+    </div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <div>
+            <div>
+             <div class="gxst-definition">
+              <div>
+               <div>
+                <font class="gxst-color-emph">
+                 <span class="gxst-emph">
+                  <font class="gxst-color-emph">
+                   Гомотетия
+                  </font>
+                 </span>
+                </font>
+                — это преобразование подобия. Это преобразование, в котором получаются подобные фигуры (фигуры, у которых соответствующие углы равны и стороны пропорциональны).
+               </div>
+              </div>
+             </div>
+             <div>
+              Для гомотетичных фигур
+              m
+              и
+              m
+              в силе формулы отношения периметров
+              m
+              и площадей
+              m
+              подобных фигур.
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div>
+          <span class="gxst-emph">
+          </span>
+         </div>
+         <div>
+          <span class="gxst-emph">
+           Интересно:
+          </span>
+          любые две окружности гомотетичны.
+         </div>
+         <div>
+          <div>
+           <div class="gxst-theory">
+            <div>
+             Чтобы гомотетия была определена, должен быть задан центр гомотетии и коэффициент. Это можно записать: гомотетия l.
+            </div>
+           </div>
+          </div>
+          <div>
+           На рисунке из фигуры
+           m
+           можно получить фигуру
+           m
+           гомотетией l.
+          </div>
+          <div>
+          </div>
+          <div>
+           <div>
+            <div>
+             <div>
+              <div>
+               <img alt="Homot_1.png" class="gxs-resource-image" height="308" src="//ykl-res.azureedge.net/73b0fe3f-2507-4972-a5df-d62d8c3abcac/Homot_1.png" width="340"/>
+              </div>
+              <div>
+              </div>
+              <div>
+               Если фигуры находятся на противоположных направлениях от центра гомотетии, то коэффициент отрицательный.
+              </div>
+              <div>
+               На следующем рисунке из фигуры
+               m
+               можно получить фигуру
+               m
+               гомотетией l.
+              </div>
+              <div>
+              </div>
+              <div>
+               <img alt="Homot_2.png" class="gxs-resource-image" height="320" src="//ykl-res.azureedge.net/2dc613a6-c6cf-43b2-ba59-dd4273a05a90/Homot_2.png" width="319"/>
+              </div>
+              <div>
+              </div>
+              <div>
+               Центр гомотетии может находиться и внутри фигуры. Серый треугольник из зелёного треугольника l получен гомотетией
+               m
+               .
+              </div>
+              <div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div align="left">
+       <div align="left">
+        <img alt="Homot_3.png" class="gxs-resource-image" height="346" src="//ykl-res.azureedge.net/fbe5522a-3b8a-49ef-9cbb-0fc88b93b588/Homot_3.png" width="463"/>
+       </div>
+      </div>
+      <div align="left">
+      </div>
+      <div align="left">
+       <div>
+        Гомотетия l — это центральная симметрия или поворот на l градусов, в данном случае фигуры одинаковые.
+       </div>
+       <div>
+       </div>
+      </div>
+      <div align="left">
+       <div align="left">
+        <img alt="Simetrija_c.png" class="gxs-resource-image" height="484" src="//ykl-res.azureedge.net/4bbcce6a-0c95-42cc-8c3d-53067fc4beb8/Simetrija_c.png" width="317"/>
+       </div>
+      </div>
+      <div align="left">
+      </div>
+      <div>
+       В отличие от гомотетии, геометрические преобразования — центральная симметрия, осевая симметрия, поворот, параллельный перенос — являются движением, т. к. в них фигура отображается в фигуру, равную данной.
+      </div>
+      <div>
+      </div>
+      <div>
+       <div>
+        <div>
+         Гомотетичные фигуры подобны, но подобные фигуры не всегда гомотетичны (в гомотетии важно расположение фигур).
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

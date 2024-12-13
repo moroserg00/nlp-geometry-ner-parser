@@ -1,0 +1,1831 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    В системе координат построим полуокружность радиуса
+    <span>
+     \(1\)
+    </span>
+    с центром в начале координат.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Vienibas_pusr.png" class="gxs-resource-image" height="331" src="//ykl-res.azureedge.net/0e4299fb-28ae-4a30-8eac-27acc76e5385/Vienibas_pusr.png" width="522"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Как уже известно, в прямоугольном треугольнике синус острого угла определяется как отношение противолежащего катета к гипотенузе, а косинус острого угла определяется как отношение прилежащего катета к гипотенузе.
+   </div>
+   <div>
+   </div>
+   <div>
+    В треугольнике \(AOX\):
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mi mathvariant="italic">
+       sin
+      </mi>
+      <mi mathvariant="normal">
+       α
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mfrac>
+       <mi mathvariant="italic">
+        AX
+       </mi>
+       <mi mathvariant="italic">
+        AO
+       </mi>
+      </mfrac>
+      <mo>
+       ;
+      </mo>
+      <mspace width="0.294em">
+      </mspace>
+      <mi mathvariant="italic">
+       cos
+      </mi>
+      <mi mathvariant="normal">
+       α
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mfrac>
+       <mi mathvariant="italic">
+        OX
+       </mi>
+       <mi mathvariant="italic">
+        AO
+       </mi>
+      </mfrac>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    Так как радиус полуокружности \(R = AO = 1\), то
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mi mathvariant="italic">
+       sin
+      </mi>
+      <mi mathvariant="normal">
+       α
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi mathvariant="italic">
+       AX
+      </mi>
+      <mo>
+       ;
+      </mo>
+      <mspace width="0.441em">
+      </mspace>
+      <mi mathvariant="italic">
+       cos
+      </mi>
+      <mi mathvariant="normal">
+       α
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi mathvariant="italic">
+       OX
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Длина отрезка \(AX\) равна величине координаты \(y\) точки \(A\), а длина отрезка \(OX\) равна величине координаты \(x\) точки \(A\):
+      </div>
+      <div>
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mi>
+          A
+         </mi>
+         <mfenced close=")" open="(">
+          <mrow>
+           <mi mathvariant="italic">
+            cos
+           </mi>
+           <mi mathvariant="normal">
+            α
+           </mi>
+           <mo>
+            ;
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mi mathvariant="italic">
+            sin
+           </mi>
+           <mi mathvariant="normal">
+            α
+           </mi>
+          </mrow>
+         </mfenced>
+        </mrow>
+       </math>
+       .
+      </div>
+     </div>
+    </div>
+    Следовательно, для углов
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mn>
+       0
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ≤
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi mathvariant="normal">
+       α
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ≤
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mn>
+       180
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+     </mrow>
+    </math>
+    видно, что
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo>
+       −
+      </mo>
+      <mn>
+       1
+      </mn>
+      <mo>
+       ≤
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi mathvariant="italic">
+       cos
+      </mi>
+      <mi mathvariant="normal">
+       α
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ≤
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mn>
+       1
+      </mn>
+      <mo>
+       ;
+      </mo>
+      <mspace width="0.294em">
+      </mspace>
+      <mn>
+       0
+      </mn>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ≤
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi mathvariant="italic">
+       sin
+      </mi>
+      <mi mathvariant="normal">
+       α
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ≤
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mn>
+       1
+      </mn>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       В прямоугольном треугольнике тангенс острого угла равен отношению противолежащего катета к прилежащему катету, а значит,
+      </div>
+      <div>
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mi mathvariant="italic">
+          tg
+         </mi>
+         <mi mathvariant="normal">
+          α
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mfrac>
+          <mi mathvariant="italic">
+           AX
+          </mi>
+          <mi mathvariant="italic">
+           OX
+          </mi>
+         </mfrac>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mfrac>
+          <mrow>
+           <mi mathvariant="italic">
+            sin
+           </mi>
+           <mi mathvariant="normal">
+            α
+           </mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="italic">
+            cos
+           </mi>
+           <mi mathvariant="normal">
+            α
+           </mi>
+          </mrow>
+         </mfrac>
+        </mrow>
+       </math>
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    Используя единичную полуокружность и рассмотренную информацию, определим синус, косинус и тангенс для
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mn>
+       0
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+      <mo>
+       ;
+      </mo>
+      <mspace width="0.294em">
+      </mspace>
+      <mn>
+       90
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+      <mo>
+       ;
+      </mo>
+      <mspace width="0.294em">
+      </mspace>
+      <mn>
+       180
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mtable columnalign="left" indentalign="left">
+      <mtr>
+       <mtd>
+        <mi mathvariant="italic">
+         sin
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         0
+        </mn>
+        <mi mathvariant="normal">
+         °
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         0
+        </mn>
+        <mo>
+         ;
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         cos
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         0
+        </mn>
+        <mi mathvariant="normal">
+         °
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         1
+        </mn>
+        <mo>
+         ;
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         tg
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         0
+        </mn>
+        <mi mathvariant="normal">
+         °
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         0
+        </mn>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mi mathvariant="italic">
+         sin
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         90
+        </mn>
+        <mi mathvariant="normal">
+         °
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         1
+        </mn>
+        <mo>
+         ;
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         cos
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         90
+        </mn>
+        <mi mathvariant="normal">
+         °
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         0
+        </mn>
+        <mo>
+         ;
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         tg
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         90
+        </mn>
+        <mi mathvariant="normal">
+         °
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mtext>
+         не существует
+        </mtext>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mi mathvariant="italic">
+         sin
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         180
+        </mn>
+        <mi mathvariant="normal">
+         °
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mn>
+         0
+        </mn>
+        <mo>
+         ;
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         cos
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         180
+        </mn>
+        <mi mathvariant="normal">
+         °
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         −
+        </mo>
+        <mn>
+         1
+        </mn>
+        <mo>
+         ;
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         tg
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         180
+        </mn>
+        <mi mathvariant="normal">
+         °
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         0
+        </mn>
+        <mo>
+         .
+        </mo>
+       </mtd>
+      </mtr>
+     </mtable>
+    </math>
+   </div>
+   <div>
+   </div>
+   <div>
+    Рассмотрим оба острых угла в треугольнике \(AOX\). Если вместе они образуют
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mn>
+       90
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+     </mrow>
+    </math>
+    , то оба выразим через
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mi mathvariant="normal">
+       α
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Vienibas_pusr2.png" class="gxs-resource-image" height="317" src="//ykl-res.azureedge.net/6c0976a7-e83a-4802-bfff-3dae2e51ca1e/Vienibas_pusr2.png" width="501"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Если
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mi mathvariant="italic">
+       sin
+      </mi>
+      <mi mathvariant="normal">
+       α
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mfrac>
+       <mi mathvariant="italic">
+        AX
+       </mi>
+       <mi mathvariant="italic">
+        AO
+       </mi>
+      </mfrac>
+      <mo>
+       ;
+      </mo>
+      <mspace width="0.294em">
+      </mspace>
+      <mi mathvariant="italic">
+       cos
+      </mi>
+      <mi mathvariant="normal">
+       α
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mfrac>
+       <mi mathvariant="italic">
+        OX
+       </mi>
+       <mi mathvariant="italic">
+        AO
+       </mi>
+      </mfrac>
+     </mrow>
+    </math>
+    , то
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mi mathvariant="italic">
+       sin
+      </mi>
+      <mfenced close=")" open="(">
+       <mrow>
+        <mn>
+         90
+        </mn>
+        <mi mathvariant="normal">
+         °
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         −
+        </mo>
+        <mi mathvariant="normal">
+         α
+        </mi>
+       </mrow>
+      </mfenced>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mfrac>
+       <mi mathvariant="italic">
+        OX
+       </mi>
+       <mi mathvariant="italic">
+        AO
+       </mi>
+      </mfrac>
+      <mo>
+       ;
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mspace width="0.147em">
+      </mspace>
+      <mi mathvariant="italic">
+       cos
+      </mi>
+      <mfenced close=")" open="(">
+       <mrow>
+        <mn>
+         90
+        </mn>
+        <mi mathvariant="normal">
+         °
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         −
+        </mo>
+        <mi mathvariant="normal">
+         α
+        </mi>
+       </mrow>
+      </mfenced>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mfrac>
+       <mi mathvariant="italic">
+        AX
+       </mi>
+       <mi mathvariant="italic">
+        AO
+       </mi>
+      </mfrac>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Видим, что справедливы равенства:
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mtable columnalign="left" indentalign="left">
+      <mtr>
+       <mtd>
+        <mi mathvariant="italic">
+         cos
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mfenced close=")" open="(">
+         <mrow>
+          <mn>
+           90
+          </mn>
+          <mi mathvariant="normal">
+           °
+          </mi>
+          <mspace width="0.147em">
+          </mspace>
+          <mo>
+           −
+          </mo>
+          <mspace width="0.147em">
+          </mspace>
+          <mi mathvariant="normal">
+           α
+          </mi>
+         </mrow>
+        </mfenced>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         sin
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mi mathvariant="italic">
+         sin
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mfenced close=")" open="(">
+         <mrow>
+          <mn>
+           90
+          </mn>
+          <mi mathvariant="normal">
+           °
+          </mi>
+          <mspace width="0.147em">
+          </mspace>
+          <mo>
+           −
+          </mo>
+          <mspace width="0.147em">
+          </mspace>
+          <mi mathvariant="normal">
+           α
+          </mi>
+         </mrow>
+        </mfenced>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         cos
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mo>
+         .
+        </mo>
+       </mtd>
+      </mtr>
+     </mtable>
+    </math>
+   </div>
+   <div>
+   </div>
+   <div>
+    Рассмотрим тупой угол, который также выразим через
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mi mathvariant="normal">
+       α
+      </mi>
+     </mrow>
+    </math>
+    .
+    <div>
+    </div>
+    <div>
+     <img alt="Vienibas_pusr1.png" class="gxs-resource-image" height="327" src="//ykl-res.azureedge.net/5801ddd0-5aa0-4b0e-bda6-1290ccc1b4d5/Vienibas_pusr1.png" width="516"/>
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    Справедливы следующие равенства:
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mtable columnalign="left" indentalign="left">
+      <mtr>
+       <mtd>
+        <mi mathvariant="italic">
+         sin
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mfenced close=")" open="(">
+         <mrow>
+          <mn>
+           180
+          </mn>
+          <mi mathvariant="normal">
+           °
+          </mi>
+          <mspace width="0.147em">
+          </mspace>
+          <mo>
+           −
+          </mo>
+          <mspace width="0.147em">
+          </mspace>
+          <mi mathvariant="normal">
+           α
+          </mi>
+         </mrow>
+        </mfenced>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         sin
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mi mathvariant="italic">
+         cos
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mfenced close=")" open="(">
+         <mrow>
+          <mn>
+           180
+          </mn>
+          <mi mathvariant="normal">
+           °
+          </mi>
+          <mspace width="0.147em">
+          </mspace>
+          <mo>
+           −
+          </mo>
+          <mspace width="0.147em">
+          </mspace>
+          <mi mathvariant="normal">
+           α
+          </mi>
+         </mrow>
+        </mfenced>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         −
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="italic">
+         cos
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mo>
+         .
+        </mo>
+       </mtd>
+      </mtr>
+     </mtable>
+    </math>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Эти формулы называются формулами приведения:
+      </div>
+      <div>
+      </div>
+      <div>
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mtable columnalign="left" indentalign="left">
+         <mtr>
+          <mtd>
+           <mi mathvariant="italic">
+            cos
+           </mi>
+           <mspace width="0.147em">
+           </mspace>
+           <mfenced close=")" open="(">
+            <mrow>
+             <mn>
+              90
+             </mn>
+             <mi mathvariant="normal">
+              °
+             </mi>
+             <mspace width="0.147em">
+             </mspace>
+             <mo>
+              −
+             </mo>
+             <mspace width="0.147em">
+             </mspace>
+             <mi mathvariant="normal">
+              α
+             </mi>
+            </mrow>
+           </mfenced>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            =
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mi mathvariant="italic">
+            sin
+           </mi>
+           <mspace width="0.147em">
+           </mspace>
+           <mi mathvariant="normal">
+            α
+           </mi>
+           <mo>
+            ;
+           </mo>
+          </mtd>
+         </mtr>
+         <mtr>
+          <mtd>
+           <mrow>
+           </mrow>
+          </mtd>
+         </mtr>
+         <mtr>
+          <mtd>
+           <mi mathvariant="italic">
+            sin
+           </mi>
+           <mspace width="0.147em">
+           </mspace>
+           <mfenced close=")" open="(">
+            <mrow>
+             <mn>
+              90
+             </mn>
+             <mi mathvariant="normal">
+              °
+             </mi>
+             <mspace width="0.147em">
+             </mspace>
+             <mo>
+              −
+             </mo>
+             <mspace width="0.147em">
+             </mspace>
+             <mi mathvariant="normal">
+              α
+             </mi>
+            </mrow>
+           </mfenced>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            =
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mi mathvariant="italic">
+            cos
+           </mi>
+           <mspace width="0.147em">
+           </mspace>
+           <mi mathvariant="normal">
+            α
+           </mi>
+           <mo>
+            .
+           </mo>
+          </mtd>
+         </mtr>
+        </mtable>
+       </math>
+      </div>
+      <div>
+      </div>
+      <div>
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mtable columnalign="left" indentalign="left">
+         <mtr>
+          <mtd>
+           <mi mathvariant="italic">
+            sin
+           </mi>
+           <mspace width="0.147em">
+           </mspace>
+           <mfenced close=")" open="(">
+            <mrow>
+             <mn>
+              180
+             </mn>
+             <mi mathvariant="normal">
+              °
+             </mi>
+             <mspace width="0.147em">
+             </mspace>
+             <mo>
+              −
+             </mo>
+             <mspace width="0.147em">
+             </mspace>
+             <mi mathvariant="normal">
+              α
+             </mi>
+            </mrow>
+           </mfenced>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            =
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mi mathvariant="italic">
+            sin
+           </mi>
+           <mspace width="0.147em">
+           </mspace>
+           <mi mathvariant="normal">
+            α
+           </mi>
+           <mo>
+            ;
+           </mo>
+          </mtd>
+         </mtr>
+         <mtr>
+          <mtd>
+           <mrow>
+           </mrow>
+          </mtd>
+         </mtr>
+         <mtr>
+          <mtd>
+           <mi mathvariant="italic">
+            cos
+           </mi>
+           <mspace width="0.147em">
+           </mspace>
+           <mfenced close=")" open="(">
+            <mrow>
+             <mn>
+              180
+             </mn>
+             <mi mathvariant="normal">
+              °
+             </mi>
+             <mspace width="0.147em">
+             </mspace>
+             <mo>
+              −
+             </mo>
+             <mspace width="0.147em">
+             </mspace>
+             <mi mathvariant="normal">
+              α
+             </mi>
+            </mrow>
+           </mfenced>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            =
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            −
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mi mathvariant="italic">
+            cos
+           </mi>
+           <mspace width="0.147em">
+           </mspace>
+           <mi mathvariant="normal">
+            α
+           </mi>
+           <mo>
+            .
+           </mo>
+          </mtd>
+         </mtr>
+        </mtable>
+       </math>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    Если в треугольнике \(AOX\) применить теорему Пифагора, получаем
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msup>
+       <mi mathvariant="italic">
+        AX
+       </mi>
+       <mn>
+        2
+       </mn>
+      </msup>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       +
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <msup>
+       <mrow>
+        <mi mathvariant="italic">
+         OX
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+       </mrow>
+       <mn>
+        2
+       </mn>
+      </msup>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mn>
+       1
+      </mn>
+     </mrow>
+    </math>
+    . Заменив отрезки соответственно синусом и косинусом, мы напишем
+    <span class="gxst-emph">
+    </span>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       <span class="gxst-emph">
+        главное тригонометрическое тождество
+       </span>
+      </div>
+      <div>
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <msup>
+          <mrow>
+           <mi mathvariant="italic">
+            sin
+           </mi>
+           <mspace width="0.147em">
+           </mspace>
+          </mrow>
+          <mn>
+           2
+          </mn>
+         </msup>
+         <mi mathvariant="normal">
+          α
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          +
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <msup>
+          <mi mathvariant="italic">
+           cos
+          </mi>
+          <mn>
+           2
+          </mn>
+         </msup>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="normal">
+          α
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mn>
+          1
+         </mn>
+        </mrow>
+       </math>
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    Это тождество позволяет вычислить величину синуса угла, если дан косинус
+   </div>
+   <div>
+    (как уже отмечено, синус для углов
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mn>
+       0
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ≤
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi mathvariant="normal">
+       α
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       ≤
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mn>
+       180
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+     </mrow>
+    </math>
+    только
+    <span class="gxst-emph">
+     0
+    </span>
+    или
+    <span class="gxst-emph">
+     положительный
+    </span>
+    ):
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mtable columnalign="left" indentalign="left">
+      <mtr>
+       <mtd>
+        <msup>
+         <mi mathvariant="italic">
+          sin
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         +
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msup>
+         <mi mathvariant="italic">
+          cos
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         1
+        </mn>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <msup>
+         <mi mathvariant="italic">
+          sin
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         1
+        </mn>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         −
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <msup>
+         <mi mathvariant="italic">
+          cos
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mi mathvariant="italic">
+         sin
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msqrt>
+         <mrow>
+          <mn>
+           1
+          </mn>
+          <mspace width="0.147em">
+          </mspace>
+          <mo>
+           −
+          </mo>
+          <mspace width="0.147em">
+          </mspace>
+          <mspace width="0.147em">
+          </mspace>
+          <msup>
+           <mi mathvariant="italic">
+            cos
+           </mi>
+           <mn>
+            2
+           </mn>
+          </msup>
+          <mspace width="0.147em">
+          </mspace>
+          <mi mathvariant="normal">
+           α
+          </mi>
+         </mrow>
+        </msqrt>
+        <mspace width="0.147em">
+        </mspace>
+       </mtd>
+      </mtr>
+     </mtable>
+    </math>
+   </div>
+   <div>
+   </div>
+   <div>
+    — или величину косинуса угла, если дан синус:
+   </div>
+   <div>
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mtable columnalign="left" indentalign="left">
+      <mtr>
+       <mtd>
+        <msup>
+         <mi mathvariant="italic">
+          sin
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         +
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msup>
+         <mi mathvariant="italic">
+          cos
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         1
+        </mn>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <msup>
+         <mi mathvariant="italic">
+          cos
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         1
+        </mn>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         −
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mspace width="0.147em">
+        </mspace>
+        <msup>
+         <mi mathvariant="italic">
+          sin
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+        </mrow>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mi mathvariant="italic">
+         cos
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mi mathvariant="normal">
+         α
+        </mi>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mo>
+         ±
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msqrt>
+         <mrow>
+          <mn>
+           1
+          </mn>
+          <mspace width="0.147em">
+          </mspace>
+          <mo>
+           −
+          </mo>
+          <mspace width="0.147em">
+          </mspace>
+          <mspace width="0.147em">
+          </mspace>
+          <msup>
+           <mi mathvariant="italic">
+            sin
+           </mi>
+           <mn>
+            2
+           </mn>
+          </msup>
+          <mspace width="0.147em">
+          </mspace>
+          <mi mathvariant="normal">
+           α
+          </mi>
+         </mrow>
+        </msqrt>
+        <mo>
+         .
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+       </mtd>
+      </mtr>
+     </mtable>
+    </math>
+   </div>
+   <div>
+   </div>
+   <div>
+    Для острых углов косинус положительный, а для тупых углов берём отрицательное значение.
+   </div>
+  </div>
+  
+ </div>
+</div>

@@ -1,0 +1,357 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    Если на окружности отметить две точки, они разделят окружность на две дуги.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Loki.png" class="gxs-resource-image" height="260" src="//ykl-res.azureedge.net/64427657-c58d-4ee7-adcc-86f8d3d0b247/Loki.png" width="299"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Есть несколько способов различать по названию, которую из дуг имеем в виду. Один из них — использовать в названии маленькие буквы латинского алфавита:
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo>
+       ∪
+      </mo>
+      <mi mathvariant="italic">
+       AnB
+      </mi>
+     </mrow>
+    </math>
+    . Также можно поставить дополнительную точку и в названии в качестве третьей буквы использовать название точки — большую букву латинского алфавита.
+   </div>
+   <div>
+   </div>
+   <div>
+    У каждой дуги есть градусная мера. Сумма градусных мер двух дуг с общими концами равна
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mn>
+       360
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+     </mrow>
+    </math>
+    . Если отрезок, соединяющий концы дуги, является диаметром окружности, то дугу называют полуокружностью. Градусная мера полуокружности равна
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mn>
+       180
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div align="center">
+    <div>
+     <div align="center">
+      <div>
+       <div>
+        <div align="left">
+         <div>
+          <div class="gxst-title">
+           Центральный угол и вписанный угол.
+          </div>
+         </div>
+        </div>
+        <div align="left">
+         <div>
+          <div class="gxst-definition">
+           <div>
+            Угол с вершиной в центре окружности называется
+            <span>
+             <span>
+              <span>
+               <span class="gxst-emph">
+                <span>
+                 <span>
+                  <span>
+                   центральным
+                  </span>
+                  углом
+                 </span>
+                </span>
+               </span>
+              </span>
+              .
+             </span>
+            </span>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div align="left">
+         <img alt="C_lenkis.png" class="gxs-resource-image" height="301" src="//ykl-res.azureedge.net/a8cf2a62-7e5b-47a6-a763-d3282f5520df/C_lenkis.png" width="352"/>
+        </div>
+        <div align="left">
+        </div>
+        <div align="left">
+         Градусная мера центрального угла равна градусной мере соответствующей дуги окружности:
+        </div>
+        <div align="left">
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mo lspace="4px" rspace="4px">
+            ∡
+           </mo>
+          </mrow>
+         </math>
+         \(AOB =\)
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mo>
+            ∪
+           </mo>
+          </mrow>
+         </math>
+         \(AB\).
+        </div>
+       </div>
+      </div>
+      <div align="left">
+       <div>
+        <div>
+         <div>
+          <div>
+           <div class="gxst-definition">
+            <div>
+             Угол, вершина которого лежит на окружности, а стороны пересекают окружность, называется
+             <span class="gxst-emph">
+              вписанным углом
+             </span>
+             .
+            </div>
+           </div>
+          </div>
+         </div>
+         <div>
+          <div>
+           <img alt="Iev_lenkis.png" class="gxs-resource-image" height="331" src="//ykl-res.azureedge.net/2aa96d26-b20b-42ba-aa4b-e7cf0788cfbe/Iev_lenkis.png" width="335"/>
+          </div>
+          <div>
+          </div>
+         </div>
+         <div>
+          Вписанный угол измеряется половиной дуги, на которую он опирается:
+         </div>
+        </div>
+       </div>
+      </div>
+      <div align="center">
+       <div>
+        <div>
+         <div align="left">
+          <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+           <mrow>
+            <mo lspace="4px" rspace="4px">
+             ∡
+            </mo>
+            <mi mathvariant="italic">
+             ACB
+            </mi>
+            <mo>
+             =
+            </mo>
+            <mfrac>
+             <mn>
+              1
+             </mn>
+             <mn>
+              2
+             </mn>
+            </mfrac>
+            <mo>
+             ∪
+            </mo>
+            <mi mathvariant="italic">
+             AB
+            </mi>
+           </mrow>
+          </math>
+          .
+         </div>
+         <div align="left">
+          <div class="gxst-theory">
+           <div>
+            <div align="left">
+             1. Вписанные углы, опирающиеся на одну и ту же дугу, равны.
+            </div>
+            <div align="left">
+             2. Вписанный угол, опирающийся на полуокружность, равен
+             <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+              <mrow>
+               <mn>
+                90
+               </mn>
+               <mi mathvariant="normal">
+                °
+               </mi>
+              </mrow>
+             </math>
+             .
+            </div>
+           </div>
+          </div>
+         </div>
+         <div align="left">
+          <img alt="Iev_lenkis_taisns1.png" class="gxs-resource-image" height="316" src="//ykl-res.azureedge.net/c8caf735-83e2-447a-9695-2f4b7039ed85/Iev_lenkis_taisns1.png" width="307"/>
+          <img alt="Iev_lenkis_taisns.png" class="gxs-resource-image" height="317" src="//ykl-res.azureedge.net/c1a88703-d7ee-49cf-af5f-312b301e3716/Iev_lenkis_taisns.png" width="308"/>
+         </div>
+         <div align="left">
+          <div class="gxst-title">
+           Свойство пересекающихся хорд окружности.
+          </div>
+         </div>
+         <div align="left">
+          <img alt="Hordas.png" class="gxs-resource-image" height="319" src="//ykl-res.azureedge.net/a08b61a1-6e82-410c-91ee-820639b638b9/Hordas.png" width="312"/>
+         </div>
+         <div align="left">
+         </div>
+         <div align="left">
+          Если две хорды окружности пересекаются, то произведение отрезков одной хорды равно произведению отрезков второй хорды.
+         </div>
+         <div align="left">
+         </div>
+         <div align="left">
+          Это свойство легко доказать, дополнив рисунок и рассмотрев подобие
+          <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+           <mrow>
+            <mi mathvariant="normal">
+             Δ
+            </mi>
+            <mspace width="0.147em">
+            </mspace>
+            <mi mathvariant="italic">
+             CKA
+            </mi>
+            <mspace width="0.147em">
+            </mspace>
+            <mo>
+             ∼
+            </mo>
+            <mspace width="0.147em">
+            </mspace>
+            <mi mathvariant="normal">
+             Δ
+            </mi>
+            <mspace width="0.147em">
+            </mspace>
+            <mi mathvariant="italic">
+             BKD
+            </mi>
+           </mrow>
+          </math>
+          .
+         </div>
+         <div align="left">
+         </div>
+         <div align="left">
+          Треугольники подобны, потому что имеют равные углы:
+          <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+           <mrow>
+            <mo lspace="4px" rspace="4px">
+             ∡
+            </mo>
+            <mn>
+             1
+            </mn>
+           </mrow>
+          </math>
+          — вписанные углы, которые опираются на одну и ту же дугу,
+          <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+           <mrow>
+            <mo lspace="4px" rspace="4px">
+             ∡
+            </mo>
+            <mn>
+             2
+            </mn>
+           </mrow>
+          </math>
+          — вертикальные углы.
+         </div>
+         <div align="left">
+         </div>
+         <div align="left">
+          Если
+          <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+           <mrow>
+            <mfrac>
+             <mi mathvariant="italic">
+              AK
+             </mi>
+             <mi mathvariant="italic">
+              KD
+             </mi>
+            </mfrac>
+            <mspace width="0.147em">
+            </mspace>
+            <mo>
+             =
+            </mo>
+            <mspace width="0.147em">
+            </mspace>
+            <mfrac>
+             <mi mathvariant="italic">
+              CK
+             </mi>
+             <mi mathvariant="italic">
+              KB
+             </mi>
+            </mfrac>
+            <mspace width="0.147em">
+            </mspace>
+           </mrow>
+          </math>
+          , то
+          <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+           <mrow>
+            <mi mathvariant="italic">
+             AK
+            </mi>
+            <mo>
+             ⋅
+            </mo>
+            <mi mathvariant="italic">
+             KB
+            </mi>
+            <mspace width="0.147em">
+            </mspace>
+            <mo>
+             =
+            </mo>
+            <mspace width="0.147em">
+            </mspace>
+            <mi mathvariant="italic">
+             CK
+            </mi>
+            <mo>
+             ⋅
+            </mo>
+            <mi mathvariant="italic">
+             KD
+            </mi>
+           </mrow>
+          </math>
+          .
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  
+ </div>
+</div>

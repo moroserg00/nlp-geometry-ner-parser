@@ -1,0 +1,275 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     <div>
+      Признаки, которые мы рассматривали в первой части теории, и свойства, которые будем рассматривать в этой части, доказываем разными способами.
+     </div>
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <span class="gxst-emph">
+            Признак
+           </span>
+           — это некоторый факт, благодаря которому мы устанавливаем справедливость интересующего нас суждения о некотором объекте.
+          </div>
+         </div>
+         <div class="gxst-theory">
+          <div>
+           Если при пересечении двух прямых третьей секущей накрест лежащие углы равны, то эти две прямые параллельны.
+          </div>
+         </div>
+        </div>
+        <div>
+         <div>
+          <div>
+           <span class="gxst-emph">
+            Свойство
+           </span>
+           — если мы уверены в справедливости суждения, мы формулируем свойство объекта.
+          </div>
+         </div>
+         <div class="gxst-theory">
+          <div>
+           Если две прямые параллельны, то при пересечении их с третьей секущей накрест лежащие углы равны.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <span class="gxst-emph">
+            Аксиома
+           </span>
+           , в свою очередь — такая истина, которую не надо доказывать. В каждой науке есть свои аксиомы, на справедливости которых строят все дальнейшие суждения и их доказательства.
+          </div>
+         </div>
+         <div>
+          <div>
+           <div>
+            <div>
+             <div>
+              <div>
+               <div>
+                <div>
+                 <div>
+                  <div>
+                   <div>
+                    <div>
+                     <div>
+                      <div>
+                       <div>
+                        <div>
+                         <div>
+                          <div>
+                           <div>
+                            <div>
+                             <div>
+                              <div>
+                               <div>
+                                <div>
+                                 <div>
+                                  <div>
+                                   <div>
+                                    <div>
+                                     <div>
+                                      <div>
+                                       <div>
+                                        <div>
+                                         <div>
+                                          <div>
+                                           <div>
+                                            <div class="gxst-theory">
+                                             <div>
+                                              <div>
+                                               <div>
+                                                <div>
+                                                 <div>
+                                                  <div>
+                                                   <div>
+                                                    <div>
+                                                     <strong>
+                                                      Аксиома параллельных прямых.
+                                                     </strong>
+                                                    </div>
+                                                   </div>
+                                                  </div>
+                                                 </div>
+                                                </div>
+                                               </div>
+                                               <div>
+                                                <div>
+                                                 <div>
+                                                  <div>
+                                                   В одной плоскости с заданной прямой через точку, не лежащую на этой прямой, можно провести только одну прямую, параллельную заданной прямой.
+                                                  </div>
+                                                 </div>
+                                                </div>
+                                               </div>
+                                              </div>
+                                             </div>
+                                            </div>
+                                           </div>
+                                          </div>
+                                         </div>
+                                        </div>
+                                       </div>
+                                      </div>
+                                     </div>
+                                    </div>
+                                   </div>
+                                  </div>
+                                 </div>
+                                </div>
+                               </div>
+                              </div>
+                             </div>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                     Иногда эту аксиому называют как одно из свойств параллельных прямых, но на справедливости этой аксиомы строятся многие доказательства в геометрии.
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Paral_taisne_caur_p.png" class="gxs-resource-image" height="523" src="//ykl-res.azureedge.net/f956aa10-c980-434e-8fc8-d364530c41f3/Paral_taisne_caur_p.png" width="351"/>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Другие свойства параллельных прямых.
+      </div>
+      <div>
+       1. Если одна из пары параллельных прямых параллельна третьей прямой, то и другая прямая параллельна третьей прямой.
+      </div>
+      <div>
+       2. Если некая прямая пересекает одну из двух параллельных прямых, то она пересекает и вторую параллельную прямую.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    Эти свойства в отличие от аксиомы нужно доказать.
+   </div>
+   <div>
+   </div>
+   <div>
+    <strong>
+     Докажем 1. Свойство.
+    </strong>
+   </div>
+   <div>
+    Даны две параллельные прямые l и l. Верно ли, что если прямая l параллельна прямой l, то она параллельна и прямой l?
+   </div>
+   <div>
+    <img alt="Tris_paral_taisnes.png" class="gxs-resource-image" height="423" src="//ykl-res.azureedge.net/064afb21-335b-4457-80ed-30da51550cec/Tris_paral_taisnes.png" width="362"/>
+   </div>
+   <div>
+    Используем противоположное суждение.
+   </div>
+   <div>
+   </div>
+   <div>
+    Допустим, что возможна ситуация, когда прямая l параллельна одной из параллельных прямых — прямой l — пересекает другую прямую l в некоторой точке l.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Tris_paral_taisnes1.png" class="gxs-resource-image" height="426" src="//ykl-res.azureedge.net/39349569-d529-43c3-82fc-1b1817ea0344/Tris_paral_taisnes1.png" width="368"/>
+   </div>
+   <div>
+    Получается противоречие с аксиомой параллельных прямых. Мы имеем ситуацию, когда через точку проходят две пересекающиеся прямые, которые параллельны одной и той же прямой l. Такого не может быть, значит, прямые l и l пересекаться не могут.
+   </div>
+   <div>
+    Мы доказали, что верно: если одна из пары параллельных прямых параллельна третьей прямой, то и другая прямая параллельна третьей прямой.
+   </div>
+   <div>
+    <br/>
+    <strong>
+     Попробуй доказать самостоятельно 2. Свойство.
+    </strong>
+   </div>
+   <div>
+    Если некая прямая l пересекает одну из двух параллельных прямых l, то она пересекает и вторую параллельную прямую l.
+    <strong>
+    </strong>
+   </div>
+   <div>
+    <img alt="Tris_paral_taisnes_krusto.png" class="gxs-resource-image" height="420" src="//ykl-res.azureedge.net/8c8b6530-8ce0-40d1-8e81-c176e8fda26c/Tris_paral_taisnes_krusto.png" width="370"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Таким же методом от противоположного суждения попробуй представить, что возможна ситуация, когда прямая пересекает одну из параллельных прямых, но не пересекает другую.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Tris_paral_taisnes_krusto1.png" class="gxs-resource-image" height="420" src="//ykl-res.azureedge.net/6138d0bd-7c70-4dcd-89c2-9a8d64d24a2f/Tris_paral_taisnes_krusto1.png" width="370"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Перечислим свойства углов, которые образуются при пересечении двух параллельных прямых с третьей секущей.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       При пересечении двух параллельных прямых третьей секущей:
+      </div>
+      <div>
+       <div>
+        - накрест лежащие углы равны,
+       </div>
+       <div>
+        - соответственные углы равны,
+       </div>
+       <div>
+        - сумма односторонних углов равна l.
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Lenku_veidi_paral1.png" class="gxs-resource-image" height="392" src="//ykl-res.azureedge.net/02c15bed-5640-46f1-99be-9f495f928d14/Lenku_veidi_paral1.png" width="392"/>
+   </div>
+  </div>
+ </div>
+</div>

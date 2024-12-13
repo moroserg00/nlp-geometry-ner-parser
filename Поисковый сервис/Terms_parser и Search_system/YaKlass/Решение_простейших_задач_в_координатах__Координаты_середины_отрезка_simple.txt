@@ -1,0 +1,77 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Координаты середины отрезка.
+    </div>
+   </div>
+   <div>
+    Если даны координаты конечных точек отрезка, знания о действиях с векторами и координатами векторов дают возможность определить координаты серединной точки отрезка.
+   </div>
+   <div>
+    Для этого расположим отрезок l в системе координат.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Koord_vidusp.png" class="gxs-resource-image" height="435" src="//ykl-res.azureedge.net/7fef7c04-0d9b-41f0-8ded-ed6ea4d1f857/Koord_vidusp.png" width="476"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    ,
+    m
+    — конечные точки отрезка с данными координатами.
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    — серединная точка с искомыми координатами.
+   </div>
+   <div>
+   </div>
+   <div>
+    Пусть векторы
+    m
+    ,
+    m
+    и
+    m
+    начнутся в начале координат, в таком случае их координаты совпадут с координатами их конечных точек.
+   </div>
+   <div>
+   </div>
+   <div>
+    Если сосчитать векторы
+    m
+    и
+    m
+    по закону параллелограмма, тo
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Kак известно, в координатной форме координаты суммы находим как сумму координат слагаемых векторов, а при умножении с числом координаты находим умножением координат.
+   </div>
+   <div>
+    Следовательно,
+    m
+    ,
+   </div>
+   <div>
+   </div>
+   <div>
+    то есть искомые значения l и l:
+   </div>
+   <div>
+    m
+    .
+   </div>
+  </div>
+ </div>
+</div>

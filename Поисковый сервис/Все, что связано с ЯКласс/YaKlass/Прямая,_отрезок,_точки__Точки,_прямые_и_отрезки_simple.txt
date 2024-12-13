@@ -1,0 +1,183 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     <div>
+      <div class="gxst-title">
+       Введение в геометрию.
+      </div>
+     </div>
+     <div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Geometrija.png" class="gxs-resource-image" height="291" src="//ykl-res.azureedge.net/8c7f82a8-f4a6-439e-9b21-a425749c4ea1/Geometrija.png" width="561"/>
+   </div>
+   <div>
+    Название нового предмета
+    <font color="#77a900">
+     ГЕОМЕТРИЯ
+    </font>
+    произошло от древнегреческих слов
+    <font class="gxst-color-emph">
+     ЗЕМЛЯ
+    </font>
+    и
+    <font class="gxst-color-emph">
+     ИЗМЕРЕНИЕ
+    </font>
+    .
+   </div>
+   <div>
+    Наука геометрия — одна из самых древних наук, и возникла в связи с практической необходимостью в измерениях, проведении границ, строительстве дорог и зданий, а сейчас мы знаем геометрию как науку, которая изучает свойства геометрических фигур.
+   </div>
+   <div>
+   </div>
+   <div>
+    В дальнейшем будут определения для разных фигур, кроме двух —
+    <strong>
+     <font class="gxst-color-emph">
+      точка
+     </font>
+    </strong>
+    и
+    <font class="gxst-color-emph">
+     <strong>
+      прямая
+     </strong>
+    </font>
+    . С помощью этих фигур мы определим все остальные геометрические фигуры, а точку и прямую можем попытаться только представить: точку — как что-то бесконечно малое, а прямую — как что-то бесконечно простирающееся в обе стороны.
+   </div>
+   <div>
+    <img alt="Taisnes_punkti.png" class="gxs-resource-image" height="356" src="//ykl-res.azureedge.net/09ee25b7-8d56-46c2-8565-404c1a43fefc/Taisnes_punkti.png" width="670"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Точки обозначаются большими латинскими буквами, прямые обозначаются малыми латинскими буквами. Словами описать взаимное расположение точек и прямой можно по разному:
+   </div>
+   <div>
+    1.  точка находится (лежит) на прямой, или прямая проходит (проведена) через точку;
+   </div>
+   <div>
+    2.  точка не находится (не лежит) на прямой, или прямая не проходит (не проведена) через точку.
+   </div>
+   <div>
+   </div>
+   <div>
+    В геометрии эти факты записываются символически:
+   </div>
+   <div>
+    1. точки l и l находятся (лежат) на прямой l, или
+   </div>
+   <div>
+    прямая l проходит (проведена) через точки l и l —
+    m
+    ;
+   </div>
+   <div>
+    2. точки l и l не находятся (не лежат) на прямой l,
+   </div>
+   <div>
+    или прямая l не проходит (не проведена) через точки l и l —
+    m
+    .
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Одно из самых важных предположений в геометрии — через любые две точки можно провести прямую, притом только одну.
+      </div>
+     </div>
+    </div>
+    Значит, иногда обозначить прямую можем и двумя большими латинскими буквами, например, прямая l, так как никакая другая прямая через эти две точки не может быть проведена.
+   </div>
+   <div>
+    <img alt="Taisne_divi_punkti.png" class="gxs-resource-image" height="345" src="//ykl-res.azureedge.net/1b615cf3-2aef-432d-a482-735ae90d87e2/Taisne_divi_punkti.png" width="647"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Следовательно, две прямые могут иметь только одну общую точку и пересекаться или не иметь ни одной общей точки и никогда не пересекаться.
+   </div>
+   <div>
+    <img alt="Taisnes_kustojas.png" class="gxs-resource-image" height="344" src="//ykl-res.azureedge.net/51e3dc5c-7c71-4541-ae04-8c62f88cb6fb/Taisnes_kustojas.png" width="647"/>
+   </div>
+   <div>
+    Символически записываем
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Taisnes_paralelas.png" class="gxs-resource-image" height="343" src="//ykl-res.azureedge.net/09f95489-256a-41e6-b2b0-7bed19f1548d/Taisnes_paralelas.png" width="645"/>
+   </div>
+   <div>
+    Символически записываем
+    m
+    .
+   </div>
+   <div>
+    <div>
+     <div>
+      <div class="gxst-definition">
+       <div>
+        <div>
+         Часть прямой, ограниченная двумя точками, называется
+         <font class="gxst-color-emph">
+          отрезком
+         </font>
+         .
+        </div>
+       </div>
+      </div>
+      <img alt="Nogrieznis1.png" class="gxs-resource-image" height="345" src="//ykl-res.azureedge.net/392b6703-823e-4881-8535-4d1021071667/Nogrieznis1.png" width="647"/>
+     </div>
+     <div>
+      Символически записываем отрезок l.
+     </div>
+     <div>
+     </div>
+    </div>
+    Внимательно посмотри на рисунок!
+    <div>
+     <div>
+      <img alt="Taisnes_nogriezni.png" class="gxs-resource-image" height="450" src="//ykl-res.azureedge.net/2669936b-b726-414a-a7a8-b82bd9e8f967/Taisnes_nogriezni.png" width="656"/>
+     </div>
+     <div>
+     </div>
+     <div>
+      <div class="gxst-important">
+       <div class="gxst-ititle">
+        <span>
+         Обрати внимание!
+        </span>
+       </div>
+       <div class="gxst-ibody" title="Обрати внимание!">
+        <div>
+         1) Отрезки l и l пересекаются, отрезки l и l имеют общий конец,
+        </div>
+        <div>
+         отрезки l и l, l и l, l и l , l и l не пересекаются.
+        </div>
+        <div>
+         2) Все прямые — l, l и l — пересекаются!
+        </div>
+        <div>
+         Так как мы представляем прямую как бесконечно простирающуюся в обе стороны, то рано или поздно эти прямые будут пересекаться, несмотря на то, что на рисунке этого не видно.
+        </div>
+        <div>
+         Мы можем нарисовать только часть бесконечных прямых.
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

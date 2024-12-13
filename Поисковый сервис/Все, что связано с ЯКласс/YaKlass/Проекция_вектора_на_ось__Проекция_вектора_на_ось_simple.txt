@@ -1,0 +1,218 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Проекция вектора.
+    </div>
+    В математике существуют два определения:
+   </div>
+   <div align="left">
+    1) геометрическая проекция вектора — вектор;
+   </div>
+   <div align="left">
+    2) проекция вектора на ось — число.
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <span>
+          <div class="gxst-definition">
+           <div>
+            <div>
+             <span>
+              <span class="gxst-color-emph">
+               <span>
+                Геометрическая проекция вектора
+               </span>
+              </span>
+              —
+             </span>
+             это вектор, который можно получить, если провести перпендикуляры от концов вектора до выбранной оси. Проекция начала вектора соответствует началу геометрической проекции, а проекция конца вектора соответствует концу геометрической проекции.
+            </div>
+           </div>
+          </div>
+         </span>
+         <video controls="controls" height="300" poster="//ykl-res.azureedge.net/0e933e21-79c0-44a8-9254-4a992be41965/v_pr1.wmv.png" title="Проекция вектора" width="300">
+          <source src="//ykl-res.azureedge.net/c27f7a82-4795-4c59-b256-e7e586924143/v_pr1.wmv.mp4" type="video/mp4"/>
+          <img height="300" src="//ykl-res.azureedge.net/0e933e21-79c0-44a8-9254-4a992be41965/v_pr1.wmv.png" width="300"/>
+          <br/>
+          <a href="http://browsehappy.com/">
+           Ваш браузер не поддерживает HTML5 видео.
+          </a>
+         </video>
+        </div>
+        <div>
+        </div>
+        <div>
+         <div>
+          Для вектора
+          m
+          геометрическая проекция на оси l — это вектор
+          m
+          .
+         </div>
+         <div align="left">
+         </div>
+         <div align="left">
+          <video controls="controls" height="300" poster="//ykl-res.azureedge.net/cc5a6a84-f4d6-4524-8318-23a150ae3d49/v_pr2.wmv.png" title="Проекция вектора" width="300">
+           <source src="//ykl-res.azureedge.net/d0a8d34b-aef6-4b1b-b057-a52c7d8ed3b2/v_pr2.wmv.mp4" type="video/mp4"/>
+           <img height="300" src="//ykl-res.azureedge.net/cc5a6a84-f4d6-4524-8318-23a150ae3d49/v_pr2.wmv.png" width="300"/>
+           <br/>
+           <a href="http://browsehappy.com/">
+            Ваш браузер не поддерживает HTML5 видео.
+           </a>
+          </video>
+         </div>
+         <div align="left">
+          <div align="left">
+           Для вектора
+           m
+           геометрическая проекция на оси l — это вектор
+           m
+           .
+          </div>
+         </div>
+         <div>
+          <div align="left">
+           <div>
+            <div>
+             <div>
+              <div>
+               <div>
+                <div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div align="left">
+          </div>
+          <div align="left">
+           <div>
+            <div align="left">
+             <div>
+              <div>
+               <div>
+                <div>
+                 <div>
+                  <div>
+                   <span>
+                    <div class="gxst-definition">
+                     <div>
+                      <div>
+                       <span>
+                        <span class="gxst-color-emph">
+                         <span>
+                          Проекция вектора на ось
+                         </span>
+                        </span>
+                       </span>
+                       — это скалярная величина (число), равная длине геометрической проекции вектора, если направление оси и геометрической проекции совпадают; или число, противоположное длине геометрической проекции вектора, если направления геометрической проекции и оси — противоположные.
+                      </div>
+                     </div>
+                    </div>
+                   </span>
+                  </div>
+                 </div>
+                </div>
+                <div align="left">
+                </div>
+                <div align="left">
+                 <img alt="векторы-проекция.png" class="gxs-resource-image" src="//ykl-res.azureedge.net/4842e380-80dc-4b0d-a379-dfe0b6b4e586/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%86%D0%B8%D1%8F.png"/>
+                </div>
+                <div align="left">
+                </div>
+                <div align="left">
+                 m
+                 .
+                </div>
+                <br/>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div align="left">
+    <div class="gxst-theory">
+     <div>
+      <div align="left">
+       Если длина вектора
+       m
+       равна
+       m
+       и
+       m
+       — это острый угол, созданный вектором и осью l, то скалярная проекция вектора вычисляется по формуле:
+       m
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <div align="left">
+    Знак проекции вектора выбирается в зависимости от направления оси.
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    <img alt="векторы-проекция-треугольник.png" class="gxs-resource-image" src="//ykl-res.azureedge.net/4dfe5a4a-98c4-4744-8682-a4cd665d297a/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.png"/>
+   </div>
+   <div align="left">
+   </div>
+   <div>
+    На рисунке видно, что эту формулу можно получить из соотношения в прямоугольном треугольнике:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <div class="gxst-important">
+     <div class="gxst-ititle">
+      <span>
+       Обрати внимание!
+      </span>
+     </div>
+     <div class="gxst-ibody" title="Обрати внимание!">
+      <div>
+       Если вектор и ось проекций параллельны, то скалярная проекция на этой оси — число, которое равно длине вектора, если направления вектора и оси совпадают, или число, противоположное длине вектора, если направления вектора и оси — противоположные.
+      </div>
+      <div>
+       Если вектор и ось проекций перпендикулярны, то проекция вектора на этой оси равна l.
+      </div>
+      <div>
+       <img alt="Projekcijas_vekt.png" class="gxs-resource-image" height="171" src="//ykl-res.azureedge.net/a4662c9e-0fea-4e28-873b-0f0d643813ee/Projekcijas_vekt.png" width="501"/>
+      </div>
+      <div>
+      </div>
+      <div>
+       m.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+   </div>
+  </div>
+ </div>
+</div>

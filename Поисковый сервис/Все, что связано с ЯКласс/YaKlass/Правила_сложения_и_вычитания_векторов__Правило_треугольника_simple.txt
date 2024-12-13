@@ -1,0 +1,73 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Сложение векторов по правилу треугольника.
+    </div>
+    Даны векторы
+    m
+    и
+    m
+    . Если векторы
+    m
+    и
+    m
+    отложить последовательно друг за другом (начало вектора
+    m
+    попадает в конец вектора
+    m
+    ), то вектор суммы
+    m
+    соединяет начало одного вектора с концом второго вектора.
+   </div>
+   <div align="left">
+    <div align="center">
+     <div align="left">
+      <div>
+      </div>
+      <div>
+       ﻿
+       <video controls="controls" height="400" poster="//ykl-res.azureedge.net/981b9777-323c-46fd-870e-16671948da6b/v_p_t.wmv.png" title="Сложение векторов по правилу треугольника" width="400">
+        <source src="//ykl-res.azureedge.net/d7cf7178-5764-4c34-bdc7-74a41505faca/vec-sum-triangl.wmv.mp4" type="video/mp4"/>
+        <img height="400" src="//ykl-res.azureedge.net/981b9777-323c-46fd-870e-16671948da6b/v_p_t.wmv.png" width="400"/>
+        <br/>
+        <a href="http://browsehappy.com/">
+         Ваш браузер не поддерживает HTML5 видео.
+        </a>
+       </video>
+      </div>
+      <div>
+      </div>
+      <div>
+       <div>
+        <div>
+         Запись:
+        </div>
+       </div>
+       <div>
+        m
+        или
+        m
+        .
+       </div>
+       <div>
+       </div>
+       <div>
+        <div align="left">
+         Такой приём сложения векторов называется
+         <strong>
+          <font class="gxst-color-emph">
+           правилом треугольника
+          </font>
+         </strong>
+         .
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

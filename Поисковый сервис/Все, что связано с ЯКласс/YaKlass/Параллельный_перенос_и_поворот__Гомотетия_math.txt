@@ -1,0 +1,221 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+         P
+        </mi>
+<mn>
+         1
+        </mn>
+</msub>
+<mo>
+        ,
+       </mo>
+<mspace width="0.147em">
+</mspace>
+<mtext>
+        что
+       </mtext>
+<mspace width="0.147em">
+</mspace>
+<mover>
+<mrow>
+<mi>
+          O
+         </mi>
+<msub>
+<mi>
+           P
+          </mi>
+<mn>
+           1
+          </mn>
+</msub>
+</mrow>
+<mo>
+         →
+        </mo>
+</mover>
+<mo>
+        =
+       </mo>
+<mi>
+        k
+       </mi>
+<mo>
+        ⋅
+       </mo>
+<mover>
+<mi mathvariant="italic">
+         OP
+        </mi>
+<mo>
+         →
+        </mo>
+</mover>
+<mo>
+        ,
+       </mo>
+<mspace width="0.147em">
+</mspace>
+<mtext>
+        где
+       </mtext>
+<mspace width="0.147em">
+</mspace>
+<mi>
+        k
+       </mi>
+<mo>
+        ≠
+       </mo>
+<mn>
+        0
+       </mn>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>
+                 F
+                </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+                  F
+                 </mi>
+<mn>
+                  1
+                 </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfrac>
+<msub>
+<mi>
+                   P
+                  </mi>
+<msub>
+<mi>
+                    F
+                   </mi>
+<mn>
+                    1
+                   </mn>
+</msub>
+</msub>
+<msub>
+<mi>
+                   P
+                  </mi>
+<mi>
+                   F
+                  </mi>
+</msub>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                 =
+                </mo>
+<mspace width="0.147em">
+</mspace>
+<mi>
+                 k
+                </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfrac>
+<msub>
+<mi>
+                   S
+                  </mi>
+<msub>
+<mi>
+                    F
+                   </mi>
+<mn>
+                    1
+                   </mn>
+</msub>
+</msub>
+<msub>
+<mi>
+                   S
+                  </mi>
+<mi>
+                   F
+                  </mi>
+</msub>
+</mfrac>
+<mo>
+                 =
+                </mo>
+<msup>
+<mi>
+                  k
+                 </mi>
+<mn>
+                  2
+                 </mn>
+</msup>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>
+              F
+             </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+               F
+              </mi>
+<mn>
+               1
+              </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>
+                  F
+                 </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+                   F
+                  </mi>
+<mn>
+                   1
+                  </mn>
+</msub>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+                    O
+                   </mi>
+<mo>
+                    ;
+                   </mo>
+<mfrac>
+<mn>
+                     1
+                    </mn>
+<mn>
+                     2
+                    </mn>
+</mfrac>
+</mrow>
+</mfenced>
+</mrow>
+</math>]

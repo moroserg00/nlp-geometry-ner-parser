@@ -1,0 +1,612 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Перпендикуляр от точки к прямой.
+    </div>
+   </div>
+   <div class="gxst-definition">
+    <div>
+     <div>
+      Отрезок \(AC\) называется перпендикуляром, проведённым из точки \(A\) прямой \(a\), если прямые \(AC\) и \(a\) перпендикулярны.
+     </div>
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="пер3.jpg" class="gxs-resource-image" height="271" src="//ykl-res.azureedge.net/0f05e4c7-3350-4461-8699-a0b038d6ddc8/%D0%BF%D0%B5%D1%803.jpg" width="228"/>
+   </div>
+   <div>
+    Точка \(C\) называется
+    <font class="gxst-color-emph">
+     <strong>
+      основанием
+     </strong>
+    </font>
+    перпендикуляра.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       От точки, не лежащей на прямой, можно провести перпендикуляр к этой прямой, и притом только один.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Perpendikuls.png" class="gxs-resource-image" height="287" src="//ykl-res.azureedge.net/34c459b9-20c0-4511-ac86-11967f767dde/Perpendikuls.png" width="379"/>
+    <img alt="Perpendikuls1.png" class="gxs-resource-image" height="303" src="//ykl-res.azureedge.net/4e23366b-bb56-4f27-8db8-ff62a6c15640/Perpendikuls1.png" width="224"/>
+   </div>
+   <div>
+    Докажем, что от точки \(A\), не лежащей на прямой \(BC\), можно провести перпендикуляр к этой прямой.
+   </div>
+   <div>
+   </div>
+   <div>
+    Допустим, что дан угол
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       ABC
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Отложим от луча \(BC\) угол, равный данному, и совместим эти углы накладыванием (представим, что сложим лист бумаги с равными углами по стороне \(BC\)).
+   </div>
+   <div>
+    Сторона \(BA\) совместится со стороной
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mi>
+       B
+      </mi>
+      <msub>
+       <mi>
+        A
+       </mi>
+       <mn>
+        1
+       </mn>
+      </msub>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    При этом точка \(A\) наложится на некоторую точку
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msub>
+       <mi>
+        A
+       </mi>
+       <mn>
+        1
+       </mn>
+      </msub>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    Следовательно, совмещается угол
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       ACB
+      </mi>
+     </mrow>
+    </math>
+    с
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <msub>
+       <mi>
+        A
+       </mi>
+       <mn>
+        1
+       </mn>
+      </msub>
+      <mi mathvariant="italic">
+       CB
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    Но углы
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       ACB
+      </mi>
+     </mrow>
+    </math>
+    и
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <msub>
+       <mi>
+        A
+       </mi>
+       <mn>
+        1
+       </mn>
+      </msub>
+      <mi mathvariant="italic">
+       CB
+      </mi>
+     </mrow>
+    </math>
+    — смежные, значит, каждый из них прямой.
+   </div>
+   <div>
+   </div>
+   <div>
+    Прямая
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msub>
+       <mi mathvariant="italic">
+        AA
+       </mi>
+       <mn>
+        1
+       </mn>
+      </msub>
+     </mrow>
+    </math>
+    перпендикулярна прямой \(BC\), а отрезок \(AC\) является перпендикуляром от точки \(A\) к прямой \(BC\).
+   </div>
+   <div>
+    Если допустить, что через точку \(A\) можно провести ещё один перпендикуляр к прямой \(BC\), то он бы находился на прямой, пересекающейся с
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msub>
+       <mi mathvariant="italic">
+        AA
+       </mi>
+       <mn>
+        1
+       </mn>
+      </msub>
+     </mrow>
+    </math>
+    . Но две к одной и той же прямой перпендикулярные прямые должны быть параллельны и не могут пересекаться.
+   </div>
+   <div>
+    Это противоречие, что означает: через данную точку к прямой можно провести только один перпендикуляр.
+   </div>
+   <div class="gxst-title">
+    Медианы, биссектрисы и высоты треугольника.
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       <font class="gxst-color-emph">
+        Медиана
+       </font>
+       треугольника — это отрезок, соединяющий вершину треугольника с серединой противолежащей стороны.
+      </div>
+     </div>
+    </div>
+    Поэтому для построения медианы необходимо выполнить следующие действия:
+    <br/>
+    1) найти середину стороны;
+    <br/>
+    2) соединить точку, являющуюся серединой стороны треугольника, с противолежащей вершиной отрезком — это и будет медиана.
+   </div>
+   <div>
+    <img alt="Mediana.png" class="gxs-resource-image" height="284" src="//ykl-res.azureedge.net/8afb7718-41d0-483c-99ff-ffb103d20526/Mediana.png" width="451"/>
+   </div>
+   <div>
+    У треугольника три стороны, следовательно, можно построить три медианы.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Все медианы пересекаются в одной точке.
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Mediana1.png" class="gxs-resource-image" height="286" src="//ykl-res.azureedge.net/a7c3336a-9f15-41f9-b948-4370a852b890/Mediana1.png" width="454"/>
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <font class="gxst-color-emph">
+       Биссектриса
+      </font>
+      треугольника — это отрезок биссектрисы угла треугольника, соединяющий вершину с точкой на противоположной стороне.
+     </div>
+    </div>
+    Поэтому для построения биссектрисы необходимо выполнить следующие действия:
+    <br/>
+    1) построить биссектрису какого-либо угла треугольника
+    <span class="gxst-text-emph">
+     (биссектриса угла — это луч, выходящий из вершины угла и делящий его на две равные части
+    </span>
+    );
+    <br/>
+    2) найти точку пересечения биссектрисы угла треугольника с противоположной стороной;
+    <br/>
+    3) соединить вершину треугольника с точкой пересечения на противоположной стороне отрезком — это и будет биссектриса треугольника.
+   </div>
+   <div>
+    <img alt="Bisektrise.png" class="gxs-resource-image" height="309" src="//ykl-res.azureedge.net/603f854e-2b44-4df6-a3a8-93f5f513b03f/Bisektrise.png" width="463"/>
+   </div>
+   <div>
+    У треугольника три угла и три биссектрисы.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Все биссектрисы пересекаются в одной точке.
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Bisektrise1.png" class="gxs-resource-image" height="314" src="//ykl-res.azureedge.net/515a6bb1-aa2e-4b51-b376-412b08673b18/Bisektrise1.png" width="470"/>
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <font class="gxst-color-emph">
+       Высота
+      </font>
+      треугольника — это перпендикуляр, опущенный из вершины треугольника к прямой, содержащей противоположную сторону.
+     </div>
+    </div>
+   </div>
+   <div>
+    Поэтому для построения высоты необходимо выполнить следующие действия:
+    <br/>
+    1) провести прямую, содержащую одну из сторон треугольника (
+    <span class="gxst-text-emph">
+     в случае, если проводится высота из вершины острого угла в тупоугольном треугольнике
+    </span>
+    );
+    <br/>
+    2) из вершины, лежащей напротив проведённой прямой, опустить перпендикуляр к ней (
+    <span class="gxst-text-emph">
+     перпендикуляр — это отрезок, проведённый из точки к прямой, составляющей с ней угол
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mn>
+        90
+       </mn>
+       <mi mathvariant="normal">
+        °
+       </mi>
+      </mrow>
+     </math>
+    </span>
+    ) — это и будет высота.
+   </div>
+   <div>
+    <img alt="Augstums.png" class="gxs-resource-image" height="325" src="//ykl-res.azureedge.net/30150fea-cd6b-4d6c-abf0-ede30a23c20e/Augstums.png" width="487"/>
+   </div>
+   <div>
+    Так же как медианы и биссектрисы, треугольник имеет три высоты.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Высоты треугольника пересекаются в одной точке.
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Augstums1.png" class="gxs-resource-image" height="341" src="//ykl-res.azureedge.net/3d8f9b40-e1df-4aa6-99fc-c7d1bf826f0c/Augstums1.png" width="512"/>
+   </div>
+   <div>
+    Но, как выше упомянуто, для некоторых видов треугольников построение высот и точки их пересечения отличаются.
+   </div>
+   <div>
+    Если треугольник с прямым углом, то стороны, образующие прямой угол, можно назвать высотами, так как они перпендикулярны одна к другой. Точкой пересечения высот является общая вершина перпендикулярных сторон.
+   </div>
+   <div>
+    <img alt="Augstums2.png" class="gxs-resource-image" height="343" src="//ykl-res.azureedge.net/84294b95-5f19-4e0f-a363-74f99005eeb3/Augstums2.png" width="514"/>
+   </div>
+   <div>
+    Если треугольник с тупым углом, то высоты, опущенные с вершин острых углов, выходят вне треугольника к продолжениям сторон. Прямые, на которых расположены высоты, пересекаются вне треугольника.
+   </div>
+   <div>
+    <img alt="Augstums3.png" class="gxs-resource-image" height="378" src="//ykl-res.azureedge.net/145d7237-adcb-47f6-bfbb-363d8f8a9280/Augstums3.png" width="517"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div class="gxst-important">
+         <div class="gxst-ititle">
+          <span>
+           Обрати внимание!
+          </span>
+         </div>
+         <div class="gxst-ibody" title="Обрати внимание!">
+          <div>
+           Если из одной и той же вершины провести медиану, биссектрису и высоту, то медиана окажется самым длинным отрезком, а высота — самым коротким отрезком.
+          </div>
+         </div>
+        </div>
+        <img alt="Visi.png" class="gxs-resource-image" height="339" src="//ykl-res.azureedge.net/c3941478-1784-4151-af31-3e99c06fa899/Visi.png" width="509"/>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="gxst-title">
+     Равнобедренный треугольник.
+    </div>
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       Если у треугольника две стороны равны, то такой треугольник называют
+       <font class="gxst-color-emph">
+        равнобедренным
+       </font>
+       .
+      </div>
+     </div>
+    </div>
+    Равные стороны называют
+    <font class="gxst-color-emph">
+     <strong>
+      боковыми
+     </strong>
+    </font>
+    , а третью сторону —
+    <strong>
+     <font class="gxst-color-emph">
+      основанием
+     </font>
+    </strong>
+    .
+   </div>
+   <div>
+    <img alt="Trijst_vs.png" class="gxs-resource-image" height="415" src="//ykl-res.azureedge.net/1d002747-5df0-4daa-ac1b-5d2115657ceb/Trijst_vs.png" width="365"/>
+   </div>
+   <div>
+    \(AB = BC\) — боковые стороны , \(AC\) — основание.
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       Если у треугольника все три стороны равны, то такой треугольник является
+       <font class="gxst-color-emph">
+        равносторонним.
+       </font>
+      </div>
+     </div>
+    </div>
+    Равнобедренный треугольник имеет некоторые свойства, которые не имеют треугольники с разными сторонами.
+   </div>
+   <div class="gxst-theory">
+    <div>
+     <div>
+      1. В равнобедренном треугольнике углы при основании равны.
+     </div>
+     <div>
+      2. В равнобедренном треугольнике биссектриса, проведённая к основанию, является медианой и высотой.
+     </div>
+     <div>
+      3. В равнобедренном треугольнике медиана, проведённая к основанию, является биссектрисой и высотой.
+     </div>
+     <div>
+      4. В равнобедренном треугольнике высота, проведённая к основанию, является биссектрисой и медианой.
+     </div>
+    </div>
+   </div>
+   <div>
+    Первое и второе свойство можно доказать, если докажем равенство двух треугольников, которые образуются, если из угла напротив основания провести биссектрису \(BD\).
+   </div>
+   <div>
+    <img alt="Vs_trijst_ip.png" class="gxs-resource-image" height="330" src="//ykl-res.azureedge.net/f090da01-9456-484e-9450-529344bf61f0/Vs_trijst_ip.png" width="288"/>
+   </div>
+   <div>
+    Рассмотрим равнобедренный треугольник \(ABC\) с основанием \(AC\) и докажем, что
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mi mathvariant="normal">
+       Δ
+      </mi>
+      <mi mathvariant="italic">
+       ABD
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi mathvariant="normal">
+       Δ
+      </mi>
+      <mi mathvariant="italic">
+       CBD
+      </mi>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    Пусть \(BD\) — биссектриса треугольника \(ABC\).
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mi mathvariant="normal">
+       Δ
+      </mi>
+      <mi mathvariant="italic">
+       ABD
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mi mathvariant="normal">
+       Δ
+      </mi>
+      <mi mathvariant="italic">
+       CBD
+      </mi>
+     </mrow>
+    </math>
+    по первому признаку равенства треугольников (\(AB = BC\) по условию, \(BD\) — общая сторона,
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       ABD
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       CBD
+      </mi>
+     </mrow>
+    </math>
+    , так как \(BD\) — биссектриса).
+   </div>
+   <div>
+   </div>
+   <div>
+    У равных треугольников равны все соответствующие элементы:
+   </div>
+   <div>
+    1.
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi>
+       A
+      </mi>
+      <mo>
+       =
+      </mo>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi>
+       C
+      </mi>
+     </mrow>
+    </math>
+    — доказано, что прилежащие основанию углы равны.
+   </div>
+   <div>
+    2. \(AD = DC\) — доказано, что биссектриса является медианой.
+   </div>
+   <div>
+    3.
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       ADB
+      </mi>
+      <mspace width="0.147em">
+      </mspace>
+      <mo>
+       =
+      </mo>
+      <mspace width="0.147em">
+      </mspace>
+      <mo lspace="4px" rspace="4px">
+       ∡
+      </mo>
+      <mi mathvariant="italic">
+       CDB
+      </mi>
+     </mrow>
+    </math>
+    — так как смежные углы, сумма которых
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mn>
+       180
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+     </mrow>
+    </math>
+    , равны, то каждый из них равен
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mn>
+       90
+      </mn>
+      <mi mathvariant="normal">
+       °
+      </mi>
+     </mrow>
+    </math>
+    , то есть медиана является высотой.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Vs_trijst_ip1.png" class="gxs-resource-image" height="341" src="//ykl-res.azureedge.net/18a2da35-3793-43b9-8bcd-fb7c25360cfe/Vs_trijst_ip1.png" width="298"/>
+   </div>
+   <div>
+    Можно очень легко самостоятельно доказать и третье, и четвёртое свойства.
+   </div>
+   <div>
+   </div>
+  </div>
+  
+ </div>
+</div>

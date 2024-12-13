@@ -1,0 +1,184 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Первый признак подобия треугольников.
+    </div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <div>
+            <div>
+             <div>
+              <div>
+               <div>
+                <div>
+                 <div>
+                  <div class="gxst-theory">
+                   <div>
+                    I. Если два угла одного треугольника соответственно равны двум углам другого, то такие треугольники подобны.
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div>
+                Если
+                <span>
+                 m
+                 <span>
+                  l
+                  m
+                  l и
+                  m
+                  l
+                  m
+                  l
+                 </span>
+                </span>
+                <span>
+                 , то
+                </span>
+                m
+                <br/>
+               </div>
+               <div>
+                <table style="width: 550px; height: 243px;">
+                 <tbody>
+                  <tr>
+                   <td>
+                    <img alt="111 Треугольник 1.png" class="gxs-resource-image" height="261" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/4349af58-07dd-4cdf-8379-4b4a1af57724/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA1w300.png" srcset="//ykl-res.azureedge.net/4349af58-07dd-4cdf-8379-4b4a1af57724/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA1w300.png 300w, //ykl-res.azureedge.net/33fec130-1d63-47b7-9026-82b2a363f023/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA1.png 384w" width="300"/>
+                    <td>
+                     <div align="right">
+                      <img alt="111 Треугольник 22.png" class="gxs-resource-image" height="176" sizes="(max-width: 200px) 100vw, 200px" src="//ykl-res.azureedge.net/43116546-866f-4504-98df-db66efc3a54d/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA22w200.png" srcset="//ykl-res.azureedge.net/43116546-866f-4504-98df-db66efc3a54d/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA22w200.png 200w, //ykl-res.azureedge.net/8994b630-020c-4854-b3aa-9cc193c7a3a7/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA22w400.png 400w, //ykl-res.azureedge.net/cc842977-ca6c-4ba4-af53-d7d31262a0e3/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA22.png 414w" width="200"/>
+                     </div>
+                    </td>
+                   </td>
+                  </tr>
+                 </tbody>
+                </table>
+                <br/>
+               </div>
+              </div>
+              <div>
+               <div>
+                <div>
+                 <div>
+                  <div class="gxst-title">
+                   Второй признак подобия треугольников.
+                  </div>
+                  <div class="gxst-theory">
+                   <div>
+                    II. Если две стороны одного треугольника пропорциональны двум сторонам другого треугольника и углы, образованные этими сторонами, равны, то такие треугольники подобны.
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               Если
+               m
+               и
+               m
+               l
+               m
+               l, то
+               m
+              </div>
+              <div>
+              </div>
+              <div>
+               <table style="width: 558px; height: 217px;">
+                <tbody>
+                 <tr>
+                  <td>
+                   <img alt="111 Треугольник 3.png" class="gxs-resource-image" height="251" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/e81c827a-2da2-497d-9a28-e82fa48263a9/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA3w300.png" srcset="//ykl-res.azureedge.net/e81c827a-2da2-497d-9a28-e82fa48263a9/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA3w300.png 300w, //ykl-res.azureedge.net/32b1c784-3f2a-4f25-a3ea-4eda0288a62c/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA3.png 408w" width="300"/>
+                   <td>
+                    <div align="right">
+                     <img alt="111 Треугольник 44.png" class="gxs-resource-image" height="172" sizes="(max-width: 200px) 100vw, 200px" src="//ykl-res.azureedge.net/398b0f0d-8c08-4a2b-b4ec-394732ff3496/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA44w200.png" srcset="//ykl-res.azureedge.net/398b0f0d-8c08-4a2b-b4ec-394732ff3496/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA44w200.png 200w, //ykl-res.azureedge.net/46f35f0c-0af9-4bf8-8020-334df25870d3/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA44w400.png 400w, //ykl-res.azureedge.net/8cbb5c3b-283e-4a65-9544-002e7c6bf641/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA44.png 454w" width="200"/>
+                    </div>
+                   </td>
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <br/>
+              </div>
+              <div>
+               <div>
+                <div>
+                 <div>
+                  <div>
+                   <div class="gxst-title">
+                    Третий признак подобия треугольников.
+                   </div>
+                  </div>
+                  <div>
+                   <div>
+                    <div>
+                     <div>
+                      <div class="gxst-theory">
+                       <div>
+                        III. Если три стороны одного треугольника пропорциональны трём сторонам другого, то такие треугольники подобны.
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 Если
+                 m
+                 , то
+                 m
+                </div>
+               </div>
+              </div>
+              <div>
+              </div>
+              <div>
+               <table style="width: 561px; height: 243px;">
+                <tbody>
+                 <tr>
+                  <td>
+                   <img alt="111 Треугольник 5.png" class="gxs-resource-image" height="246" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/665ed106-8998-4e73-9423-bfd4a1b86851/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA5w300.png" srcset="//ykl-res.azureedge.net/665ed106-8998-4e73-9423-bfd4a1b86851/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA5w300.png 300w, //ykl-res.azureedge.net/87534d86-cc5d-485c-ad42-5fb81c8cc97f/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA5.png 406w" width="300"/>
+                   <td>
+                    <div align="right">
+                     <img alt="111 Треугольник 66.png" class="gxs-resource-image" height="169" sizes="(max-width: 200px) 100vw, 200px" src="//ykl-res.azureedge.net/675f9d5b-7bea-48a5-99e0-e4c09f66efb3/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA66w200.png" srcset="//ykl-res.azureedge.net/675f9d5b-7bea-48a5-99e0-e4c09f66efb3/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA66w200.png 200w, //ykl-res.azureedge.net/37970574-bdb0-451d-8e67-8591d852a9d7/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA66w400.png 400w, //ykl-res.azureedge.net/f4c6afc5-c3c8-479a-813a-823eab95e874/111%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA66w411.png 411w" width="200"/>
+                    </div>
+                   </td>
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+              </div>
+              <div>
+              </div>
+              <div>
+               При решении задач сначала нужно убедиться, что данные треугольники подобны.
+              </div>
+              <div>
+               Если подобие треугольников не дано, то его необходимо доказать.
+              </div>
+              <div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

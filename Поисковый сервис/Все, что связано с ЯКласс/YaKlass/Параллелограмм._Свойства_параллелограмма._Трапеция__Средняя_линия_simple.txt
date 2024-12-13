@@ -1,0 +1,120 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <span>
+     <div>
+      <div class="gxst-title">
+       Средняя линия треугольника.
+      </div>
+     </div>
+    </span>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div class="gxst-definition">
+          <div>
+           <div>
+            Отрезок, соединяющий середины двух сторон треугольника, называется
+            <font class="gxst-color-emph">
+             средней линией
+            </font>
+            этого
+            <font class="gxst-color-emph">
+             треугольника
+            </font>
+            .
+           </div>
+          </div>
+         </div>
+         Средняя линия треугольника параллельна одной из его сторон и равна половине этой стороны.
+        </div>
+        <div>
+        </div>
+        <div>
+         <img alt="строка 57.png" class="gxs-resource-image" height="246" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/025b1999-dd40-4e4c-858a-d55028750176/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B057w300.png" srcset="//ykl-res.azureedge.net/025b1999-dd40-4e4c-858a-d55028750176/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B057w300.png 300w, //ykl-res.azureedge.net/8ca44352-6249-4dc6-9828-eb34706beb93/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B057.png 484w" width="300"/>
+        </div>
+        <div>
+        </div>
+       </div>
+      </div>
+      <div>
+       <div align="left">
+        m
+       </div>
+      </div>
+      <div>
+      </div>
+      <div>
+       В каждом треугольнике — три средних линии.
+      </div>
+      <div>
+      </div>
+      <div>
+       <div>
+        <img alt="строка 58.png" class="gxs-resource-image" height="250" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/8337ebe0-e10c-4882-8130-9ed96725ee5d/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B058w300.png" srcset="//ykl-res.azureedge.net/8337ebe0-e10c-4882-8130-9ed96725ee5d/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B058w300.png 300w, //ykl-res.azureedge.net/ecd73dab-f867-4fcd-b0e0-ad4e076ab26b/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B058.png 486w" width="300"/>
+       </div>
+       <div>
+        Средние линии l, l, l.
+       </div>
+       <div>
+        <span>
+         <div class="gxst-title">
+          Средняя линия трапеции.
+         </div>
+        </span>
+        <div class="gxst-definition">
+         <div>
+          Отрезок, соединяющий середины боковых сторон трапеции, называется
+          <span class="gxst-emph">
+           средней линией этой трапеции
+          </span>
+          .
+         </div>
+        </div>
+       </div>
+      </div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <div>
+            <div>
+             Средняя линия трапеции параллельна основаниям и равна их полусумме.
+            </div>
+            <div>
+            </div>
+            <div>
+             <img alt="строка 59.png" class="gxs-resource-image" height="204" sizes="(max-width: 300px) 100vw, 300px" src="//ykl-res.azureedge.net/78f03427-838a-47a1-86a2-32bc20a9c9ac/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B059w300.png" srcset="//ykl-res.azureedge.net/78f03427-838a-47a1-86a2-32bc20a9c9ac/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B059w300.png 300w, //ykl-res.azureedge.net/87293137-57a7-42b2-836b-80335ecdde97/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B059w600.png 600w, //ykl-res.azureedge.net/41e66269-3fc9-4b71-a5a7-13121cf91bb6/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B059.png 604w" width="300"/>
+            </div>
+            <div>
+            </div>
+            <div>
+             <div align="left">
+              m
+             </div>
+            </div>
+            <div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div>
+       У трапеции — только одна средняя линия.
+      </div>
+      <div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

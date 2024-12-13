@@ -1,0 +1,462 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Второй признак равенства треугольников.
+    </div>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Если сторона и два прилежащих к ней угла одного треугольника соответственно равны стороне и двум прилежащим к ней углам другого треугольника, то такие треугольники равны.
+      </div>
+     </div>
+    </div>
+    <img alt="Pazime2.png" class="gxs-resource-image" height="439" src="//ykl-res.azureedge.net/6f25ef66-70b6-4974-aea3-923c9b0a9d1b/Pazime2.png" width="576"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . \(1\). Второй признак равенства треугольников.
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mtable columnalign="left" indentalign="left">
+       <mtr>
+        <mtd>
+         <mi mathvariant="italic">
+          MN
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="italic">
+          PR
+         </mi>
+         <mo>
+          ;
+         </mo>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd>
+         <mo lspace="verythickmathspace" rspace="verythickmathspace">
+          ∡
+         </mo>
+         <mi>
+          N
+         </mi>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mo lspace="verythickmathspace" rspace="verythickmathspace">
+          ∡
+         </mo>
+         <mi>
+          R
+         </mi>
+         <mo>
+          ;
+         </mo>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd>
+         <mo lspace="verythickmathspace" rspace="verythickmathspace">
+          ∡
+         </mo>
+         <mi>
+          M
+         </mi>
+         <mo>
+          =
+         </mo>
+         <mo lspace="verythickmathspace" rspace="verythickmathspace">
+          ∡
+         </mo>
+         <mi>
+          P
+         </mi>
+         <mo>
+          .
+         </mo>
+        </mtd>
+       </mtr>
+      </mtable>
+     </math>.
+    </div>
+    <div>
+     Как и в доказательстве первого признака, нужно убедиться, достаточно ли этого для равенства треугольников, можно ли их полностью совместить?
+    </div>
+    <div>
+     <br/>
+     1. Так как
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi mathvariant="italic">
+        MN
+       </mi>
+       <mspace width="0.147em">
+       </mspace>
+       <mo>
+        =
+       </mo>
+       <mspace width="0.147em">
+       </mspace>
+       <mi mathvariant="italic">
+        PR
+       </mi>
+      </mrow>
+     </math>
+     , то эти отрезки совмещаются, если совместить их конечные точки.
+    </div>
+    <div>
+    </div>
+    <div>
+     2. Так как
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mo lspace="4px" rspace="4px">
+        ∡
+       </mo>
+       <mi>
+        N
+       </mi>
+       <mspace width="0.147em">
+       </mspace>
+       <mo>
+        =
+       </mo>
+       <mo lspace="4px" rspace="4px">
+        ∡
+       </mo>
+       <mi>
+        R
+       </mi>
+      </mrow>
+     </math>
+     и
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mo lspace="4px" rspace="4px">
+        ∡
+       </mo>
+       <mi>
+        M
+       </mi>
+       <mspace width="0.147em">
+       </mspace>
+       <mo>
+        =
+       </mo>
+       <mo lspace="4px" rspace="4px">
+        ∡
+       </mo>
+       <mi>
+        P
+       </mi>
+      </mrow>
+     </math>
+     , то лучи \(MK\) и \(NK\) наложатся соответственно на лучи \(PT\) и \(RT\).
+    </div>
+    <div>
+    </div>
+    <div>
+     3. Если совпадают лучи, то совпадают точки их пересечения \(K\) и \(T\).
+    </div>
+    <div>
+    </div>
+    <div>
+     4. Совмещены все вершины треугольников, то есть
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi mathvariant="normal">
+        Δ
+       </mi>
+       <mi mathvariant="italic">
+        MNK
+       </mi>
+      </mrow>
+     </math>
+     и
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi mathvariant="normal">
+        Δ
+       </mi>
+       <mi mathvariant="italic">
+        PRT
+       </mi>
+      </mrow>
+     </math>
+     полностью совместятся, значит, они равны.
+     <br/>
+    </div>
+   </div>
+   <div>
+    <div class="gxst-title">
+     Третий признак равенства треугольников.
+    </div>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Если три стороны одного треугольника соответственно равны трём сторонам другого треугольника, то такие треугольники равны.
+      </div>
+     </div>
+    </div>
+    <img alt="Pazime3.png" class="gxs-resource-image" height="439" src="//ykl-res.azureedge.net/a18f694c-bd16-4e21-aca0-1e9baacebd6a/Pazime3.png" width="576"/>
+   </div>
+   <div>
+    <div>
+     <em>
+      Рис
+     </em>
+     . \(2\). Третий признак равенства треугольников.
+    </div>
+    <div>
+    </div>
+    <div>
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mtable columnalign="left" indentalign="left">
+       <mtr>
+        <mtd>
+         <mi mathvariant="italic">
+          MN
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="italic">
+          PR
+         </mi>
+         <mo>
+          ;
+         </mo>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd>
+         <mi mathvariant="italic">
+          KN
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="italic">
+          TR
+         </mi>
+         <mo>
+          ;
+         </mo>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd>
+         <mi mathvariant="italic">
+          MK
+         </mi>
+         <mspace width="0.147em">
+         </mspace>
+         <mo>
+          =
+         </mo>
+         <mspace width="0.147em">
+         </mspace>
+         <mi mathvariant="italic">
+          PT
+         </mi>
+         <mo>
+          .
+         </mo>
+        </mtd>
+       </mtr>
+      </mtable>
+     </math>.
+    </div>
+    <div>
+    </div>
+    <div>
+     Опять попробуем совместить треугольники
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi mathvariant="normal">
+        Δ
+       </mi>
+       <mi mathvariant="italic">
+        MNK
+       </mi>
+      </mrow>
+     </math>
+     и
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi mathvariant="normal">
+        Δ
+       </mi>
+       <mi mathvariant="italic">
+        PRT
+       </mi>
+      </mrow>
+     </math>
+     наложением и убедиться, что соответственно равные стороны гарантируют и равенство соответственных углов этих треугольников, и они полностью совпадут.
+    </div>
+    <div>
+     <img alt="Pazime3_pierad.png" class="gxs-resource-image" height="325" src="//ykl-res.azureedge.net/adfdb99b-79a8-4b04-8e3a-876476a4d9e7/Pazime3_pierad.png" width="314"/>
+    </div>
+    <div>
+     <em>
+      Рис
+     </em>
+     . \(3\). Доказательство третьего признака равенства треугольников.
+    </div>
+    <div>
+    </div>
+    <div>
+     Совместим, например, одинаковые отрезки \(MK\) и \(PT\). Допустим, что точки \(N\) и \(R\) при этом не совмещаются.
+    </div>
+    <div>
+     <br/>
+     Пусть \(O\) — середина отрезка \(NR\). Соответственно данной информации
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi mathvariant="italic">
+        MN
+       </mi>
+       <mspace width="0.147em">
+       </mspace>
+       <mo>
+        =
+       </mo>
+       <mspace width="0.147em">
+       </mspace>
+       <mi mathvariant="italic">
+        PR
+       </mi>
+      </mrow>
+     </math>
+     ,
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi mathvariant="italic">
+        KN
+       </mi>
+       <mspace width="0.147em">
+       </mspace>
+       <mo>
+        =
+       </mo>
+       <mspace width="0.147em">
+       </mspace>
+       <mi mathvariant="italic">
+        TR
+       </mi>
+      </mrow>
+     </math>
+     . Треугольники \(MNR\) и \(KNR\) равнобедренные с общим основанием \(NR\).
+    </div>
+    <div>
+    </div>
+    <div>
+     Поэтому их медианы \(MO\) и \(KO\) являются высотами, значит, перпендикулярны \(NR\). Прямые \(MO\) и \(KO\) не совпадают, так как точки \(M\), \(K\), \(O\) не лежат на одной прямой. Но через точку \(O\) прямой \(NR\) можно провести только одну перпендикулярную ей прямую. Мы пришли к противоречию.
+    </div>
+    <div>
+    </div>
+    <div>
+     Доказано, что должны совместиться и вершины \(N\) и \(R\).
+     <br/>
+     <strong>
+     </strong>
+    </div>
+   </div>
+   <div>
+    Третий признак позволяет назвать треугольник очень сильной, устойчивой фигурой, иногда говорят, что
+    <span>
+     <font class="gxst-color-emph">
+      <strong>
+       треугольник — жёсткая фигура
+      </strong>
+     </font>
+    </span>
+    . Если длины сторон не меняются, то углы тоже не меняются. Например, у четырёхугольника такого свойства нет. Поэтому разные поддержки и укрепления делают треугольными.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="shutterstock_2049196169.jpg" class="gxs-resource-image" height="300" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/cea8652f-5834-4026-899b-ca1e9ae30304/shutterstock2049196169w400.jpg" srcset="//ykl-res.azureedge.net/cea8652f-5834-4026-899b-ca1e9ae30304/shutterstock2049196169w400.jpg 400w, //ykl-res.azureedge.net/c757a3ba-95ec-48da-954e-3d1f0cc90bb9/shutterstock2049196169w800.jpg 800w, //ykl-res.azureedge.net/35d878c6-75e1-4439-ac1b-1619541fff7e/shutterstock2049196169.jpg 1024w" width="400"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . \(4\). Буровая вышка.
+   </div>
+   <div>
+   </div>
+   <div>
+    Но своеобразную устойчивость, стабильность и совершенство числа \(3\) люди оценивали и выделяли давно.
+   </div>
+   <div>
+   </div>
+   <div>
+    Об этом говорят сказки.
+   </div>
+   <div>
+    Там мы встречаем «Три медведя», «Три ветра», «Три поросёнка», «Три товарища», «Три брата», «Три счастливца», «Трое умельцев», «Три царевича», «Три друга», «Три богатыря» и др.
+   </div>
+   <div>
+   </div>
+   <div>
+    Там даются «три попытки», «три совета», «три указания», «три встречи», исполняются «три желания», нужно потерпеть «три дня», «три ночи», «три года», пройти через «три государства», «три подземных царства», выдержать «три испытания», проплыть через «три моря».
+   </div>
+   <div>
+   </div>
+   <div>
+    <div>
+     <div>
+      И в заключение ещё раз вспомним все признаки равенства треугольников.
+     </div>
+     <div>
+     </div>
+     <div>
+      1. Если две стороны и угол между ними одного треугольника соответственно равны двум сторонам и углу между ними другого треугольника, то такие треугольники равны.
+     </div>
+    </div>
+    <div>
+    </div>
+    <div>
+     <div>
+      2. Если сторона и два прилежащих к ней угла одного треугольника соответственно равны стороне и двум прилежащим к ней углам другого треугольника, то такие треугольники равны.
+     </div>
+     <div>
+     </div>
+     <div>
+      3. Если три стороны одного треугольника соответственно равны трём сторонам другого треугольника, то такие треугольники равны.
+     </div>
+    </div>
+   </div>
+  </div>
+  
+ </div>
+</div>

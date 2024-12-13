@@ -1,0 +1,113 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       Два треугольника называются
+       <font class="gxst-color-emph">
+        подобными
+       </font>
+       , если их соответствующие углы равны, а соответствующие стороны пропорциональны.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           Даны треугольники l и l.
+          </div>
+         </div>
+        </div>
+        <div>
+        </div>
+        <div>
+         Если известно, что
+         m
+         и
+         m
+         ,
+        </div>
+        <div>
+        </div>
+        <div>
+         то можно сделать вывод, что
+         m
+        </div>
+        <div>
+         <br/>
+         <img alt="Lidziba.png" class="gxs-resource-image" height="261" src="//ykl-res.azureedge.net/04cdb47c-c210-4539-9ceb-b3bc524dcbc7/Lidziba.png" width="478"/>
+        </div>
+        <div>
+         <div>
+          <div>
+          </div>
+          <div>
+           При записи подобия треугольников важно соблюдать порядок букв. Равным углам соответствуют определённые буквы.
+          </div>
+         </div>
+        </div>
+        <div>
+         <div>
+          <div class="gxst-definition">
+           <div>
+            <div>
+             Число
+             <span class="gxst-emph">
+              k
+             </span>
+             , которое равно отношению соответствующих сторон треугольников, называется
+             <font class="gxst-color-emph">
+              коэффициентом
+             </font>
+             подобия треугольников.
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div>
+         Чтобы определить, являются ли треугольники подобными, не обязательно знать длины всех сторон и градусные меры всех углов треугольников, это можно сделать проще, используя признаки подобия треугольников.
+        </div>
+        <div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     <div class="gxst-important">
+      <div class="gxst-ititle">
+       <span>
+        Обрати внимание!
+       </span>
+      </div>
+      <div class="gxst-ibody" title="Обрати внимание!">
+       <div>
+        Отношение периметров двух подобных треугольников равно коэффициенту подобия треугольников
+        m
+        .
+       </div>
+       <div>
+       </div>
+       <div>
+        Отношение площадей двух подобных треугольников равно квадрату коэффициента подобия
+        m
+        .
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

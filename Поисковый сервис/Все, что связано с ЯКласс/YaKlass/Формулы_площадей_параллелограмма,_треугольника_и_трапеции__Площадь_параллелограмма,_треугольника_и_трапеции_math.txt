@@ -1,0 +1,1448 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<msub>
+<mi>
+          S
+         </mi>
+<mi mathvariant="italic">
+          ABCD
+         </mi>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<msub>
+<mi>
+          S
+         </mi>
+<mi mathvariant="italic">
+          ABE
+         </mi>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         +
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<msub>
+<mi>
+          S
+         </mi>
+<mi mathvariant="italic">
+          EBCD
+         </mi>
+</msub>
+<mo>
+         ;
+        </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>
+          S
+         </mi>
+<mi mathvariant="italic">
+          EBCF
+         </mi>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<msub>
+<mi>
+          S
+         </mi>
+<mi mathvariant="italic">
+          EBCD
+         </mi>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         +
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<msub>
+<mi>
+          S
+         </mi>
+<mrow>
+<mi mathvariant="italic">
+           DCF
+          </mi>
+<mo>
+           .
+          </mo>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<msub>
+<mi>
+          S
+         </mi>
+<mi mathvariant="italic">
+          EBCF
+         </mi>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+         BE
+        </mi>
+<mo>
+         ⋅
+        </mo>
+<mi mathvariant="italic">
+         BC
+        </mi>
+<mo>
+         ;
+        </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>
+          S
+         </mi>
+<mi mathvariant="italic">
+          ABCD
+         </mi>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mi mathvariant="italic">
+         BE
+        </mi>
+<mo>
+         ⋅
+        </mo>
+<mi mathvariant="italic">
+         BC
+        </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mi mathvariant="italic">
+         BE
+        </mi>
+<mo>
+         ⋅
+        </mo>
+<mi mathvariant="italic">
+         AD
+        </mi>
+<mo>
+         .
+        </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+        S
+       </mi>
+<mrow>
+<mtext>
+         п
+        </mtext>
+<mo>
+         −
+        </mo>
+<mtext>
+         гр
+        </mtext>
+</mrow>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+       =
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mi>
+       a
+      </mi>
+<mo>
+       ⋅
+      </mo>
+<mi>
+       h
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+        S
+       </mi>
+<mi mathvariant="italic">
+        ABCD
+       </mi>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+       =
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+       4
+      </mn>
+<mo>
+       ⋅
+      </mo>
+<msub>
+<mi>
+        S
+       </mi>
+<mi mathvariant="italic">
+        ABO
+       </mi>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+       =
+      </mo>
+<mn>
+       4
+      </mn>
+<mo>
+       ⋅
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mrow>
+<mi mathvariant="italic">
+         BO
+        </mi>
+<mo>
+         ⋅
+        </mo>
+<mi mathvariant="italic">
+         AO
+        </mi>
+</mrow>
+<mn>
+        2
+       </mn>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+       =
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mn>
+       2
+      </mn>
+<mo>
+       ⋅
+      </mo>
+<mi mathvariant="italic">
+       BO
+      </mi>
+<mo>
+       ⋅
+      </mo>
+<mi mathvariant="italic">
+       AO
+      </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+        S
+       </mi>
+<mtext>
+        ромба
+       </mtext>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+       =
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mrow>
+<msub>
+<mi>
+          d
+         </mi>
+<mn>
+          1
+         </mn>
+</msub>
+<mo>
+         ⋅
+        </mo>
+<msub>
+<mi>
+          d
+         </mi>
+<mn>
+          2
+         </mn>
+</msub>
+</mrow>
+<mn>
+        2
+       </mn>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+        S
+       </mi>
+<mtext>
+        квадрата
+       </mtext>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+       =
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<msup>
+<mi>
+         d
+        </mi>
+<mn>
+         2
+        </mn>
+</msup>
+<mn>
+        2
+       </mn>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+        S
+       </mi>
+<mtext>
+        треуг
+       </mtext>
+</msub>
+<mo>
+       =
+      </mo>
+<mfrac>
+<mrow>
+<mi>
+         a
+        </mi>
+<msub>
+<mi>
+          h
+         </mi>
+<mi>
+          a
+         </mi>
+</msub>
+</mrow>
+<mn>
+        2
+       </mn>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<msub>
+<mi>
+            S
+           </mi>
+<mi mathvariant="normal">
+            Δ
+           </mi>
+</msub>
+<mo>
+           =
+          </mo>
+<msqrt>
+<mrow>
+<mi>
+             p
+            </mi>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+               p
+              </mi>
+<mo>
+               −
+              </mo>
+<mi>
+               a
+              </mi>
+</mrow>
+</mfenced>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+               p
+              </mi>
+<mo>
+               −
+              </mo>
+<mi>
+               b
+              </mi>
+</mrow>
+</mfenced>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+               p
+              </mi>
+<mo>
+               −
+              </mo>
+<mi>
+               c
+              </mi>
+</mrow>
+</mfenced>
+</mrow>
+</msqrt>
+<mo>
+           ;
+          </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>
+           p
+          </mi>
+<mo>
+           =
+          </mo>
+<mfrac>
+<mrow>
+<mi>
+             a
+            </mi>
+<mo>
+             +
+            </mo>
+<mi>
+             b
+            </mi>
+<mo>
+             +
+            </mo>
+<mi>
+             c
+            </mi>
+</mrow>
+<mn>
+            2
+           </mn>
+</mfrac>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi>
+        S
+       </mi>
+<mo>
+        =
+       </mo>
+<mfrac>
+<mrow>
+<mi>
+          a
+         </mi>
+<mo>
+          ⋅
+         </mo>
+<mi>
+          b
+         </mi>
+</mrow>
+<mn>
+         2
+        </mn>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<mi>
+                p
+               </mi>
+<mo>
+                =
+               </mo>
+<mfrac>
+<mrow>
+<mn>
+                  17
+                 </mn>
+<mo>
+                  +
+                 </mo>
+<mn>
+                  39
+                 </mn>
+<mo>
+                  +
+                 </mo>
+<mn>
+                  44
+                 </mn>
+</mrow>
+<mn>
+                 2
+                </mn>
+</mfrac>
+<mo>
+                =
+               </mo>
+<mn>
+                50
+               </mn>
+<mo>
+                ;
+               </mo>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>
+                 S
+                </mi>
+<mi mathvariant="normal">
+                 Δ
+                </mi>
+</msub>
+<mo>
+                =
+               </mo>
+<msqrt>
+<mrow>
+<mn>
+                  50
+                 </mn>
+<mo>
+                  ⋅
+                 </mo>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+                    50
+                   </mn>
+<mo>
+                    −
+                   </mo>
+<mn>
+                    17
+                   </mn>
+</mrow>
+</mfenced>
+<mo>
+                  ⋅
+                 </mo>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+                    50
+                   </mn>
+<mo>
+                    −
+                   </mo>
+<mn>
+                    39
+                   </mn>
+</mrow>
+</mfenced>
+<mo>
+                  ⋅
+                 </mo>
+<mfenced close=")" open="(">
+<mrow>
+<mn>
+                    50
+                   </mn>
+<mo>
+                    −
+                   </mo>
+<mn>
+                    44
+                   </mn>
+</mrow>
+</mfenced>
+</mrow>
+</msqrt>
+<mo>
+                =
+               </mo>
+<msqrt>
+<mrow>
+<mn>
+                  50
+                 </mn>
+<mo>
+                  ⋅
+                 </mo>
+<mn>
+                  33
+                 </mn>
+<mo>
+                  ⋅
+                 </mo>
+<mn>
+                  11
+                 </mn>
+<mo>
+                  ⋅
+                 </mo>
+<mn>
+                  6
+                 </mn>
+</mrow>
+</msqrt>
+<mo>
+                =
+               </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo>
+                =
+               </mo>
+<msqrt>
+<mrow>
+<mn>
+                  25
+                 </mn>
+<mo>
+                  ⋅
+                 </mo>
+<mn>
+                  2
+                 </mn>
+<mo>
+                  ⋅
+                 </mo>
+<mn>
+                  3
+                 </mn>
+<mo>
+                  ⋅
+                 </mo>
+<mn>
+                  11
+                 </mn>
+<mo>
+                  ⋅
+                 </mo>
+<mn>
+                  11
+                 </mn>
+<mo>
+                  ⋅
+                 </mo>
+<mn>
+                  2
+                 </mn>
+<mo>
+                  ⋅
+                 </mo>
+<mn>
+                  3
+                 </mn>
+</mrow>
+</msqrt>
+<mo>
+                =
+               </mo>
+<mn>
+                5
+               </mn>
+<mo>
+                ⋅
+               </mo>
+<mn>
+                2
+               </mn>
+<mo>
+                ⋅
+               </mo>
+<mn>
+                3
+               </mn>
+<mo>
+                ⋅
+               </mo>
+<mn>
+                11
+               </mn>
+<mo>
+                =
+               </mo>
+<mn>
+                330
+               </mn>
+<mspace width="0.147em">
+</mspace>
+<mfenced close=")" open="(">
+<msup>
+<mi mathvariant="italic">
+                  см
+                 </mi>
+<mn>
+                  2
+                 </mn>
+</msup>
+</mfenced>
+<mo>
+                .
+               </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msqrt>
+<mrow>
+<mi>
+                a
+               </mi>
+<mo>
+                ⋅
+               </mo>
+<mi>
+                a
+               </mi>
+</mrow>
+</msqrt>
+<mo>
+              =
+             </mo>
+<mi>
+              a
+             </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<msub>
+<mi>
+               S
+              </mi>
+<mi mathvariant="normal">
+               Δ
+              </mi>
+</msub>
+<mo>
+              =
+             </mo>
+<mfrac>
+<mrow>
+<mi>
+                a
+               </mi>
+<msub>
+<mi>
+                 h
+                </mi>
+<mi>
+                 a
+                </mi>
+</msub>
+</mrow>
+<mn>
+               2
+              </mn>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+               S
+              </mi>
+<mi mathvariant="normal">
+               Δ
+              </mi>
+</msub>
+<mo>
+              =
+             </mo>
+<msqrt>
+<mrow>
+<mi>
+                p
+               </mi>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+                  p
+                 </mi>
+<mo>
+                  −
+                 </mo>
+<mi>
+                  a
+                 </mi>
+</mrow>
+</mfenced>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+                  p
+                 </mi>
+<mo>
+                  −
+                 </mo>
+<mi>
+                  b
+                 </mi>
+</mrow>
+</mfenced>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+                  p
+                 </mi>
+<mo>
+                  −
+                 </mo>
+<mi>
+                  c
+                 </mi>
+</mrow>
+</mfenced>
+</mrow>
+</msqrt>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+               S
+              </mi>
+<mi mathvariant="normal">
+               Δ
+              </mi>
+</msub>
+<mo>
+              =
+             </mo>
+<msqrt>
+<mrow>
+<mi>
+                p
+               </mi>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+                  p
+                 </mi>
+<mo>
+                  −
+                 </mo>
+<mi>
+                  a
+                 </mi>
+</mrow>
+</mfenced>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+                  p
+                 </mi>
+<mo>
+                  −
+                 </mo>
+<mi>
+                  b
+                 </mi>
+</mrow>
+</mfenced>
+<mfenced close=")" open="(">
+<mrow>
+<mi>
+                  p
+                 </mi>
+<mo>
+                  −
+                 </mo>
+<mi>
+                  c
+                 </mi>
+</mrow>
+</mfenced>
+</mrow>
+</msqrt>
+<mo>
+              =
+             </mo>
+<msqrt>
+<mrow>
+<mn>
+                16
+               </mn>
+<mo>
+                ⋅
+               </mo>
+<mn>
+                1
+               </mn>
+<mo>
+                ⋅
+               </mo>
+<mn>
+                3
+               </mn>
+<mo>
+                ⋅
+               </mo>
+<mn>
+                12
+               </mn>
+</mrow>
+</msqrt>
+<mo>
+              =
+             </mo>
+<mn>
+              24
+             </mn>
+<mspace width="0.147em">
+</mspace>
+<mfenced close=")" open="(">
+<msup>
+<mtext>
+                см
+               </mtext>
+<mn>
+                2
+               </mn>
+</msup>
+</mfenced>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<mfenced close="|" open="">
+<mrow>
+<mfrac>
+<mrow>
+<mn>
+                    15
+                   </mn>
+<mo>
+                    ⋅
+                   </mo>
+<mi>
+                    h
+                   </mi>
+</mrow>
+<mn>
+                   2
+                  </mn>
+</mfrac>
+<mo>
+                  =
+                 </mo>
+<mn>
+                  24
+                 </mn>
+</mrow>
+</mfenced>
+<mspace width="0.147em">
+</mspace>
+<mo>
+                ⋅
+               </mo>
+<mn>
+                2
+               </mn>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mn>
+                15
+               </mn>
+<mo>
+                ⋅
+               </mo>
+<mi>
+                h
+               </mi>
+<mo>
+                =
+               </mo>
+<mn>
+                48
+               </mn>
+<mo>
+                ;
+               </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>
+                h
+               </mi>
+<mo>
+                =
+               </mo>
+<mfrac>
+<mn>
+                 48
+                </mn>
+<mn>
+                 15
+                </mn>
+</mfrac>
+<mo>
+                =
+               </mo>
+<mn>
+                3,2
+               </mn>
+<mspace width="0.147em">
+</mspace>
+<mo stretchy="false">
+                (
+               </mo>
+<mi mathvariant="italic">
+                см
+               </mi>
+<mo stretchy="false">
+                )
+               </mo>
+<mo>
+                .
+               </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+               S
+              </mi>
+<mtext>
+               параллелограмма
+              </mtext>
+</msub>
+<mo>
+              =
+             </mo>
+<mn>
+              2
+             </mn>
+<mo>
+              ⋅
+             </mo>
+<msub>
+<mi>
+               S
+              </mi>
+<mi mathvariant="normal">
+               Δ
+              </mi>
+</msub>
+<mo>
+              =
+             </mo>
+<mn>
+              2
+             </mn>
+<mo>
+              ⋅
+             </mo>
+<mn>
+              330
+             </mn>
+<mo>
+              =
+             </mo>
+<mn>
+              660
+             </mn>
+<mo stretchy="false">
+              (
+             </mo>
+<msup>
+<mtext>
+               см
+              </mtext>
+<mn>
+               2
+              </mn>
+</msup>
+<mo stretchy="false">
+              )
+             </mo>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mtable columnalign="left" indentalign="left">
+<mtr>
+<mtd>
+<msub>
+<mi>
+          S
+         </mi>
+<mi mathvariant="italic">
+          ABCD
+         </mi>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<msub>
+<mi>
+          S
+         </mi>
+<mi mathvariant="italic">
+          ABD
+         </mi>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         +
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<msub>
+<mi>
+          S
+         </mi>
+<mi mathvariant="italic">
+          DBC
+         </mi>
+</msub>
+<mo>
+         ;
+        </mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>
+          S
+         </mi>
+<mi mathvariant="italic">
+          ABCD
+         </mi>
+</msub>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mrow>
+<mi mathvariant="italic">
+           AD
+          </mi>
+<mo>
+           ⋅
+          </mo>
+<mi mathvariant="italic">
+           BE
+          </mi>
+</mrow>
+<mn>
+          2
+         </mn>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         +
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mrow>
+<mi mathvariant="italic">
+           BC
+          </mi>
+<mo>
+           ⋅
+          </mo>
+<mi mathvariant="italic">
+           DF
+          </mi>
+</mrow>
+<mn>
+          2
+         </mn>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mrow>
+<mi mathvariant="italic">
+           AD
+          </mi>
+<mo>
+           ⋅
+          </mo>
+<mi mathvariant="italic">
+           BE
+          </mi>
+</mrow>
+<mn>
+          2
+         </mn>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         +
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mrow>
+<mi mathvariant="italic">
+           BC
+          </mi>
+<mo>
+           ⋅
+          </mo>
+<mi mathvariant="italic">
+           BE
+          </mi>
+</mrow>
+<mn>
+          2
+         </mn>
+</mfrac>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mo>
+         =
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mrow>
+<mfenced close=")" open="(">
+<mrow>
+<mi mathvariant="italic">
+             AD
+            </mi>
+<mo>
+             +
+            </mo>
+<mi mathvariant="italic">
+             BC
+            </mi>
+</mrow>
+</mfenced>
+<mo>
+           ⋅
+          </mo>
+<mi mathvariant="italic">
+           BE
+          </mi>
+</mrow>
+<mn>
+          2
+         </mn>
+</mfrac>
+<mo>
+         .
+        </mo>
+</mtd>
+</mtr>
+</mtable>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mi>
+         S
+        </mi>
+<mspace width="0.147em">
+</mspace>
+</mrow>
+<mtext>
+        трап
+       </mtext>
+</msub>
+<mo>
+       =
+      </mo>
+<mspace width="0.147em">
+</mspace>
+<mfrac>
+<mrow>
+<mi>
+         a
+        </mi>
+<mspace width="0.147em">
+</mspace>
+<mo>
+         +
+        </mo>
+<mspace width="0.147em">
+</mspace>
+<mi>
+         b
+        </mi>
+</mrow>
+<mn>
+        2
+       </mn>
+</mfrac>
+<mo>
+       ⋅
+      </mo>
+<mi>
+       h
+      </mi>
+</mrow>
+</math>]

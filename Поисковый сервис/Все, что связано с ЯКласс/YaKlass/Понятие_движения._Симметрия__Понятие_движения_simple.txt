@@ -1,0 +1,138 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      <div>
+       Движение — это отображение плоскости на себя, при котором сохраняются расстояния между точками.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    Если две фигуры совместить (наложить) друг с другом посредством движения, то эти фигуры одинаковы, равны.
+   </div>
+   <div class="gxst-theory">
+    <div>
+     <div>
+      Одно из таких движений —
+      <span>
+       <span class="gxst-emph">
+        <span>
+         осевая симметрия
+        </span>
+       </span>
+      </span>
+      . Каждой точке в плоскости по определённому закону ставится в соответствие другая точка той же плоскости.
+     </div>
+     <div>
+      Закон таков:
+      <br/>
+      1) из точки l проводится перпендикуляр к
+      <span class="gxst-emph">
+       оси симметрии (прямой)
+      </span>
+      , и получается точка l — точка пересечения перпендикуляра с осью;
+     </div>
+     <div>
+      2) на перпендикуляре откладывается отрезок
+      m
+      и находится точка
+      m
+      .
+     </div>
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Simetrija_ass_punkti.png" class="gxs-resource-image" height="337" src="//ykl-res.azureedge.net/4a30729c-a0d6-4830-910c-44d3d13f322a/Simetrija_ass_punkti.png" width="294"/>
+    <img alt="Simetrija_ass.png" class="gxs-resource-image" height="368" src="//ykl-res.azureedge.net/0d55f183-8550-4444-bb9e-671ff36c2d99/Simetrija_ass.png" width="541"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Итак, любой точке l плоскости ставится в соответствие единственная точка
+    m
+    плоскости.
+    <br/>
+    Осевая симметрия является частным случаем так называемого отображения плоскости на себя.
+    <br/>
+    Чтобы отобразить фигуры в симметрии относительно прямой, достаточно отобразить соответственные вершины.
+   </div>
+   <div class="gxst-theory">
+    <div>
+     <div>
+      Другим частным случаем отображения плоскости на себя является
+      <span class="gxst-emph">
+       центральная симметрия
+      </span>
+      .
+      <br/>
+      Точка плоскости l переходит в точку плоскости
+      m
+      по следующему закону:
+      <br/>
+      1) из точки l проводится прямая, соединяющая точку с
+      <span class="gxst-emph">
+       центром симметрии (точкой l)
+       <font color="#000000">
+        ;
+       </font>
+      </span>
+     </div>
+     <div>
+      2) на прямой откладывается отрезок
+      m
+      и находится точка
+      m
+      .
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Simetrija_c_punkti.png" class="gxs-resource-image" height="227" src="//ykl-res.azureedge.net/4e110268-78ab-4472-92b2-fe0614b91816/Simetrija_c_punkti.png" width="381"/>
+    <img alt="Simetrija_c.png" class="gxs-resource-image" height="468" src="//ykl-res.azureedge.net/d9333107-09b2-4310-b724-a4b1c9313c11/Simetrija_c.png" width="307"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    ставится в соответствие точке l.
+    <br/>
+    Чтобы отобразить фигуры в симметрии относительно точки, достаточно отобразить соответственные вершины.
+    <div>
+    </div>
+    <div class="gxst-important">
+     <div class="gxst-ititle">
+      <span>
+       Обрати внимание!
+      </span>
+     </div>
+     <div class="gxst-ibody" title="Обрати внимание!">
+      Оба представленных примера отображений обладают следующими свойствами.
+      <br/>
+      1) Каждый отрезок данной длины перейдёт в отрезок той же длины, т. е. расстояние между любыми точками сохраняются.
+      <br/>
+      2) Луч переходит в луч, прямая — в прямую.
+      <br/>
+      3) При движении фигура отображается в равную ей фигуру.
+      <br/>
+      4) Движение обратимо. Отображение, обратное движению, является движением.
+      <br/>
+      5) Композиция двух движений также является движением.
+     </div>
+    </div>
+   </div>
+   <div>
+    Иногда в природе наблюдаем что-то похожее на зеркальную симметрию относительно плоскости.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="shutterstock_650189524.jpg" class="gxs-resource-image" height="300" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/466cb0e8-579c-48cb-9487-f24517c92f77/shutterstock650189524w400.jpg" srcset="//ykl-res.azureedge.net/466cb0e8-579c-48cb-9487-f24517c92f77/shutterstock650189524w400.jpg 400w, //ykl-res.azureedge.net/3a489a90-0545-4fb4-b442-6b4c14c367b0/shutterstock650189524w800.jpg 800w, //ykl-res.azureedge.net/efde0de4-e5db-43ee-aeb7-ced570a2f4bb/shutterstock650189524.jpg 1024w" width="400"/>
+   </div>
+  </div>
+ </div>
+</div>

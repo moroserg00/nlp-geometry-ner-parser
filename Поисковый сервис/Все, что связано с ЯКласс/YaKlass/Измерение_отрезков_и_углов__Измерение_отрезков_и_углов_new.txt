@@ -1,0 +1,624 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Измерение.
+    </div>
+    <div class="gxst-definition">
+     <div>
+      <font class="gxst-color-emph">
+       Измерение
+      </font>
+      — это сравнение объекта измерения с выбранной единицей измерения.
+     </div>
+    </div>
+   </div>
+   <div>
+    Хорошее представление об измерении даёт милый мультфильм «\(38\) попугаев». В нём была решена проблема измерения длины удава.
+   </div>
+   <div>
+   </div>
+   <div>
+    В попугаях длина удава составляла
+    <span>
+     <span class="gxs-number">
+      38
+     </span>
+    </span>
+    попугаев, в мартышках —
+    <span>
+     <span class="gxs-number">
+      5
+     </span>
+    </span>
+    мартышек, а в слонёнках — только \(2\) слонёнка. Естественно, удаву больше нравилось то, что в попугаях он длиннее. Значит, в измерении очень важно выбрать единицу измерения.
+   </div>
+   <div>
+   </div>
+   <div>
+    <div class="gxst-important">
+     <div class="gxst-ititle">
+      <span>
+       Обрати внимание!
+      </span>
+     </div>
+     <div class="gxst-ibody" title="Обрати внимание!">
+      Если мы хотим измерять несколько объектов и сравнивать результаты измерения, то очень важно измерить эти объекты в одинаковых единицах.
+     </div>
+    </div>
+    Если  нужно измерить длину двух удавов, то обоих надо мерить или в попугаях, или в мартышках, или в слонёнках.
+   </div>
+   <div>
+   </div>
+   <div>
+    Измеряя объект, мы узнаём, насколько измеряемый объект больше (или меньше) единицы измерения. Может оказаться, что принятая единица измерения не укладывается целое число раз в измеряемый объект. Тогда единицу измерения делят на части, а части можно продолжать делить на меньшие части для получения более точного результата. Результат в зависимости от ситуации также можно округлить и использовать приближённо.
+   </div>
+   <div>
+    Продолжая рассказ об измерении удава, вспомним, что точный результат измерения в попугаях был следующим:
+    <span class="gxs-number">
+     38
+    </span>
+    попугаев и одно крылышко — но было принято решение результат округлить до целых единиц.
+   </div>
+   <div>
+    <div class="gxst-title">
+     Измерение отрезка.
+    </div>
+   </div>
+   <div>
+    Для измерения отрезка чаще всего как инструмент измерения используют
+    <span class="gxst-emph">
+     линейку
+    </span>
+    (линейки бывают очень разные — как для очень мелких измерений, так и для крупных).
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Lineāls.svg" class="gxs-resource-image" height="45" src="//ykl-res.azureedge.net/dcd93c1f-f3c9-4cf9-9a56-c1ebd1c6fb6e/Line%C4%81ls.svg" width="400"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . \(1\). Линейка.
+   </div>
+   <div>
+   </div>
+   <div>
+    Очень часто используемые единицы измерения: \(1\) \(км\), \(1\) \(м\), \(1\) \(дм\), \(1\) \(см\), \(1\) \(мм\).
+   </div>
+   <div>
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mtable columnalign="left" indentalign="left">
+      <mtr>
+       <mtd>
+        <mn>
+         1
+        </mn>
+        <mspace width="0.147em">
+        </mspace>
+        <mtext>
+         км
+        </mtext>
+        <mo>
+         =
+        </mo>
+        <mn>
+         1000
+        </mn>
+        <mtext>
+         м
+        </mtext>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mn>
+         1
+        </mn>
+        <mtext>
+         м
+        </mtext>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mn>
+         10
+        </mn>
+        <mtext>
+         дм
+        </mtext>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mn>
+         1
+        </mn>
+        <mtext>
+         дм
+        </mtext>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mn>
+         10
+        </mn>
+        <mtext>
+         см
+        </mtext>
+        <mo>
+         ;
+        </mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mn>
+         1
+        </mn>
+        <mtext>
+         см
+        </mtext>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mn>
+         10
+        </mn>
+        <mtext>
+         мм
+        </mtext>
+        <mo>
+         .
+        </mo>
+       </mtd>
+      </mtr>
+     </mtable>
+    </math>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       <strong>
+        <span class="gxst-underline-text-solid">
+         Свойства длины отрезка
+        </span>
+       </strong>
+      </div>
+      <div>
+       1. Равные отрезки имеют равные длины.
+      </div>
+      <div>
+       2. Часть отрезка всегда имеет длину, которая меньше длины отрезка.
+      </div>
+      <div>
+       3. Если точки на отрезке делят отрезок на части, то длина отрезка равна сумме длин этих частей.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="gxst-title">
+    Измерение угла.
+   </div>
+   <div>
+    Независимо от измеряемого объекта измеряемая величина имеет такие же свойства.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       <strong>
+        <span class="gxst-underline-text-solid">
+         Свойства величины угла
+        </span>
+       </strong>
+      </div>
+      <div>
+       1. Равные углы имеют равные величины.
+      </div>
+      <div>
+       2. Часть угла всегда имеет величину, которая меньше величины угла.
+      </div>
+      <div>
+       3. Если лучи, выходящие из вершины угла, делят угол на части, то величина угла равна сумме величин этих частей.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    Один из инструментов измерения, которые используются для измерения угла, называется
+    <font class="gxst-color-emph">
+     <strong>
+      транспортир
+     </strong>
+     .
+    </font>
+   </div>
+   <div>
+    <img alt="Transportieris.svg" class="gxs-resource-image" height="184" src="//ykl-res.azureedge.net/7b1d31ad-3aa1-427c-b5cf-154cc652d969/Transportieris.svg" width="300"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . \(2\). Транспортир.
+   </div>
+   <div>
+   </div>
+   <div>
+    Совсем особенная единица измерения угла —
+    <font class="gxst-color-emph">
+     <strong>
+      градус.
+     </strong>
+    </font>
+   </div>
+   <div>
+   </div>
+   <div>
+    Это не тот градус, который используют для измерения температуры.
+   </div>
+   <div>
+   </div>
+   <div>
+    Для измерения угла как единицу измерения принимают
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <mfrac>
+       <mn>
+        1
+       </mn>
+       <mn>
+        180
+       </mn>
+      </mfrac>
+     </mrow>
+    </math>
+    <font class="gxst-color-emph">
+     часть развёрнутого угла
+    </font>
+    , таким образом:
+   </div>
+   <div>
+    величина
+    <font class="gxst-color-emph">
+     <strong>
+      развёрнутого
+     </strong>
+    </font>
+    угла — \(180\) таких единиц, или градусов.
+   </div>
+   <div>
+    <img alt="угол 1_1.png" class="gxs-resource-image" height="72" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/d2e3e944-a3fd-48f1-8ee3-6b645bf284df/%D1%83%D0%B3%D0%BE%D0%BB11w400.png" srcset="//ykl-res.azureedge.net/d2e3e944-a3fd-48f1-8ee3-6b645bf284df/%D1%83%D0%B3%D0%BE%D0%BB11w400.png 400w, //ykl-res.azureedge.net/c890ede8-79df-495c-806f-1eda8a8a8750/%D1%83%D0%B3%D0%BE%D0%BB11w550.png 550w" width="400"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . \(3\). Развёрнутый угол.
+   </div>
+   <div>
+   </div>
+   <div>
+    Это записывается:
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msup>
+       <mrow>
+        <mo lspace="verythickmathspace" rspace="verythickmathspace">
+         ∡
+        </mo>
+        <mi mathvariant="italic">
+         AOB
+        </mi>
+        <mo>
+         =
+        </mo>
+        <mn>
+         180
+        </mn>
+       </mrow>
+       <mn>
+        0
+       </mn>
+      </msup>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Следовательно:
+   </div>
+   <div>
+    так как
+    <strong>
+     <font class="gxst-color-emph">
+      полный
+     </font>
+    </strong>
+    угол состоит из двух развёрнутых углов, то его величина —
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msup>
+       <mrow>
+        <mn>
+         360
+        </mn>
+       </mrow>
+       <mn>
+        0
+       </mn>
+      </msup>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    <img alt="угол 1_2.png" class="gxs-resource-image" height="94" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/1648f64b-818a-469c-9a66-9b93c409ae26/%D1%83%D0%B3%D0%BE%D0%BB12w400.png" srcset="//ykl-res.azureedge.net/1648f64b-818a-469c-9a66-9b93c409ae26/%D1%83%D0%B3%D0%BE%D0%BB12w400.png 400w, //ykl-res.azureedge.net/5bf80b29-78e8-4b66-b439-2a04125d0796/%D1%83%D0%B3%D0%BE%D0%BB12w511.png 511w" width="400"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . \(4\). Полный угол.
+   </div>
+   <div>
+   </div>
+   <div>
+    Можем представить и угол, величина которого —
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msup>
+       <mn>
+        0
+       </mn>
+       <mn>
+        0
+       </mn>
+      </msup>
+     </mrow>
+    </math>
+    .
+   </div>
+   <div>
+    <img alt="угол 1_3.png" class="gxs-resource-image" height="69" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/bab70fa6-7c24-416f-a23a-ced3ea353cd2/%D1%83%D0%B3%D0%BE%D0%BB13w400.png" srcset="//ykl-res.azureedge.net/bab70fa6-7c24-416f-a23a-ced3ea353cd2/%D1%83%D0%B3%D0%BE%D0%BB13w400.png 400w, //ykl-res.azureedge.net/e6887fac-1062-4567-9a6d-a27590587c45/%D1%83%D0%B3%D0%BE%D0%BB13w452.png 452w" width="400"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . \(5\). Нулевой угол.
+   </div>
+   <div>
+   </div>
+   <div>
+    Одна четвёртая часть полного угла, или половина развёрнутого угла, называется
+    <font class="gxst-color-emph">
+     <strong>
+      прямой
+     </strong>
+    </font>
+    угол с величиной
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msup>
+       <mrow>
+        <mo lspace="verythickmathspace" rspace="verythickmathspace">
+         ∡
+        </mo>
+        <mi mathvariant="italic">
+         AOB
+        </mi>
+        <mo>
+         =
+        </mo>
+        <mn>
+         90
+        </mn>
+       </mrow>
+       <mn>
+        0
+       </mn>
+      </msup>
+     </mrow>
+    </math>
+    и особым знаком во внутренней части угла.
+   </div>
+   <div>
+    <img alt="угол 1_44.png" class="gxs-resource-image" height="291" src="//ykl-res.azureedge.net/3810e8a0-bd1f-4dee-9f49-54aa02578e54/%D1%83%D0%B3%D0%BE%D0%BB144.png" width="347"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . \(6\). Прямой угол.
+   </div>
+   <div>
+   </div>
+   <div>
+    Угол, величина которого
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msup>
+       <mrow>
+        <msup>
+         <mn>
+          0
+         </mn>
+         <mn>
+          0
+         </mn>
+        </msup>
+        <mo>
+         &lt;
+        </mo>
+        <mo lspace="verythickmathspace" rspace="verythickmathspace">
+         ∡
+        </mo>
+        <mi mathvariant="italic">
+         AOB
+        </mi>
+        <mo>
+         &lt;
+        </mo>
+        <mn>
+         90
+        </mn>
+       </mrow>
+       <mn>
+        0
+       </mn>
+      </msup>
+     </mrow>
+    </math>
+    , называют
+    <strong>
+     <font class="gxst-color-emph">
+      острым
+     </font>
+    </strong>
+    углом.
+   </div>
+   <div>
+    <img alt="угол 1_5.png" class="gxs-resource-image" height="228" sizes="(max-width: 400px) 100vw, 400px" src="//ykl-res.azureedge.net/76e77b0a-34cb-4996-a24e-f7fe7bdf6755/%D1%83%D0%B3%D0%BE%D0%BB15w400.png" srcset="//ykl-res.azureedge.net/76e77b0a-34cb-4996-a24e-f7fe7bdf6755/%D1%83%D0%B3%D0%BE%D0%BB15w400.png 400w, //ykl-res.azureedge.net/292e0410-173c-4e8c-8173-019fe7f51d1c/%D1%83%D0%B3%D0%BE%D0%BB15.png 416w" width="400"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . \(7\). Острый угол.
+   </div>
+   <div>
+   </div>
+   <div>
+    Угол, величина которого
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msup>
+       <mrow>
+        <msup>
+         <mn>
+          90
+         </mn>
+         <mn>
+          0
+         </mn>
+        </msup>
+        <mo>
+         &lt;
+        </mo>
+        <mo lspace="verythickmathspace" rspace="verythickmathspace">
+         ∡
+        </mo>
+        <mi mathvariant="italic">
+         AOB
+        </mi>
+        <mo>
+         &lt;
+        </mo>
+        <mn>
+         180
+        </mn>
+       </mrow>
+       <mn>
+        0
+       </mn>
+      </msup>
+     </mrow>
+    </math>
+    , называют
+    <strong>
+     <font class="gxst-color-emph">
+      тупым
+     </font>
+    </strong>
+    углом.
+   </div>
+   <div>
+    <img alt="угол 1_6.png" class="gxs-resource-image" height="212" sizes="(max-width: 500px) 100vw, 500px" src="//ykl-res.azureedge.net/266e4fec-aae0-433f-850d-38aee7e717fe/%D1%83%D0%B3%D0%BE%D0%BB16w500.png" srcset="//ykl-res.azureedge.net/266e4fec-aae0-433f-850d-38aee7e717fe/%D1%83%D0%B3%D0%BE%D0%BB16w500.png 500w, //ykl-res.azureedge.net/8e199a5c-b653-4d45-9f67-e64ae267111d/%D1%83%D0%B3%D0%BE%D0%BB16w651.png 651w" width="500"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . \(8\). Тупой угол.
+   </div>
+   <div>
+   </div>
+   <div>
+    Угол, величина которого
+    <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+     <mrow>
+      <msup>
+       <mrow>
+        <msup>
+         <mn>
+          180
+         </mn>
+         <mn>
+          0
+         </mn>
+        </msup>
+        <mo>
+         &lt;
+        </mo>
+        <mo lspace="verythickmathspace" rspace="verythickmathspace">
+         ∡
+        </mo>
+        <mi mathvariant="italic">
+         AOB
+        </mi>
+        <mo>
+         &lt;
+        </mo>
+        <mn>
+         360
+        </mn>
+       </mrow>
+       <mn>
+        0
+       </mn>
+      </msup>
+     </mrow>
+    </math>
+    , называют
+    <strong>
+     <font class="gxst-color-emph">
+      открытым
+     </font>
+    </strong>
+    углом.
+   </div>
+   <div>
+    <img alt="угол 1_7.png" class="gxs-resource-image" height="215" sizes="(max-width: 500px) 100vw, 500px" src="//ykl-res.azureedge.net/9e4026e8-1b98-4b82-936c-dd55b54c9d72/%D1%83%D0%B3%D0%BE%D0%BB17w500.png" srcset="//ykl-res.azureedge.net/9e4026e8-1b98-4b82-936c-dd55b54c9d72/%D1%83%D0%B3%D0%BE%D0%BB17w500.png 500w, //ykl-res.azureedge.net/364fb3ea-40c4-46e2-bbc2-331fb23d0de6/%D1%83%D0%B3%D0%BE%D0%BB17w620.png 620w" width="500"/>
+   </div>
+   <div>
+    <em>
+     Рис
+    </em>
+    . \(9\). Открытый угол.
+   </div>
+   <div>
+   </div>
+  </div>
+  
+ </div>
+</div>

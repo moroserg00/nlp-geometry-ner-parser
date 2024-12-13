@@ -1,0 +1,210 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Уравнение окружности.
+    </div>
+   </div>
+   <div>
+    Используем два уже известных факта и выведем уравнение окружности:
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       1) все точки окружности находятся на данном расстоянии (
+       <font class="gxst-color-emph">
+        <strong>
+         радиус
+        </strong>
+       </font>
+       ) от данной точки (
+       <font class="gxst-color-emph">
+        <strong>
+         центр
+        </strong>
+       </font>
+       );
+      </div>
+      <div>
+      </div>
+      <div>
+       2) мы имеем формулу для расчёта расстояния между двумя точками, если знаем координаты точек
+       m
+       , а если так, то квадрат расстояния
+       m
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Rl_vdj.png" class="gxs-resource-image" height="527" src="//ykl-res.azureedge.net/9b3b3d5a-f63d-46b6-9e2c-13fd8a5f98bd/Rl_vdj.png" width="656"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Допустим, что центр окружности находится в точке
+    m
+    , а радиус окружности равен l.
+   </div>
+   <div>
+    Любая точка
+    m
+    на этой окружности находится на расстоянии l от центра l, значит, справедливо равенство
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+    Это и есть уравнение окружности с центром l и радиусом l. Координаты всех точек, которые находятся на окружности, удовлетворяют уравнению.
+   </div>
+   <div>
+   </div>
+   <div>
+    Если центр окружности находится в начале координат
+    m
+    , то уравнение имеет вид
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+    <div class="gxst-title">
+     Уравнение прямой.
+    </div>
+    Для выведения уравнения прямой проведём эту прямую как серединный перпендикуляр некоторому отрезку с данными координатами конечных точек отрезка.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      <div>
+       Известно, что все точки серединного перпендикуляра находятся на равных расстояниях от концов отрезка.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Taisnes_vdj.png" class="gxs-resource-image" height="435" src="//ykl-res.azureedge.net/be95d29d-13a5-40b9-8a0c-6646e3936cbb/Taisnes_vdj.png" width="654"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Координаты концов отрезка
+    m
+    и
+    m
+    . Любая точка
+    m
+    находится на равных расстояниях от конечных точек
+    m
+    , конечно, равны и квадраты расстояний
+    m
+    , значит, справедливо равенство
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    , которое и есть уравнение прямой.
+   </div>
+   <div>
+   </div>
+   <div>
+    После возведения выражений в скобках и приведения подобных слагаемых
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+   </div>
+   <div>
+    уравнение будет в таком виде:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+   </div>
+   <div>
+    Рассмотрим особые прямые.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Taisnes_vert_horz_vdj.png" class="gxs-resource-image" height="454" src="//ykl-res.azureedge.net/e046ecd8-8167-4ad7-a4e5-a122bb633730/Taisnes_vert_horz_vdj.png" width="584"/>
+   </div>
+   <div>
+    <div>
+    </div>
+    <div>
+     1. Прямая проходит через некоторую точку на оси l с координатами
+     m
+     .
+    </div>
+    <div>
+     <div>
+      Для любой точки на этой прямой
+      m
+      , это и есть уравнение прямой.
+     </div>
+     <div>
+      <div class="gxst-theory">
+       <div>
+        <div>
+         Так как ось l проходит через начало координат, то уравнение оси l есть
+         m
+         .
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div>
+     2. Прямая проходит через некоторую точку на оси l с координатами
+     m
+     .
+    </div>
+    <div>
+     <div>
+      <div>
+       Для любой точки на этой прямой
+       m
+       , это и есть уравнение прямой.
+      </div>
+      <div>
+       <div class="gxst-theory">
+        <div>
+         <div>
+          Так как ось l проходит через начало координат, то уравнение оси l есть
+          m
+          ..
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

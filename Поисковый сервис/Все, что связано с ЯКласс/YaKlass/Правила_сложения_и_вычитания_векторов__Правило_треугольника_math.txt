@@ -1,0 +1,144 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+        a
+       </mi>
+<mo>
+        →
+       </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+        b
+       </mi>
+<mo>
+        →
+       </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+        a
+       </mi>
+<mo>
+        →
+       </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+        b
+       </mi>
+<mo>
+        →
+       </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+        b
+       </mi>
+<mo>
+        →
+       </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+        a
+       </mi>
+<mo>
+        →
+       </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+        c
+       </mi>
+<mo>
+        →
+       </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+            a
+           </mi>
+<mo>
+            →
+           </mo>
+</mover>
+<mo>
+           +
+          </mo>
+<mover>
+<mi>
+            b
+           </mi>
+<mo>
+            →
+           </mo>
+</mover>
+<mo>
+           =
+          </mo>
+<mover>
+<mi>
+            c
+           </mi>
+<mo>
+            →
+           </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi mathvariant="italic">
+            AB
+           </mi>
+<mo>
+            →
+           </mo>
+</mover>
+<mo>
+           +
+          </mo>
+<mover>
+<mi mathvariant="italic">
+            BC
+           </mi>
+<mo>
+            →
+           </mo>
+</mover>
+<mo>
+           =
+          </mo>
+<mover>
+<mi mathvariant="italic">
+            AC
+           </mi>
+<mo>
+            →
+           </mo>
+</mover>
+</mrow>
+</math>]

@@ -1,0 +1,276 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    Если вектор
+    m
+    расположить на оси координат так, что его начало будет находиться в начале координат, то координаты этого вектора равны координатам его конечной точки
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Вектор_рис.1.svg" class="gxs-resource-image" height="387" src="//ykl-res.azureedge.net/39ebfdde-e648-4da9-8db6-3c423b05d367/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D1%80%D0%B8%D1%81.1.svg" width="500"/>
+   </div>
+   <div>
+   </div>
+   Координаты вектора, данного на рисунке, равны
+   m
+   . В данном случае координаты вектора совпадают с координатами его конца l.
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <div>
+            <div>
+             <div>
+              <div>
+               <div>
+                <div>
+                 <div>
+                  <div>
+                   <div class="gxst-definition">
+                    <div>
+                     <div>
+                      <font class="gxst-color-emph">
+                       Координатами вектора
+                      </font>
+                      являются координаты конечной точки этого вектора, если вектор расположен так, что его начало находится в начале координат.
+                     </div>
+                    </div>
+                   </div>
+                   Если вектор находится на координатной плоскости, то каждая координата вектора равна разности соответствующих координат его конца и начала.
+                   <div>
+                    <div>
+                     <div>
+                      <div>
+                       <div>
+                        <div>
+                         <div>
+                          <div>
+                           <div>
+                            <div>
+                             <div>
+                              Если
+                              m
+                              и
+                              m
+                              , то координаты вектора
+                              m
+                              равны
+                              m
+                              .
+                             </div>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                   <div>
+                   </div>
+                   <div>
+                    <img alt="Вектор_рис.2.svg" class="gxs-resource-image" height="387" src="//ykl-res.azureedge.net/cb0b488d-b572-47b3-bcd2-dbd395df3d13/%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D1%80%D0%B8%D1%81.2.svg" width="500"/>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div>
+     <div>
+      <div>
+       <div class="gxst-example">
+        <div class="gxst-ititle">
+         <span>
+          Пример:
+         </span>
+        </div>
+        <div class="gxst-ibody">
+         <div>
+          <div>
+           даны точки l и l. Определи координаты вектора
+           m
+           .
+          </div>
+          <div>
+           <div>
+            <div>
+             <div>
+              <div>
+               <div>
+                <div>
+                 <div>
+                  <div>
+                   <div>
+                    <div>
+                     <div>
+                     </div>
+                     <div>
+                      Решение:
+                      m
+                      имеет координаты
+                      <span>
+                       <span class="gxst-emph">
+                        {
+                       </span>
+                      </span>
+                      l
+                      <span class="gxst-emph">
+                       }
+                      </span>
+                      l
+                      <span class="gxst-emph">
+                       {
+                      </span>
+                      l
+                      <span class="gxst-emph">
+                       }
+                      </span>
+                      .
+                     </div>
+                    </div>
+                   </div>
+                   <div>
+                   </div>
+                   <div>
+                    Получен вектор с такими же координатами, как на первом рис.
+                   </div>
+                   <div>
+                    Перенеся начало данного вектора в начало координат l, получаем такой же вектор (с тем же направлением и длиной).
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <div>
+          <div>
+           <div>
+            <div>
+             <div>
+              <div>
+               <div>
+                <div>
+                 <div>
+                  <div>
+                   <div>
+                    <div>
+                     <div>
+                      <div>
+                       <div>
+                        <div>
+                         <div>
+                          <div>
+                           <div>
+                            <div>
+                             <div align="left">
+                              <div>
+                               <div>
+                                <div>
+                                 <div>
+                                  <div>
+                                   <div class="gxst-title">
+                                    Действия с векторами в координатной форме.
+                                   </div>
+                                  </div>
+                                 </div>
+                                </div>
+                               </div>
+                              </div>
+                             </div>
+                             <div align="left">
+                              Если даны векторы
+                              m
+                              и
+                              m
+                              , то
+                             </div>
+                             <div align="left">
+                             </div>
+                             <div align="left">
+                              вектор, равный
+                              m
+                              , имеет координаты
+                              m
+                              ;
+                             </div>
+                             <div align="left">
+                              вектор, равный
+                              m
+                              , имеет координаты
+                              m
+                              ;
+                             </div>
+                             <div align="left">
+                              вектор, равный
+                              m
+                              , имеет координаты
+                              m
+                              .
+                             </div>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

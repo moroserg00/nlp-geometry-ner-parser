@@ -1,0 +1,1061 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Теорема синусов.
+    </div>
+   </div>
+   <div>
+    <div>
+     Теорему Пифагора и тригонометрические функции острого угла можно использовать для вычисления элементов только в прямоугольном треугольнике.
+    </div>
+    <div>
+    </div>
+   </div>
+   <div align="center">
+    <div align="center">
+     <div align="left">
+      Для нахождения элементов в произвольном треугольнике используется теорема синусов или теорема косинусов.
+     </div>
+     <div align="left">
+     </div>
+     <div>
+      <div align="left">
+       <img alt="4cepure.JPG" class="gxs-resource-image" src="//ykl-res.azureedge.net/6410637d-1743-4cc3-a02d-da4f44eaead6/4cepure.JPG"/>
+      </div>
+     </div>
+     <div align="left">
+      <div class="gxst-theory">
+       <div>
+        <div align="left">
+         <span class="gxst-emph">
+          Теорема синусов
+         </span>
+        </div>
+        <div align="left">
+         <span class="gxst-emph">
+         </span>
+        </div>
+        <div align="left">
+         Стороны треугольника пропорциональны синусам противолежащих углов:
+        </div>
+        <div align="left">
+        </div>
+        <div align="left">
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mfrac>
+            <mi>
+             a
+            </mi>
+            <mi mathvariant="italic">
+             sinA
+            </mi>
+           </mfrac>
+           <mo>
+            =
+           </mo>
+           <mfrac>
+            <mi>
+             b
+            </mi>
+            <mi mathvariant="italic">
+             sinB
+            </mi>
+           </mfrac>
+           <mo>
+            =
+           </mo>
+           <mfrac>
+            <mi>
+             c
+            </mi>
+            <mi mathvariant="italic">
+             sinC
+            </mi>
+           </mfrac>
+          </mrow>
+         </math>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div align="left">
+      (в решении задачи одновременно пишутся две части, они образуют пропорцию).
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      Теорема синусов используется для вычисления:
+     </div>
+     <div align="left">
+     </div>
+     <ul>
+      <li>
+       <div align="left">
+        неизвестных сторон треугольника, если даны два угла и одна сторона;
+       </div>
+      </li>
+      <li>
+       <div align="left">
+        неизвестных углов треугольника, если даны две стороны и один прилежащий угол.
+       </div>
+      </li>
+     </ul>
+     <div align="left">
+     </div>
+     <div align="left">
+      Так как один из углов треугольника может быть тупым, значение синуса тупого угла находится по формуле приведения
+      <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+       <mrow>
+        <mi mathvariant="italic">
+         sin
+        </mi>
+        <mfenced close=")" open="(">
+         <mrow>
+          <mn>
+           180
+          </mn>
+          <mi mathvariant="normal">
+           °
+          </mi>
+          <mo>
+           −
+          </mo>
+          <mi mathvariant="normal">
+           α
+          </mi>
+         </mrow>
+        </mfenced>
+        <mo>
+         =
+        </mo>
+        <mi mathvariant="italic">
+         sin
+        </mi>
+        <mi mathvariant="normal">
+         α
+        </mi>
+       </mrow>
+      </math>
+      .
+     </div>
+     <div align="left">
+     </div>
+     <div align="left">
+      <div>
+       <div>
+        Наиболее часто используемые тупые углы:
+       </div>
+       <div>
+       </div>
+       <div>
+        <div>
+         <div>
+          <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+           <mtable columnalign="left" indentalign="left">
+            <mtr>
+             <mtd>
+              <mi mathvariant="italic">
+               sin120
+              </mi>
+              <mi mathvariant="normal">
+               °
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi mathvariant="italic">
+               sin
+              </mi>
+              <mfenced close=")" open="(">
+               <mrow>
+                <mn>
+                 180
+                </mn>
+                <mi mathvariant="normal">
+                 °
+                </mi>
+                <mo>
+                 −
+                </mo>
+                <mn>
+                 60
+                </mn>
+                <mi mathvariant="normal">
+                 °
+                </mi>
+               </mrow>
+              </mfenced>
+              <mo>
+               =
+              </mo>
+              <mi mathvariant="italic">
+               sin60
+              </mi>
+              <mi mathvariant="normal">
+               °
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mfrac>
+               <msqrt>
+                <mn>
+                 3
+                </mn>
+               </msqrt>
+               <mn>
+                2
+               </mn>
+              </mfrac>
+              <mo>
+               ;
+              </mo>
+             </mtd>
+            </mtr>
+            <mtr>
+             <mtd>
+              <mi mathvariant="italic">
+               sin150
+              </mi>
+              <mi mathvariant="normal">
+               °
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi mathvariant="italic">
+               sin
+              </mi>
+              <mfenced close=")" open="(">
+               <mrow>
+                <mn>
+                 180
+                </mn>
+                <mi mathvariant="normal">
+                 °
+                </mi>
+                <mo>
+                 −
+                </mo>
+                <mn>
+                 30
+                </mn>
+                <mi mathvariant="normal">
+                 °
+                </mi>
+               </mrow>
+              </mfenced>
+              <mo>
+               =
+              </mo>
+              <mi mathvariant="italic">
+               sin30
+              </mi>
+              <mi mathvariant="normal">
+               °
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mfrac>
+               <mn>
+                1
+               </mn>
+               <mn>
+                2
+               </mn>
+              </mfrac>
+              <mo>
+               ;
+              </mo>
+             </mtd>
+            </mtr>
+            <mtr>
+             <mtd>
+              <mi mathvariant="italic">
+               sin135
+              </mi>
+              <mi mathvariant="normal">
+               °
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mi mathvariant="italic">
+               sin
+              </mi>
+              <mfenced close=")" open="(">
+               <mrow>
+                <mn>
+                 180
+                </mn>
+                <mi mathvariant="normal">
+                 °
+                </mi>
+                <mo>
+                 −
+                </mo>
+                <mn>
+                 45
+                </mn>
+                <mi mathvariant="normal">
+                 °
+                </mi>
+               </mrow>
+              </mfenced>
+              <mo>
+               =
+              </mo>
+              <mi mathvariant="italic">
+               sin45
+              </mi>
+              <mi mathvariant="normal">
+               °
+              </mi>
+              <mo>
+               =
+              </mo>
+              <mfrac>
+               <msqrt>
+                <mn>
+                 2
+                </mn>
+               </msqrt>
+               <mn>
+                2
+               </mn>
+              </mfrac>
+              <mo>
+               .
+              </mo>
+             </mtd>
+            </mtr>
+           </mtable>
+          </math>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div align="left">
+      <div class="gxst-title">
+       Радиус описанной окружности.
+      </div>
+     </div>
+     <div align="left">
+      <img alt="Треуг2.jpg" class="gxs-resource-image" src="//ykl-res.azureedge.net/3292f02a-8c23-4478-9afd-ad573a7c8b47/%D0%A2%D1%80%D0%B5%D1%83%D0%B32.jpg"/>
+     </div>
+     <div align="left">
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mfrac>
+          <mi>
+           a
+          </mi>
+          <mi mathvariant="italic">
+           sinA
+          </mi>
+         </mfrac>
+         <mo>
+          =
+         </mo>
+         <mfrac>
+          <mi>
+           b
+          </mi>
+          <mi mathvariant="italic">
+           sinB
+          </mi>
+         </mfrac>
+         <mo>
+          =
+         </mo>
+         <mfrac>
+          <mi>
+           c
+          </mi>
+          <mi mathvariant="italic">
+           sinC
+          </mi>
+         </mfrac>
+         <mo>
+          =
+         </mo>
+         <mn>
+          2
+         </mn>
+         <mi>
+          R
+         </mi>
+        </mrow>
+       </math>
+       , где \(R\) — радиус описанной окружности.
+      </div>
+      <div>
+      </div>
+     </div>
+    </div>
+    <div>
+     Выразив радиус, получаем
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi>
+        R
+       </mi>
+       <mspace width="0.147em">
+       </mspace>
+       <mo>
+        =
+       </mo>
+       <mspace width="0.147em">
+       </mspace>
+       <mfrac>
+        <mi>
+         a
+        </mi>
+        <mrow>
+         <mn>
+          2
+         </mn>
+         <mi mathvariant="italic">
+          sinA
+         </mi>
+        </mrow>
+       </mfrac>
+      </mrow>
+     </math>
+     , или
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi>
+        R
+       </mi>
+       <mspace width="0.147em">
+       </mspace>
+       <mo>
+        =
+       </mo>
+       <mspace width="0.147em">
+       </mspace>
+       <mfrac>
+        <mi>
+         b
+        </mi>
+        <mrow>
+         <mn>
+          2
+         </mn>
+         <mi mathvariant="italic">
+          sinB
+         </mi>
+        </mrow>
+       </mfrac>
+      </mrow>
+     </math>
+     , или
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mi>
+        R
+       </mi>
+       <mspace width="0.147em">
+       </mspace>
+       <mo>
+        =
+       </mo>
+       <mspace width="0.147em">
+       </mspace>
+       <mfrac>
+        <mi>
+         c
+        </mi>
+        <mrow>
+         <mn>
+          2
+         </mn>
+         <mi mathvariant="italic">
+          sinC
+         </mi>
+        </mrow>
+       </mfrac>
+      </mrow>
+     </math>
+     .
+    </div>
+    <div>
+    </div>
+    <div>
+     <div class="gxst-title">
+      Теорема косинусов.
+     </div>
+    </div>
+    <div>
+     <div align="left">
+      Для вычисления элементов прямоугольного треугольника достаточно \(2\) данных величин (две стороны или сторона и угол).
+     </div>
+     <div>
+      Для вычисления элементов произвольного треугольника необходимо хотя бы \(3\) данных величины.
+     </div>
+     <div>
+     </div>
+     <div>
+      <img alt="4cepure.JPG" class="gxs-resource-image" src="//ykl-res.azureedge.net/6410637d-1743-4cc3-a02d-da4f44eaead6/4cepure.JPG"/>
+     </div>
+     <div align="left">
+      <div class="gxst-theory">
+       <div>
+        <div align="left">
+         <span class="gxst-emph">
+          Теорема косинусов
+         </span>
+        </div>
+        <div align="left">
+         <span class="gxst-emph">
+         </span>
+        </div>
+        <div align="left">
+         Квадрат стороны треугольника равен сумме квадратов двух других сторон минус удвоенное произведение этих сторон на косинус угла между ними:
+        </div>
+        <div align="left">
+        </div>
+        <div>
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <msup>
+            <mi>
+             a
+            </mi>
+            <mn>
+             2
+            </mn>
+           </msup>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            =
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <msup>
+            <mi>
+             b
+            </mi>
+            <mn>
+             2
+            </mn>
+           </msup>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            +
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <msup>
+            <mi>
+             c
+            </mi>
+            <mn>
+             2
+            </mn>
+           </msup>
+           <mspace width="0.147em">
+           </mspace>
+           <mo>
+            −
+           </mo>
+           <mspace width="0.147em">
+           </mspace>
+           <mn>
+            2
+           </mn>
+           <mo>
+            ⋅
+           </mo>
+           <mi>
+            b
+           </mi>
+           <mo>
+            ⋅
+           </mo>
+           <mi>
+            c
+           </mi>
+           <mo>
+            ⋅
+           </mo>
+           <mi mathvariant="italic">
+            cosA
+           </mi>
+          </mrow>
+         </math>
+         .
+        </div>
+       </div>
+      </div>
+     </div>
+     <div>
+      Также теорема исполняется для любой стороны треугольника:
+     </div>
+     <div>
+     </div>
+     <div>
+      <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+       <mrow>
+        <msup>
+         <mi>
+          b
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msup>
+         <mi>
+          a
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         +
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msup>
+         <mi>
+          c
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         −
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         2
+        </mn>
+        <mo>
+         ⋅
+        </mo>
+        <mi>
+         a
+        </mi>
+        <mo>
+         ⋅
+        </mo>
+        <mi>
+         c
+        </mi>
+        <mo>
+         ⋅
+        </mo>
+        <mi mathvariant="italic">
+         cosB
+        </mi>
+       </mrow>
+      </math>
+      ;
+     </div>
+     <div>
+     </div>
+     <div>
+      <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+       <mrow>
+        <msup>
+         <mi>
+          c
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         =
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msup>
+         <mi>
+          a
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         +
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <msup>
+         <mi>
+          b
+         </mi>
+         <mn>
+          2
+         </mn>
+        </msup>
+        <mspace width="0.147em">
+        </mspace>
+        <mo>
+         −
+        </mo>
+        <mspace width="0.147em">
+        </mspace>
+        <mn>
+         2
+        </mn>
+        <mo>
+         ⋅
+        </mo>
+        <mi>
+         a
+        </mi>
+        <mo>
+         ⋅
+        </mo>
+        <mi>
+         b
+        </mi>
+        <mo>
+         ⋅
+        </mo>
+        <mi mathvariant="italic">
+         cosC
+        </mi>
+       </mrow>
+      </math>
+      .
+     </div>
+     <div>
+     </div>
+     <div>
+      <div align="left">
+       Теорема косинусов используется для вычисления:
+      </div>
+      <ul>
+       <li>
+        <div align="left">
+         неизвестной стороны треугольника, если даны две стороны и угол между ними;
+        </div>
+       </li>
+       <li>
+        <div align="left">
+         вычисления косинуса неизвестного угла треугольника, если даны все стороны треугольника.
+        </div>
+       </li>
+      </ul>
+      <div align="left">
+       Значение косинуса тупого угла находится по формуле приведения
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mi mathvariant="italic">
+          cos
+         </mi>
+         <mfenced close=")" open="(">
+          <mrow>
+           <mn>
+            180
+           </mn>
+           <mi mathvariant="normal">
+            °
+           </mi>
+           <mo>
+            −
+           </mo>
+           <mi mathvariant="normal">
+            α
+           </mi>
+          </mrow>
+         </mfenced>
+         <mo>
+          =
+         </mo>
+         <mo>
+          −
+         </mo>
+         <mi mathvariant="italic">
+          cos
+         </mi>
+         <mi mathvariant="normal">
+          α
+         </mi>
+        </mrow>
+       </math>
+       .
+      </div>
+      <div align="left">
+      </div>
+     </div>
+     <div>
+      <div align="left">
+       <div>
+        <div>
+         Наиболее часто используемые тупые углы:
+        </div>
+        <div>
+        </div>
+        <div>
+         <div>
+          <div>
+           <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+            <mtable columnalign="left" indentalign="left">
+             <mtr>
+              <mtd>
+               <mi mathvariant="italic">
+                cos120
+               </mi>
+               <mi mathvariant="normal">
+                °
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mi mathvariant="italic">
+                cos
+               </mi>
+               <mfenced close=")" open="(">
+                <mrow>
+                 <mn>
+                  180
+                 </mn>
+                 <mi mathvariant="normal">
+                  °
+                 </mi>
+                 <mo>
+                  −
+                 </mo>
+                 <mn>
+                  60
+                 </mn>
+                 <mi mathvariant="normal">
+                  °
+                 </mi>
+                </mrow>
+               </mfenced>
+               <mo>
+                =
+               </mo>
+               <mspace width="0.147em">
+               </mspace>
+               <mo>
+                −
+               </mo>
+               <mi mathvariant="italic">
+                cos60
+               </mi>
+               <mi mathvariant="normal">
+                °
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mspace width="0.147em">
+               </mspace>
+               <mo>
+                −
+               </mo>
+               <mfrac>
+                <mn>
+                 1
+                </mn>
+                <mn>
+                 2
+                </mn>
+               </mfrac>
+               <mo>
+                ;
+               </mo>
+              </mtd>
+             </mtr>
+             <mtr>
+              <mtd>
+               <mi mathvariant="italic">
+                cos150
+               </mi>
+               <mi mathvariant="normal">
+                °
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mi mathvariant="italic">
+                cos
+               </mi>
+               <mfenced close=")" open="(">
+                <mrow>
+                 <mn>
+                  180
+                 </mn>
+                 <mi mathvariant="normal">
+                  °
+                 </mi>
+                 <mo>
+                  −
+                 </mo>
+                 <mn>
+                  30
+                 </mn>
+                 <mi mathvariant="normal">
+                  °
+                 </mi>
+                </mrow>
+               </mfenced>
+               <mo>
+                =
+               </mo>
+               <mspace width="0.147em">
+               </mspace>
+               <mo>
+                −
+               </mo>
+               <mi mathvariant="italic">
+                cos30
+               </mi>
+               <mi mathvariant="normal">
+                °
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mspace width="0.147em">
+               </mspace>
+               <mo>
+                −
+               </mo>
+               <mfrac>
+                <msqrt>
+                 <mn>
+                  3
+                 </mn>
+                </msqrt>
+                <mn>
+                 2
+                </mn>
+               </mfrac>
+               <mo>
+                ;
+               </mo>
+              </mtd>
+             </mtr>
+             <mtr>
+              <mtd>
+               <mi mathvariant="italic">
+                cos135
+               </mi>
+               <mi mathvariant="normal">
+                °
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mi mathvariant="italic">
+                cos
+               </mi>
+               <mfenced close=")" open="(">
+                <mrow>
+                 <mn>
+                  180
+                 </mn>
+                 <mi mathvariant="normal">
+                  °
+                 </mi>
+                 <mo>
+                  −
+                 </mo>
+                 <mn>
+                  45
+                 </mn>
+                 <mi mathvariant="normal">
+                  °
+                 </mi>
+                </mrow>
+               </mfenced>
+               <mo>
+                =
+               </mo>
+               <mspace width="0.147em">
+               </mspace>
+               <mo>
+                −
+               </mo>
+               <mi mathvariant="italic">
+                cos45
+               </mi>
+               <mi mathvariant="normal">
+                °
+               </mi>
+               <mo>
+                =
+               </mo>
+               <mspace width="0.147em">
+               </mspace>
+               <mo>
+                −
+               </mo>
+               <mfrac>
+                <msqrt>
+                 <mn>
+                  2
+                 </mn>
+                </msqrt>
+                <mn>
+                 2
+                </mn>
+               </mfrac>
+               <mo>
+                .
+               </mo>
+              </mtd>
+             </mtr>
+            </mtable>
+           </math>
+          </div>
+          <div>
+          </div>
+          <div>
+           Если необходимо найти приблизительное значение синуса или косинуса другого угла или вычислить угол по найденному синусу или косинусу, то используется таблица или калькулятор.
+          </div>
+          <div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  
+ </div>
+</div>

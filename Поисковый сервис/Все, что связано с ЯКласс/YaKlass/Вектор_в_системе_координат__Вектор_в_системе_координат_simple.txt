@@ -1,0 +1,156 @@
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+</script>
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     Вспомним, что при умножении вектора на число
+     m
+     мы получаем два
+     <span class="gxst-emph">
+      коллинеарных (параллельных)
+     </span>
+     вектора, которые или сонаправлены, если
+     m
+     , или противоположно направлены, если
+     m
+     . Длины векторов различаются l раз.
+    </div>
+   </div>
+   <div>
+    <img alt="Reiz1.png" class="gxs-resource-image" height="405" src="//ykl-res.azureedge.net/eaeb9168-5e00-4b76-a9db-8e7a17d70f7c/Reiz1.png" width="568"/>
+   </div>
+   <div>
+    Справедливо и обратное суждение.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Если ненулевые векторы коллинеарны, то обязательно можно найти число
+      m
+      так, что
+      m
+      .
+     </div>
+    </div>
+   </div>
+   <div>
+    Для неколлинеарных векторов справедливо суждение, что каждый вектор на плоскости можно представить в виде
+    m
+    . Говорят, что вектор
+    m
+    разложен по векторам
+    m
+    и
+    m
+    , а числа l и l называют
+    <span class="gxst-emph">
+     коэффициентами разложения
+    </span>
+    .
+   </div>
+   <div>
+    Это справедливо для любого вектора на плоскости, причём коэффициенты определяются единственным образом.
+   </div>
+   <div>
+    <img alt="Izteikšana1.png" class="gxs-resource-image" height="452" src="//ykl-res.azureedge.net/8e66bb24-9796-4b75-9c74-450ddf0bd40d/Izteik%C5%A1ana1.png" width="549"/>
+   </div>
+   <div>
+    Выберем два не коллинеарных вектора на осях системы координат. Пусть длина каждого из них будет равна единичному отрезку в этой системе координат. Эти векторы называют
+    <span class="gxst-emph">
+     координатными векторами
+    </span>
+    и обозначают
+    m
+    и
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Koord_vektori_teor.png" class="gxs-resource-image" height="558" src="//ykl-res.azureedge.net/68cb505a-829a-40b9-85f6-286f301847b7/Koord_vektori_teor.png" width="681"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Если от начала координат отложить вектор
+    m
+    , то его можно разложить по векторам
+    m
+    и
+    m
+    следующим образом:
+    m
+    .
+   </div>
+   <div>
+    <div class="gxst-definition">
+     <div>
+      В этом разложении коэффициенты координатных векторов называют координатами вектора
+      m
+      .
+     </div>
+    </div>
+    Это записывают как
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Любой вектор, который равен с вектором
+    m
+    , можно переместить и отложить от начала координат. Следовательно, можем сделать вывод.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Равные векторы имеют равные координаты.
+     </div>
+    </div>
+   </div>
+   <div>
+    Но в то же время в координатной системе можно переместить векторы
+    m
+    и
+    m
+    , таким образом определить координаты векторов независимо от их места расположения в координатной системе.
+   </div>
+   <div>
+   </div>
+   <div>
+    Легко понять, что разница между
+    <span class="gxst-emph">
+     абсциссами (координатами x)
+    </span>
+    конечной и начальной точки вектора и есть абсцисса вектора, а разница между
+    <span class="gxst-emph">
+     ординатами (координатами y)
+    </span>
+    конечной и начальной точки вектора есть ордината вектора.
+   </div>
+   <div>
+   </div>
+   <div>
+    Связь между координатами противоположных векторов следует из того, что, если умножить вектор на l, результатом будет противоположный вектор.
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      У противоположных векторов противоположные координаты.
+     </div>
+    </div>
+   </div>
+   <div>
+    Важно понять ещё несколько интересных связей между координатами векторов одинаковой длины.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Vektori_teor_preteji.png" class="gxs-resource-image" height="620" src="//ykl-res.azureedge.net/58c9436e-7571-4f91-8832-3bf7ab9fd24d/Vektori_teor_preteji.png" width="496"/>
+   </div>
+  </div>
+ </div>
+</div>

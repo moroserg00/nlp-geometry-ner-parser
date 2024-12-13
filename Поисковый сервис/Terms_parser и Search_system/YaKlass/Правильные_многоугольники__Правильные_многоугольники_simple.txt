@@ -1,0 +1,117 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <span>
+         <div class="gxst-definition">
+          <div>
+           <div>
+            <span>
+             <span class="gxst-color-emph">
+              <span>
+               Правильными
+              </span>
+             </span>
+            </span>
+            называют многоугольники, у которых равны все стороны и все углы.
+           </div>
+          </div>
+         </div>
+        </span>
+        На рисунке видны некоторые правильные многоугольники: треугольник, четырёхугольник (квадрат), пятиугольник и шестиугольник.
+       </div>
+      </div>
+     </div>
+     <div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Regnst.png" class="gxs-resource-image" height="212" src="//ykl-res.azureedge.net/69ca762c-654f-46ae-8c8d-1de762e42669/Regnst.png" width="727"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Если в правильных выпуклых многоугольниках провести диагонали, то образуются правильные вогнутые многоугольники:
+   </div>
+   <div>
+    из диагоналей пятиугольника получается пентаграмма, из диагоналей шестиугольника — гексаграмма, а из диагоналей семиугольника — даже две разные гептаграммы.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Regnst_d.png" class="gxs-resource-image" height="627" src="//ykl-res.azureedge.net/a9aa1b2d-cad6-4048-94be-45b25bc2bca6/Regnst_d.png" width="650"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Если провести все диагонали из одной вершины, любой l-угольник можно поделить на l треугольника, таким образом сумма всех внутренних углов определяется по формуле
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="R_dz1.png" class="gxs-resource-image" height="313" src="//ykl-res.azureedge.net/11973f2b-92c5-4ae3-870c-9b38d80d4c18/R_dz1.png" width="333"/>
+   </div>
+   <div>
+    Так как все углы правильного l-угольника равны, то величина одного внутреннего угла равна
+    m
+    .
+   </div>
+   <div align="left">
+    Около любого правильного многоугольника можно описать и вписать в него окружность, при этом совпадают центры обеих окружностей, и эту точку называют
+    <span class="gxst-emph">
+     центром многоугольника
+    </span>
+    .
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    Вписанная окружность касается всех сторон, описанная окружность проходит через все вершины.
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    <img alt="Rl.png" class="gxs-resource-image" height="293" src="//ykl-res.azureedge.net/cce04c56-e8b3-413c-88b8-8a4bca13a7f9/Rl.png" width="320"/>
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    m
+    .
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    В треугольнике l связаны сторона l (половина стороны l), радиус описанной окружности l и радиус вписанной окружности l.
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    m
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    Так как l-угольник состоит из l треугольников, равных l, то
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    m
+    .
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    Для правильного треугольника и квадрата дополнительно в силе все формулы, которые были рассмотрены в курсе геометрии.
+   </div>
+  </div>
+ </div>
+</div>

@@ -1,0 +1,406 @@
+[<math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+              v
+             </mi>
+<mo>
+              →
+             </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<msub>
+<mi>
+               v
+              </mi>
+<mi>
+               t
+              </mi>
+</msub>
+<mo>
+              →
+             </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+               n
+              </mi>
+<mo>
+               →
+              </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<msub>
+<mi>
+                n
+               </mi>
+<mi>
+                y
+               </mi>
+</msub>
+<mo>
+               →
+              </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<msub>
+<mi>
+                     a
+                    </mi>
+<mi>
+                     x
+                    </mi>
+</msub>
+<mo>
+                    =
+                   </mo>
+<mn>
+                    4
+                   </mn>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<mspace width="0.147em">
+</mspace>
+<msub>
+<mi>
+                     b
+                    </mi>
+<mi>
+                     x
+                    </mi>
+</msub>
+<mo>
+                    =
+                   </mo>
+<mo>
+                    −
+                   </mo>
+<mn>
+                    3
+                   </mn>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mover>
+<mi>
+           a
+          </mi>
+<mo>
+           →
+          </mo>
+</mover>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mfenced close="|" open="|">
+<mover>
+<mi>
+            a
+           </mi>
+<mo>
+            →
+           </mo>
+</mover>
+</mfenced>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi mathvariant="normal">
+          α
+         </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mi>
+           a
+          </mi>
+<mi>
+           x
+          </mi>
+</msub>
+<mo>
+          =
+         </mo>
+<mfenced close="|" open="|">
+<mover>
+<mi>
+            a
+           </mi>
+<mo>
+            →
+           </mo>
+</mover>
+</mfenced>
+<mo>
+          ⋅
+         </mo>
+<mi mathvariant="italic">
+          cos
+         </mi>
+<mi mathvariant="normal">
+          α
+         </mi>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<mi mathvariant="italic">
+       cos
+      </mi>
+<mi mathvariant="normal">
+       α
+      </mi>
+<mo>
+       =
+      </mo>
+<mfrac>
+<mtext>
+        прилежащий катет
+       </mtext>
+<mrow>
+<mtext>
+         гипотенуза
+        </mtext>
+</mrow>
+</mfrac>
+<mo>
+       =
+      </mo>
+<mfrac>
+<mfenced close="|" open="|">
+<mover>
+<msub>
+<mi>
+           a
+          </mi>
+<mi>
+           x
+          </mi>
+</msub>
+<mo>
+          →
+         </mo>
+</mover>
+</mfenced>
+<mfenced close="|" open="|">
+<mover>
+<mi>
+          a
+         </mi>
+<mo>
+          →
+         </mo>
+</mover>
+</mfenced>
+</mfrac>
+</mrow>
+</math>, <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+<mrow>
+<msub>
+<mrow>
+<mspace width="1.176em">
+</mspace>
+<mi>
+            a
+           </mi>
+</mrow>
+<mi>
+           t
+          </mi>
+</msub>
+<mo>
+          =
+         </mo>
+<mn>
+          3
+         </mn>
+<mspace width="1.911em">
+</mspace>
+<msub>
+<mrow>
+<mspace width="1.911em">
+</mspace>
+<mi>
+            b
+           </mi>
+</mrow>
+<mi>
+           t
+          </mi>
+</msub>
+<mo>
+          =
+         </mo>
+<mo>
+          −
+         </mo>
+<mn>
+          5
+         </mn>
+<mspace width="1.911em">
+</mspace>
+<msub>
+<mi>
+           c
+          </mi>
+<mi>
+           t
+          </mi>
+</msub>
+<mo>
+          =
+         </mo>
+<mn>
+          0
+         </mn>
+<mspace width="0.588em">
+</mspace>
+<msub>
+<mi>
+           d
+          </mi>
+<mi>
+           t
+          </mi>
+</msub>
+<mo>
+          =
+         </mo>
+<mn>
+          0
+         </mn>
+</mrow>
+</math>]

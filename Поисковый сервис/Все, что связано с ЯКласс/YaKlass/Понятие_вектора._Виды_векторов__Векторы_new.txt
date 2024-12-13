@@ -1,0 +1,374 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div class="gxst-title">
+     Понятие вектора.
+    </div>
+    Начертим какой-либо отрезок \(AB\). Один конец \(A\) назовём начальной точкой, а второй \(B\) — конечной точкой. Направление отрезка \(AB\) из точки \(A\) в точку \(B\) укажем с помощью стрелки. Таким образом получается направленный отрезок (см. илл. ниже).
+   </div>
+   <div align="left">
+    <div align="left">
+    </div>
+    <div align="left">
+     <video controls="controls" height="280" poster="//ykl-res.azureedge.net/905b99c2-78a2-4954-b289-21532f7781c9/v_o.png" title="Понятие вектора" width="336">
+      <source src="//ykl-res.azureedge.net/ded35242-6476-4505-a9e8-12585712ca1f/v-0mp4.mp4" type="video/mp4"/>
+      <img height="280" src="//ykl-res.azureedge.net/905b99c2-78a2-4954-b289-21532f7781c9/v_o.png" width="336"/>
+      <br/>
+      <a href="http://browsehappy.com/">
+       Ваш браузер не поддерживает HTML5 видео.
+      </a>
+     </video>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <div>
+      <div align="left">
+       <div class="gxst-definition">
+        <div>
+         <div align="left">
+          Направленный отрезок называется
+          <font class="gxst-color-emph">
+           вектором
+          </font>
+          .
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     Вектор можно обозначить:
+    </div>
+    <div align="left">
+    </div>
+    <ul>
+     <li>
+      <div align="left">
+       двумя заглавными буквами, поставив над ними стрелочку; первая буква показывает начальную точку, вторая — конечную точку, например,
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mover>
+          <mi mathvariant="italic">
+           AB
+          </mi>
+          <mo>
+           →
+          </mo>
+         </mover>
+        </mrow>
+       </math>
+       (читается: вектор \(AB\));
+       <br/>
+      </div>
+     </li>
+     <li>
+      <div align="left">
+       маленькой буквой со стрелочкой над ней, например,
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mover>
+          <mi>
+           a
+          </mi>
+          <mo>
+           →
+          </mo>
+         </mover>
+        </mrow>
+       </math>
+       (читается: вектор \(a\)).
+      </div>
+     </li>
+    </ul>
+    <div align="left">
+    </div>
+    <div align="left">
+     Если начальная и конечная точки вектора совпадают, получается нулевой вектор, который обозначается как
+     <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+      <mrow>
+       <mover>
+        <mn>
+         0
+        </mn>
+        <mo>
+         →
+        </mo>
+       </mover>
+      </mrow>
+     </math>
+     . Любую точку на плоскости можно считать нулевым вектором.
+    </div>
+    <div align="left">
+    </div>
+    <div align="left">
+     <div>
+      <div align="left">
+       Длина отрезка \(AB\) называется длиной, или модулем, вектора
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mover>
+          <mi mathvariant="italic">
+           AB
+          </mi>
+          <mo>
+           →
+          </mo>
+         </mover>
+        </mrow>
+       </math>
+       и обозначается так:
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mfenced close="|" open="|">
+          <mover>
+           <mi mathvariant="italic">
+            AB
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+         </mfenced>
+         <mspace width="0.147em">
+         </mspace>
+        </mrow>
+       </math>
+       .
+      </div>
+     </div>
+    </div>
+    <div align="left">
+     <div>
+      <div align="left">
+       Данные записи —
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mfenced close="|" open="|">
+          <mover>
+           <mi>
+            g
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+         </mfenced>
+         <mo>
+          =
+         </mo>
+         <mn>
+          1
+         </mn>
+         <mo>
+          .
+         </mo>
+         <mn>
+          5
+         </mn>
+        </mrow>
+       </math>
+       ;
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mfenced close="|" open="|">
+          <mover>
+           <mi mathvariant="italic">
+            AB
+           </mi>
+           <mo>
+            →
+           </mo>
+          </mover>
+         </mfenced>
+         <mo>
+          =
+         </mo>
+         <mn>
+          3
+         </mn>
+        </mrow>
+       </math>
+       — обозначают, что длина
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mover>
+          <mi>
+           g
+          </mi>
+          <mo>
+           →
+          </mo>
+         </mover>
+        </mrow>
+       </math>
+       равна \(1.5\) единицам, а длина
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mover>
+          <mi mathvariant="italic">
+           AB
+          </mi>
+          <mo>
+           →
+          </mo>
+         </mover>
+        </mrow>
+       </math>
+       равна \(3\) единицам.
+      </div>
+      <div align="left">
+      </div>
+      <div align="left">
+       Длина нулевого вектора равна нулю:
+       <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mfenced close="|" open="|">
+          <mover>
+           <mn>
+            0
+           </mn>
+           <mo>
+            →
+           </mo>
+          </mover>
+         </mfenced>
+         <mo>
+          =
+         </mo>
+         <mn>
+          0
+         </mn>
+        </mrow>
+       </math>
+       .
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    <div class="gxst-title">
+     Величины.
+    </div>
+    Величины, с которыми встречаемся в естественных науках, бывают
+    <strong>
+     скалярными
+    </strong>
+    или
+    <strong>
+     векторными
+    </strong>
+    .
+   </div>
+   <div>
+    <div>
+     <div>
+      <div class="gxst-definition">
+       <div>
+        <div>
+         <font class="gxst-color-emph">
+          Скалярными
+         </font>
+         называют величины, имеющие численное значение, но не имеющие направления.
+        </div>
+       </div>
+      </div>
+      Примеры — количество каких-нибудь предметов, длина, плотность.
+     </div>
+     <div>
+     </div>
+     <div>
+      <div class="gxst-definition">
+       <div>
+        <div>
+         <font class="gxst-color-emph">
+          Векторными
+         </font>
+         величинами, или векторами, называют величины, имеющие и численное значение, и направление.
+        </div>
+       </div>
+      </div>
+     </div>
+     <div>
+      Например, если сказано, что автомобиль движется со скоростью \(100\) километров в час (то есть, дано численное значение скорости), то про его скорость известно не всё, потому что неизвестно, куда, в каком направлении он двигается. Поэтому примеры векторных величин — скорость, сила, перемещение.
+     </div>
+     <div>
+     </div>
+    </div>
+    <div class="gxst-important">
+     <div class="gxst-ititle">
+      <span>
+       Обрати внимание!
+      </span>
+     </div>
+     <div class="gxst-ibody" title="Обрати внимание!">
+      Перемещением движущейся точки в данный момент времени называют вектор с началом в точке начала её движения и концом в точке её расположения в этот момент.
+     </div>
+    </div>
+    <div>
+     <div>
+      <div>
+       <img alt="Parvietojums_vekt.png" class="gxs-resource-image" height="255" src="//ykl-res.azureedge.net/42a6f9d9-f717-44d7-9e79-c98a3494bb0d/Parvietojums_vekt.png" width="470"/>
+       <div>
+       </div>
+       <div>
+        <div>
+         <strong>
+          Запомни различие между расстоянием и перемещением.
+         </strong>
+        </div>
+        <div>
+         Расстояние характеризуется только числовым значением, например, \(AB + BC + CD = 5\) км.
+        </div>
+        <div>
+         Расстояние —
+         <span class="gxst-emph">
+          скалярная
+         </span>
+         величина.
+        </div>
+        <div>
+        </div>
+        <div>
+         Перемещение — вектор
+         <math displaystyle="true" linebreakstyle="after" xmlns="http://www.w3.org/1998/Math/MathML">
+          <mrow>
+           <mover>
+            <mi mathvariant="italic">
+             AD
+            </mi>
+            <mo>
+             →
+            </mo>
+           </mover>
+          </mrow>
+         </math>
+         , соединяющий начальное и конечное положение тела, и его длина не равняется \(5\) км.
+        </div>
+        <div>
+         Перемещение —
+         <span class="gxst-emph">
+          векторная
+         </span>
+         величина.
+        </div>
+       </div>
+      </div>
+      <div>
+       <div>
+        Например, можно проехать \(5\) км и вернуться обратно, перемещение же в этом случае будет равно \(0\) и обозначится как нулевой вектор.
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  
+ </div>
+</div>

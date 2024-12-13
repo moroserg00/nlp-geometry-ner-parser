@@ -1,0 +1,433 @@
+<div class="blockbody" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+ <div class="taskhtmlwrapper" id="taskhtml" itemref="itemtitle itempos" itemscope="" itemtype="http://schema.org/CreativeWork">
+  <div>
+   <div>
+    <div>
+     <div>
+      <div class="gxst-title">
+       Площадь параллелограмма.
+      </div>
+     </div>
+    </div>
+    Необходимо определить, что такое
+    <font class="gxst-color-emph">
+     высота параллелограмма
+    </font>
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Это перпендикуляр, проведённый из любой точки стороны параллелограмма к прямой, содержащей противоположную параллельную сторону. Обычно высоту проводят из вершины параллелограмма. Так как параллелограмм имеет две пары параллельных сторон, то он имеет высоты двух различных длин.
+   </div>
+   <div>
+   </div>
+   <div>
+    Высота l, проведённая между длинными сторонами, короче высоты l, проведённой между короткими сторонами.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Pgrama_augst.png" class="gxs-resource-image" height="201" src="//ykl-res.azureedge.net/ba3a2311-0db3-41be-b9e6-166b168226cf/Pgrama_augst.png" width="441"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Так как стороны ромба одинаковы, то высоты ромба также одинаковы: l.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Romba_augst.png" class="gxs-resource-image" height="262" src="//ykl-res.azureedge.net/165a5e7a-aaa6-464e-8185-b3151e577368/Romba_augst.png" width="416"/>
+    <span class="gxst-emph">
+    </span>
+   </div>
+   <div>
+    <span>
+     <span>
+      <div class="gxst-title">
+       Площадь произвольного параллелограмма.
+      </div>
+     </span>
+    </span>
+   </div>
+   <div>
+    <div class="gxst-theory">
+     <div>
+      Площадь параллелограмма равна произведению высоты и стороны, к которой проведена высота.
+     </div>
+    </div>
+   </div>
+   <div>
+    <img alt="Pgrama_lauk1.png" class="gxs-resource-image" height="190" src="//ykl-res.azureedge.net/43780410-af43-4a74-a820-9dc92692f368/Pgrama_lauk1.png" width="511"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Проведём высоты из двух вершин l и l к стороне l .
+   </div>
+   <div>
+   </div>
+   <div>
+    Прямоугольные треугольники l и l равны (равные гипотенузы как противоположные стороны параллелограмма и равные катеты как расстояние между параллельными прямыми).
+   </div>
+   <div>
+   </div>
+   <div>
+    Параллелограмм l и прямоугольник l — равновеликие, так как состоят из равных фигур:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+   </div>
+   <div>
+    Значит, площадь параллелограмма определяется так же, как площадь прямоугольника:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+   </div>
+   <div>
+    Если обозначить сторону через l, высоту — через l, то:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Для определения площади параллелограмма можно использовать короткую сторону и высоту, проведённую к короткой стороне.
+   </div>
+   <div>
+    <div>
+     <span>
+      <div class="gxst-title">
+       Площадь ромба.
+      </div>
+     </span>
+     Диагонали ромба в точке пересечения делятся пополам, они перпендикулярны и делят ромб на четыре равных прямоугольных треугольника.
+    </div>
+    <div>
+    </div>
+   </div>
+   <div>
+    <img alt="Romba_lauk.png" class="gxs-resource-image" height="255" src="//ykl-res.azureedge.net/3ae95d4f-1917-4719-b488-5d1898b76edc/Romba_lauk.png" width="404"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Формула определения площади ромба:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+   </div>
+   <div>
+    Эта формула справедлива для определения площади любого четырёхугольника, если его диагонали перпендикулярны.
+   </div>
+   <div>
+   </div>
+   <div>
+    Так как диагонали квадрата равны, то для определения площади квадрата в формуле достаточно длины одной диагонали:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+    <div class="gxst-title">
+     Площадь произвольного треугольника.
+    </div>
+    <div>
+     <font class="gxst-color-emph">
+      <font color="#000000">
+       Так как диагональ параллелограмма делит его на два равных треугольника, то площадь треугольника равна половине площади параллелограмма.
+      </font>
+     </font>
+    </div>
+    <div>
+    </div>
+   </div>
+   <div align="left">
+    <img alt="Trijst_lauk1.png" class="gxs-resource-image" height="181" src="//ykl-res.azureedge.net/3b0f45bf-213e-4c7f-be1e-120ba30d5e70/Trijst_lauk1.png" width="486"/>
+   </div>
+   <div align="left">
+   </div>
+   <font class="gxst-color-emph">
+   </font>
+   <div align="left">
+    m
+    , где l — высота (на рисунке — l), проведённая к стороне l (на рисунке — l).
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    Для определения площади треугольника можно использовать любую сторону и высоту, проведённую к этой стороне.
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    Удобно иногда использовать формулу Герона, если известны длины всех трёх сторон треугольника.
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    <font class="gxst-color-emph">
+     <div>
+      m
+     </div>
+     <div>
+     </div>
+    </font>
+    — формула Герона, где l, l и l — стороны треугольника, l — полупериметр треугольника.
+   </div>
+   <div align="left">
+    <div class="gxst-title">
+     Площадь прямоугольного треугольника.
+    </div>
+   </div>
+   <div align="left">
+    Так как катеты прямоугольного треугольника взаимно перпендикулярны, то один катет может быть высотой, а другой катет — стороной, к которой проведена высота. Получаем формулу:
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    <font class="gxst-color-emph">
+     m
+    </font>
+    , где l и l — катеты.
+   </div>
+   <div align="left">
+   </div>
+   <div align="left">
+    Для прямоугольного треугольника также можно применять формулы площади произвольного треугольника.
+   </div>
+   <div align="left">
+    <div align="left">
+     <div class="gxst-example">
+      <div class="gxst-ititle">
+       <span>
+        Пример:
+       </span>
+      </div>
+      <div class="gxst-ibody">
+       <div align="left">
+        1. вычислим площадь треугольника со сторонами l см, l см, l см.
+       </div>
+       <div align="left">
+       </div>
+       <div align="left">
+        <div>
+         <div>
+          <div>
+           Решение:
+          </div>
+          <div>
+          </div>
+          <div>
+           m
+          </div>
+          <div>
+          </div>
+          <div>
+           Чтобы легче было вычислить корень, необходимо не перемножать все числа, а раскладывать их на множители:
+           m
+           .
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    Формулу Герона можно использовать для вычисления высоты треугольника.
+   </div>
+   <div align="left">
+    <div>
+     <div>
+      <div>
+       <div>
+        <div class="gxst-example">
+         <div class="gxst-ititle">
+          <span>
+           Пример:
+          </span>
+         </div>
+         <div class="gxst-ibody">
+          <div>
+           2. вычислим меньшую высоту треугольника, стороны которого равны l см, l см, l см.
+          </div>
+          <div>
+          </div>
+          <div>
+           Решение:
+          </div>
+          <div>
+           используем две формулы вычисления площади:
+           m
+           и
+           m
+           .
+          </div>
+          <div>
+          </div>
+          <div>
+           Меньшая высота в треугольнике — та, которая проведена к большей стороне, поэтому l l см.
+          </div>
+          <div>
+          </div>
+          <div>
+           m
+           .
+          </div>
+          <div>
+           <br/>
+           Составляем уравнение:
+          </div>
+          <div>
+          </div>
+          <div align="left">
+           m
+          </div>
+         </div>
+        </div>
+       </div>
+       <div align="left">
+        Иногда формула Герона используется для вычисления площади параллелограмма, если даны стороны параллелограмма и его диагональ.
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div align="left">
+    <div>
+     <div>
+      <div>
+       <div>
+        <div class="gxst-example">
+         <div class="gxst-ititle">
+          <span>
+           Пример:
+          </span>
+         </div>
+         <div class="gxst-ibody">
+          <div>
+           3. дан параллелограмм со сторонами l см и l см, длина диагонали равна l см. Вычислим площадь параллелограмма.
+          </div>
+          <div>
+          </div>
+          <div>
+           Решение:
+          </div>
+          <div>
+          </div>
+          <div>
+           диагональ делит параллелограмм на два равных треугольника. Используем результат, полученный в первом примере:
+          </div>
+          <div>
+          </div>
+          <div>
+           m
+           .
+          </div>
+         </div>
+        </div>
+       </div>
+       <div>
+        <div class="gxst-title">
+         Площадь трапеции.
+        </div>
+        Трапеция имеет одну пару параллельных сторон, следовательно, имеет одну высоту — перпендикуляр, проведённый между параллельными сторонами.
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+   </div>
+   <div>
+    Чаще всего высоту трапеции проводят из вершин или через точку пересечения диагоналей.
+   </div>
+   <div>
+   </div>
+   <div>
+    <img alt="Trapeces_augst.png" class="gxs-resource-image" height="216" src="//ykl-res.azureedge.net/95fc0733-497b-4195-9a9d-d5ba89c5b978/Trapeces_augst.png" width="411"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    Площадь трапеции определим как сумму площадей треугольников, на которые трапецию делит диагональ.
+    <br/>
+   </div>
+   <div>
+    <img alt="Trapeces_lauk.png" class="gxs-resource-image" height="216" src="//ykl-res.azureedge.net/97477f82-e213-4502-a799-9a9cceddee77/Trapeces_lauk.png" width="419"/>
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+   </div>
+   <div>
+   </div>
+   <div>
+    Если обозначить параллельные стороны (основания) трапеции через l и l, высоту через l, то:
+   </div>
+   <div>
+   </div>
+   <div>
+    m
+    .
+   </div>
+   <div>
+    <div class="gxst-important">
+     <div class="gxst-ititle">
+      <span>
+       Обрати внимание!
+      </span>
+     </div>
+     <div class="gxst-ibody" title="Обрати внимание!">
+      <div>
+       Важные следствия:
+      </div>
+      <div>
+      </div>
+      <div>
+       1. если высоты треугольников равны, то их площади относятся как длины оснований.
+      </div>
+      <div>
+      </div>
+      <div>
+       2. Если основания треугольников равны, то их площади относятся как длины высот.
+      </div>
+      <div>
+      </div>
+      <div>
+       3. Если высоты треугольников равны и их основания равны, то они равновелики, например, медиана делит треугольник на две равновеликие части.
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
